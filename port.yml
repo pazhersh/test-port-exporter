@@ -5,5 +5,3 @@
     prop1: file://testfile.py
     # prop2: https://raw.githubusercontent.com/pazhersh/test-port-exporter/main/testfile.py
   relations: {}
-  
-  

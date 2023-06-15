@@ -10,12 +10,3 @@
   properties:
     prop1: file://testfile2.py
   relations: {}
-- identifier: c
-  title: Some Title
-  blueprint: gittest
-  properties:
-    prop1: file://testfile3.py
-  relations: {}
-  
-
-  

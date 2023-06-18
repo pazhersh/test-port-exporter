@@ -16,3 +16,11 @@
   properties:
     prop1: regular 'ol string
   relations: {}
+
+- identifier: inner-d
+  title: Some Title
+  blueprint: gittest
+  properties:
+    prop1: file://./../testfile2.py
+  relations: {}
+  

@@ -14,7 +14,7 @@
   title: Some Title
   blueprint: gittest
   properties:
-    prop1: regular 'ol string!
+    prop1: regular 'ol string
   relations: {}
 - identifier: inner-d
   title: Some Title

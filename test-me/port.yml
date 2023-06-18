@@ -16,7 +16,6 @@
   properties:
     prop1: regular 'ol string
   relations: {}
-
 - identifier: inner-d
   title: Some Title
   blueprint: gittest

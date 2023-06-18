@@ -22,6 +22,7 @@
   properties:
     prop1: file://./../testfile2.py
   relations: {}
+  
 - identifier: inner-e
   title: Some Title
   blueprint: gittest

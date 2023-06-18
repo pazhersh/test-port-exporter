@@ -4,6 +4,7 @@
   properties:
     prop1: file://./testfile.py
   relations: {}
+  
 - identifier: inner-b
   title: Some Title
   blueprint: gittest

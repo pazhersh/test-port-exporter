@@ -5,6 +5,7 @@
   properties:
     prop1: file://testfile.py
   relations: {}
+-
 - identifier: b
   title: Some Title
   blueprint: gittest

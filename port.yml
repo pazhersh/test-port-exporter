@@ -1,15 +1,15 @@
 
-- identifier: a
-  title: Some Title
-  blueprint: gittest
-  properties:
-    prop1: file://testfile.py
-  relations: {}
--
-- identifier: b
-  title: Some Title
-  blueprint: gittest
-  properties:
-    prop1: file://testfile2.py
-  relations: {}
+# - identifier: a
+#   title: Some Title
+#   blueprint: gittest
+#   properties:
+#     prop1: file://testfile.py
+#   relations: {}
+# -
+# - identifier: b
+#   title: Some Title
+#   blueprint: gittest
+#   properties:
+#     prop1: file://testfile2.py
+#   relations: {}
 

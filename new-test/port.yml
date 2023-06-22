@@ -1,3 +1,1509 @@
+- blueprint: Service
+  identifier: scarlet-witch-service
+  title: scarlet-witch-service
+  properties:
+    latestVersion: 17.8.5
+    language: Python
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/scarlet-witch-service
+  relations:
+    using: null
+  team:
+    - The Lion King
+- blueprint: Service
+  identifier: spider-man-service
+  title: spider-man-service
+  properties:
+    latestVersion: 18.6.8
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/spider-man-service
+  relations:
+    using: wasp-service
+  team:
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: supergirl-service
+  title: supergirl-service
+  properties:
+    latestVersion: 2.12.9
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/supergirl-service
+  relations:
+    using: frog-thor-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: Service
+  identifier: black-canary-service
+  title: black-canary-service
+  properties:
+    latestVersion: 7.5.14
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-canary-service
+  relations:
+    using: null
+  team:
+    - Once Upon a Time in the West
+    - The Apartment
+    - Django Unchained
+    - The Lion King
+- blueprint: Service
+  identifier: green-arrow-service
+  title: green-arrow-service
+  properties:
+    latestVersion: 18.8.15
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/green-arrow-service
+  relations:
+    using: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: Service
+  identifier: batgirl-service
+  title: batgirl-service
+  properties:
+    latestVersion: 5.17.14
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batgirl-service
+  relations:
+    using: carol-danvers-service
+  team:
+    - There Will Be Blood
+- blueprint: Service
+  identifier: storm-service
+  title: storm-service
+  properties:
+    latestVersion: 18.10.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/storm-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: Service
+  identifier: captain-atom-service
+  title: captain-atom-service
+  properties:
+    latestVersion: 10.10.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/captain-atom-service
+  relations:
+    using: black-widow-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: Service
+  identifier: thor-service
+  title: thor-service
+  properties:
+    latestVersion: 12.12.1
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/thor-service
+  relations:
+    using: elektra-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: captain-america-service
+  title: captain-america-service
+  properties:
+    latestVersion: 15.10.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-america-service
+  relations:
+    using: null
+  team:
+    - Django Unchained
+    - There Will Be Blood
+    - The Lion King
+    - The Apartment
+- blueprint: Service
+  identifier: power-girl-service
+  title: power-girl-service
+  properties:
+    latestVersion: 16.11.8
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/power-girl-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: Service
+  identifier: invisible-woman-service
+  title: invisible-woman-service
+  properties:
+    latestVersion: 9.6.6
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/invisible-woman-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: green-lantern-service
+  title: green-lantern-service
+  properties:
+    latestVersion: 15.12.20
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/green-lantern-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: Service
+  identifier: wolverine-service
+  title: wolverine-service
+  properties:
+    latestVersion: 19.12.16
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/wolverine-service
+  relations:
+    using: supergirl-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: carol-danvers-service
+  title: carol-danvers-service
+  properties:
+    latestVersion: 18.17.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/carol-danvers-service
+  relations:
+    using: black-widow-service
+  team:
+    - There Will Be Blood
+    - 12 Years a Slave
+    - The Lion King
+    - Paths of Glory
+- blueprint: Service
+  identifier: batman-service
+  title: batman-service
+  properties:
+    latestVersion: 12.8.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batman-service
+  relations:
+    using: hawk-service
+  team:
+    - Unforgiven
+    - The Sound of Music
+    - The Lion King
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: kitty-pryde-service
+  title: kitty-pryde-service
+  properties:
+    latestVersion: 7.12.16
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/kitty-pryde-service
+  relations:
+    using: moon-knight-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: Service
+  identifier: elektra-service
+  title: elektra-service
+  properties:
+    latestVersion: 2.13.1
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/elektra-service
+  relations:
+    using: frog-thor-service
+  team:
+    - The Lion King
+    - Once Upon a Time in the West
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: black-lightning-service
+  title: black-lightning-service
+  properties:
+    latestVersion: 17.12.18
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/black-lightning-service
+  relations:
+    using: the-atom-service
+  team:
+    - The Apartment
+    - The Lion King
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: Service
+  identifier: deadpool-service
+  title: deadpool-service
+  properties:
+    latestVersion: 17.18.19
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/deadpool-service
+  relations:
+    using: elektra-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+    - There Will Be Blood
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: daredevil-service
+  title: daredevil-service
+  properties:
+    latestVersion: 4.6.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/daredevil-service
+  relations:
+    using: punisher-service
+  team:
+    - Once Upon a Time in the West
+    - Django Unchained
+    - Unforgiven
+- blueprint: Service
+  identifier: gamora-service
+  title: gamora-service
+  properties:
+    latestVersion: 2.19.13
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/gamora-service
+  relations:
+    using: iron-man-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: hawkgirl-service
+  title: hawkgirl-service
+  properties:
+    latestVersion: 3.12.4
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/hawkgirl-service
+  relations:
+    using: jade-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: Service
+  identifier: iron-man-service
+  title: iron-man-service
+  properties:
+    latestVersion: 13.19.19
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/iron-man-service
+  relations:
+    using: storm-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Lion King
+    - The Apartment
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: ice-service
+  title: ice-service
+  properties:
+    latestVersion: 14.14.6
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/ice-service
+  relations:
+    using: null
+  team:
+    - The Lion King
+    - Paths of Glory
+- blueprint: Service
+  identifier: the-flash-service
+  title: the-flash-service
+  properties:
+    latestVersion: 15.14.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-flash-service
+  relations:
+    using: null
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: she-hulk-service
+  title: she-hulk-service
+  properties:
+    latestVersion: 4.11.6
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/she-hulk-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: silver-sable-service
+  title: silver-sable-service
+  properties:
+    latestVersion: 8.19.0
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/silver-sable-service
+  relations:
+    using: spider-man-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: rogue-service
+  title: rogue-service
+  properties:
+    latestVersion: 10.14.0
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/rogue-service
+  relations:
+    using: x-23-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: the-atom-service
+  title: the-atom-service
+  properties:
+    latestVersion: 12.15.17
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/the-atom-service
+  relations:
+    using: gambit-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: frog-thor-service
+  title: frog-thor-service
+  properties:
+    latestVersion: 10.20.20
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/frog-thor-service
+  relations:
+    using: spider-man-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: Service
+  identifier: wonder-woman-service
+  title: wonder-woman-service
+  properties:
+    latestVersion: 7.14.4
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/wonder-woman-service
+  relations:
+    using: null
+  team:
+    - Unforgiven
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: hawkman-service
+  title: hawkman-service
+  properties:
+    latestVersion: 9.9.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawkman-service
+  relations:
+    using: iron-man-service
+  team:
+    - 12 Years a Slave
+    - The Sound of Music
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: doctor-strange-service
+  title: doctor-strange-service
+  properties:
+    latestVersion: 10.4.12
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/doctor-strange-service
+  relations:
+    using: wolverine-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - There Will Be Blood
+- blueprint: Service
+  identifier: black-widow-service
+  title: black-widow-service
+  properties:
+    latestVersion: 12.3.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/black-widow-service
+  relations:
+    using: silver-sable-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: Service
+  identifier: hawk-service
+  title: hawk-service
+  properties:
+    latestVersion: 11.2.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawk-service
+  relations:
+    using: captain-atom-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: huntress-service
+  title: huntress-service
+  properties:
+    latestVersion: 17.13.4
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/huntress-service
+  relations:
+    using: null
+  team:
+    - Unforgiven
+    - Django Unchained
+    - The Sound of Music
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: superman-service
+  title: superman-service
+  properties:
+    latestVersion: 9.4.12
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/superman-service
+  relations:
+    using: iron-man-service
+  team:
+    - Django Unchained
+    - Unforgiven
+    - The Lion King
+    - 12 Years a Slave
+- blueprint: Service
+  identifier: black-panther-service
+  title: black-panther-service
+  properties:
+    latestVersion: 4.19.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-panther-service
+  relations:
+    using: the-flash-service
+  team:
+    - The Sound of Music
+    - There Will Be Blood
+    - The Apartment
+- blueprint: Service
+  identifier: wasp-service
+  title: wasp-service
+  properties:
+    latestVersion: 11.14.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/wasp-service
+  relations:
+    using: frog-thor-service
+  team:
+    - Unforgiven
+    - The Sound of Music
+- blueprint: Service
+  identifier: lady-blackhawk-service
+  title: lady-blackhawk-service
+  properties:
+    latestVersion: 12.3.2
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/lady-blackhawk-service
+  relations:
+    using: wonder-woman-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - Unforgiven
+- blueprint: Service
+  identifier: martian-manhunter-service
+  title: martian-manhunter-service
+  properties:
+    latestVersion: 12.12.14
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/martian-manhunter-service
+  relations:
+    using: thor-service
+  team:
+    - Full Metal Jacket
+    - Unforgiven
+    - Django Unchained
+    - The Lion King
+- blueprint: Service
+  identifier: x-23-service
+  title: x-23-service
+  properties:
+    latestVersion: 17.20.2
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/x-23-service
+  relations:
+    using: hawk-service
+  team:
+    - 12 Years a Slave
+    - The Lion King
+    - The Sound of Music
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: moon-knight-service
+  title: moon-knight-service
+  properties:
+    latestVersion: 18.19.9
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/moon-knight-service
+  relations:
+    using: superman-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: jade-service
+  title: jade-service
+  properties:
+    latestVersion: 4.18.14
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/jade-service
+  relations:
+    using: daredevil-service
+  team:
+    - There Will Be Blood
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: Service
+  identifier: punisher-service
+  title: punisher-service
+  properties:
+    latestVersion: 9.2.20
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/punisher-service
+  relations:
+    using: jade-service
+  team:
+    - The Lion King
+    - Paths of Glory
+    - Unforgiven
+    - The Sound of Music
+- blueprint: Service
+  identifier: aquaman-service
+  title: aquaman-service
+  properties:
+    latestVersion: 19.10.1
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/aquaman-service
+  relations:
+    using: doctor-strange-service
+  team:
+    - Django Unchained
+    - The Lion King
+- blueprint: Service
+  identifier: cypher-service
+  title: cypher-service
+  properties:
+    latestVersion: 6.12.12
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/cypher-service
+  relations:
+    using: elektra-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: gambit-service
+  title: gambit-service
+  properties:
+    latestVersion: 11.13.19
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/gambit-service
+  relations:
+    using: superman-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: Service
+  identifier: blink-service
+  title: blink-service
+  properties:
+    latestVersion: 10.19.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/blink-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - Full Metal Jacket
+    - There Will Be Blood
+    - Paths of Glory
+    - The Sound of Music
+
+- blueprint: Cluster
+  identifier: llunca-de-gallina
+  title: llunca-de-gallina
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/2760,235285,809611,255326,841529,467089,137930,577523,54734,392633
+    studio: Giant Schnauzer
+    kconfig: Affenpinscher
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: boquerones-al-vinagre
+  title: boquerones-al-vinagre
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/624150,445218,535209,137757,230096,481957,166211,148004,723086,140049
+    studio: Garafian Shepherd
+    kconfig: Denmark Feist
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: edamame
+  title: edamame
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/199984,487857,280003,814256,740490,348297,892518,373326,226366,582128
+    studio: Hygen Hound
+    kconfig: Boykin Spaniel
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: milanesas
+  title: milanesas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/339079,458783,296064,48515,904713,408150,896207,774873,506342,415041
+    studio: English Toy Terrier
+    kconfig: Denmark Feist
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: bocadillo-de-calamares
+  title: bocadillo-de-calamares
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/24355,580303,331088,459973,899997,989887,656178,300813,125535,185242
+    studio: Hygen Hound
+    kconfig: Doberman Pinscher
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: caraotas-negras
+  title: caraotas-negras
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/551210,814404,95946,858698,600490,20031,624245,682293,174152,930247
+    studio: Giant Schnauzer
+    kconfig: Kishu
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: bondiola
+  title: bondiola
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/687927,68119,169768,66424,701319,806466,155890,909127,389364,950077
+    studio: Affenpinscher
+    kconfig: Basset Fauve de Bretagne
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: patacones
+  title: patacones
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/457139,429817,191504,679395,891168,725839,643545,225900,510046,27476
+    studio: Golden Retriever
+    kconfig: Golden Retriever
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: donburi
+  title: donburi
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/12532,651674,834797,781008,339505,99104,164802,485371,991277,896437
+    studio: Basset Fauve de Bretagne
+    kconfig: French Poodle
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: sopa-de-patas
+  title: sopa-de-patas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/785170,735296,421637,684702,118343,635635,359366,340407,343709,903368
+    studio: Garafian Shepherd
+    kconfig: Jack Russell Terrier
+  relations: {}
+  team: []
+- blueprint: Env
+  identifier: roy-orbison
+  title: roy-orbison
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,n,0,q,6,7,7,w,w,y
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: elvis-presley
+  title: elvis-presley
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/r,9,2,5,z,s,4,7,j,h
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: mavis-staples
+  title: mavis-staples
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/h,r,w,5,h,r,z,t,4,8
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: art-garfunkel
+  title: art-garfunkel
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/w,2,v,u,w,b,y,7,s,n
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: morrissey
+  title: morrissey
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,4,k,d,3,1,6,b,u,z
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: van-morrison
+  title: van-morrison
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/l,l,8,b,7,6,3,5,i,e
+  relations:
+    deployedAt: patacones
+  team: []
+- blueprint: Env
+  identifier: mick-jagger
+  title: mick-jagger
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/6,k,w,p,j,3,l,i,y,q
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: david-bowie
+  title: david-bowie
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/w,m,5,l,1,4,7,8,g,7
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: john-lee-hooker
+  title: john-lee-hooker
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/z,3,2,s,8,q,7,k,5,0
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: sam-moore
+  title: sam-moore
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/g,3,z,v,l,z,5,2,9,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: levon-helm
+  title: levon-helm
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,w,1,8,7,4,9,3,v,d
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: dusty-springfield
+  title: dusty-springfield
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,4,t,3,8,0,7,q,n,3
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: neil-young
+  title: neil-young
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,t,7,6,d,9,p,2,2,q
+  relations:
+    deployedAt: bocadillo-de-calamares
+  team: []
+- blueprint: Env
+  identifier: roger-daltrey
+  title: roger-daltrey
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,7,g,5,y,2,5,2,4,2
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: christina-aguilera
+  title: christina-aguilera
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/s,5,7,y,d,5,4,1,n,1
+  relations:
+    deployedAt: patacones
+  team: []
+- blueprint: Env
+  identifier: donny-hathaway
+  title: donny-hathaway
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,g,9,6,f,5,3,f,5,5
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: kurt-cobain
+  title: kurt-cobain
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,m,i,a,6,h,2,c,0,4
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: frankie-valli
+  title: frankie-valli
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,l,o,m,2,5,r,1,w,s
+  relations:
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: bob-marley
+  title: bob-marley
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/i,r,x,a,t,v,f,s,6,s
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: marvin-gaye
+  title: marvin-gaye
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,7,1,1,1,5,h,8,8,7
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: bobby-blue-bland
+  title: bobby-blue-bland
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/5,l,k,7,7,3,j,5,d,1
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: patsy-cline
+  title: patsy-cline
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,0,i,e,f,a,3,5,3,1
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: bjork
+  title: bjork
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/w,2,4,k,k,7,q,2,4,1
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: bono
+  title: bono
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,c,5,6,l,e,r,d,t,5
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: don-henley
+  title: don-henley
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/e,2,7,7,c,1,9,a,e,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: buddy-holly
+  title: buddy-holly
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/s,p,g,c,q,j,7,g,e,6
+  relations:
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: chuck-berry
+  title: chuck-berry
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/2,7,1,v,5,u,w,f,w,q
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: michael-jackson
+  title: michael-jackson
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/b,5,o,7,5,1,9,0,8,9
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: patti-la-belle
+  title: patti-la-belle
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,b,s,x,x,h,8,0,0,4
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: dolly-parton
+  title: dolly-parton
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/g,1,v,1,1,o,q,p,i,p
+  relations:
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: al-green
+  title: al-green
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,8,6,2,5,g,s,1,o,4
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: prince
+  title: prince
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,b,k,g,o,3,r,8,f,q
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: iggy-pop
+  title: iggy-pop
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/0,n,5,6,2,5,t,7,3,2
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: curtis-mayfield
+  title: curtis-mayfield
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/k,6,7,z,3,s,8,7,e,4
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: toots-hibbert
+  title: toots-hibbert
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,3,n,5,5,l,1,8,2,3
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: paul-rodgers
+  title: paul-rodgers
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,7,n,8,g,0,d,z,3,6
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: karen-carpenter
+  title: karen-carpenter
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,n,1,1,k,4,t,u,2,9
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: bonnie-raitt
+  title: bonnie-raitt
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,k,8,a,1,4,0,4,u,b
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: little-richard
+  title: little-richard
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/2,r,5,s,h,1,4,v,m,l
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: john-fogerty
+  title: john-fogerty
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/5,8,6,9,g,q,k,w,7,8
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: muddy-waters
+  title: muddy-waters
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/7,t,3,z,d,5,4,h,7,j
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: sly-stone
+  title: sly-stone
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,3,o,2,6,p,d,e,f,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: patti-smith
+  title: patti-smith
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,b,x,w,l,4,g,h,8,y
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: wilson-pickett
+  title: wilson-pickett
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/4,z,4,h,v,6,i,6,t,l
+  relations:
+    deployedAt: bocadillo-de-calamares
+  team: []
+- blueprint: Env
+  identifier: mariah-carey
+  title: mariah-carey
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,6,3,d,w,9,6,j,b,6
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: robert-plant
+  title: robert-plant
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/6,r,2,s,0,3,z,0,q,4
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: lou-reed
+  title: lou-reed
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,2,q,q,q,t,2,5,l,2
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: howlin-wolf
+  title: howlin-wolf
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/y,q,n,3,4,a,d,9,u,9
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: thom-yorke
+  title: thom-yorke
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/n,7,4,a,7,3,4,5,h,j
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: jackie-wilson
+  title: jackie-wilson
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/h,o,3,b,5,c,f,7,6,c
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Package
+  identifier: smart-focus
+  properties:
+    docsUrl: https://et.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-fiesta
+  properties:
+    docsUrl: https://labore.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mazda-challenger
+  properties:
+    docsUrl: http://labore.io
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: hyundai-roadster
+  properties:
+    docsUrl: http://asperiores.info
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-1
+  properties:
+    docsUrl: http://aliquid.com
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-challenger
+  properties:
+    docsUrl: http://rerum.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: kia-spyder
+  properties:
+    docsUrl: https://sit.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mini-explorer
+  properties:
+    docsUrl: https://sunt.biz
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-corvette
+  properties:
+    docsUrl: https://id.dev
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: chevrolet-malibu
+  properties:
+    docsUrl: https://sequi.name
+    packageManager: PIP
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: ford-camry
+  properties:
+    docsUrl: http://doloribus.org
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-spyder
+  properties:
+    docsUrl: https://id.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-volt
+  properties:
+    docsUrl: https://labore.dev
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: lamborghini-prius
+  properties:
+    docsUrl: http://beatae.org
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: rolls-royce-xc-90
+  properties:
+    docsUrl: https://ducimus.biz
+    packageManager: Maven
+  relations: {}
+  team: []
 - blueprint: PackageVersion
   identifier: smart-focus@1-4-16
   title: smart-focus@1-4-16
@@ -3904,108 +5410,3303 @@
   relations:
     versionOf: rolls-royce-xc-90
   team: []
-- blueprint: Package
-  identifier: smart-focus
+
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@patti-la-belle87
+  title: batgirl-service@patti-la-belle
   properties:
-    docsUrl: https://et.dev
-    packageManager: Nuget
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: nissan-fiesta
+    appUrl: http://laborum.info
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 2.47
+    memUsed: 0.07
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@sly-stone19
+  title: green-lantern-service@sly-stone
   properties:
-    docsUrl: https://labore.name
-    packageManager: Yarn
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: mazda-challenger
+    appUrl: https://quasi.org
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.15
+    memUsed: 2.88
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sly-stone
+    instanceOf: green-lantern-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: storm-service@sly-stone148
+  title: storm-service@sly-stone
   properties:
-    docsUrl: http://labore.io
-    packageManager: Nuget
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: hyundai-roadster
+    appUrl: http://et.biz
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.71
+    memUsed: 1.43
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sly-stone
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@al-green133
+  title: wolverine-service@al-green
   properties:
-    docsUrl: http://asperiores.info
-    packageManager: NPM
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: bugatti-1
+    appUrl: http://nostrum.name
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.43
+    memUsed: 0.43
+    studio: Hygen Hound
+  relations:
+    deployedAt: al-green
+    instanceOf: wolverine-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@bobby-blue-bland126
+  title: batgirl-service@bobby-blue-bland
   properties:
-    docsUrl: http://aliquid.com
-    packageManager: Yarn
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: toyota-challenger
+    appUrl: http://quaerat.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.9
+    memUsed: 1.02
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@al-green61
+  title: invisible-woman-service@al-green
   properties:
-    docsUrl: http://rerum.dev
-    packageManager: Nuget
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: kia-spyder
+    appUrl: http://vitae.biz
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.72
+    memUsed: 0.07
+    studio: Hygen Hound
+  relations:
+    deployedAt: al-green
+    instanceOf: invisible-woman-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@chuck-berry162
+  title: wolverine-service@chuck-berry
   properties:
-    docsUrl: https://sit.name
-    packageManager: Yarn
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: mini-explorer
+    appUrl: https://omnis.org
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 1.55
+    memUsed: 1.5
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: chuck-berry
+    instanceOf: wolverine-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@kurt-cobain197
+  title: the-atom-service@kurt-cobain
   properties:
-    docsUrl: https://sunt.biz
-    packageManager: Maven
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: bugatti-corvette
+    appUrl: https://deserunt.info
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.42
+    memUsed: 0.05
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: kurt-cobain
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: hawk-service@sam-moore112
+  title: hawk-service@sam-moore
   properties:
-    docsUrl: https://id.dev
-    packageManager: Yarn
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: chevrolet-malibu
+    appUrl: http://fugiat.io
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.79
+    memUsed: 0.5
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sam-moore
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@mick-jagger150
+  title: frog-thor-service@mick-jagger
   properties:
-    docsUrl: https://sequi.name
-    packageManager: PIP
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: ford-camry
+    appUrl: http://vitae.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.65
+    memUsed: 0.41
+    studio: Affenpinscher
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: black-panther-service@toots-hibbert107
+  title: black-panther-service@toots-hibbert
   properties:
-    docsUrl: http://doloribus.org
-    packageManager: Nuget
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: nissan-spyder
+    appUrl: https://nihil.net
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.67
+    memUsed: 0.69
+    studio: English Toy Terrier
+  relations:
+    deployedAt: toots-hibbert
+    instanceOf: black-panther-service
+  team:
+    - The Sound of Music
+    - There Will Be Blood
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@toots-hibbert163
+  title: she-hulk-service@toots-hibbert
   properties:
-    docsUrl: https://id.dev
-    packageManager: Nuget
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: toyota-volt
+    appUrl: https://consequatur.io
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.81
+    memUsed: 2.92
+    studio: English Toy Terrier
+  relations:
+    deployedAt: toots-hibbert
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@dusty-springfield191
+  title: the-atom-service@dusty-springfield
   properties:
-    docsUrl: https://labore.dev
-    packageManager: NPM
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: lamborghini-prius
+    appUrl: https://enim.name
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.79
+    memUsed: 0.56
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@bonnie-raitt37
+  title: spider-man-service@bonnie-raitt
   properties:
-    docsUrl: http://beatae.org
-    packageManager: Maven
-  relations: {}
-  team: []
-- blueprint: Package
-  identifier: rolls-royce-xc-90
+    appUrl: https://excepturi.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.23
+    memUsed: 1.17
+    studio: Affenpinscher
+  relations:
+    deployedAt: bonnie-raitt
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@bob-marley22
+  title: spider-man-service@bob-marley
   properties:
-    docsUrl: https://ducimus.biz
-    packageManager: Maven
-  relations: {}
-  team: []
+    appUrl: https://commodi.net
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.15
+    memUsed: 0.14
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@dusty-springfield27
+  title: captain-atom-service@dusty-springfield
+  properties:
+    appUrl: http://dicta.dev
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 1.59
+    memUsed: 2.41
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@don-henley31
+  title: spider-man-service@don-henley
+  properties:
+    appUrl: http://at.com
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.08
+    memUsed: 1.25
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: don-henley
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@curtis-mayfield171
+  title: captain-atom-service@curtis-mayfield
+  properties:
+    appUrl: http://magnam.io
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.29
+    memUsed: 0.98
+    studio: Hygen Hound
+  relations:
+    deployedAt: curtis-mayfield
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: huntress-service@buddy-holly116
+  title: huntress-service@buddy-holly
+  properties:
+    appUrl: https://id.io
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.15
+    memUsed: 1.76
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: buddy-holly
+    instanceOf: huntress-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - The Sound of Music
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@david-bowie43
+  title: green-arrow-service@david-bowie
+  properties:
+    appUrl: http://neque.name
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.9
+    memUsed: 0.41
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: david-bowie
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@neil-young48
+  title: captain-america-service@neil-young
+  properties:
+    appUrl: http://non.name
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.82
+    memUsed: 1.06
+    studio: Hygen Hound
+  relations:
+    deployedAt: neil-young
+    instanceOf: captain-america-service
+  team:
+    - Django Unchained
+    - There Will Be Blood
+    - The Lion King
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@art-garfunkel121
+  title: she-hulk-service@art-garfunkel
+  properties:
+    appUrl: http://quas.net
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.3
+    memUsed: 1.33
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@mick-jagger128
+  title: she-hulk-service@mick-jagger
+  properties:
+    appUrl: http://maiores.name
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.51
+    memUsed: 0.04
+    studio: Affenpinscher
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@christina-aguilera168
+  title: black-widow-service@christina-aguilera
+  properties:
+    appUrl: http://beatae.name
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.04
+    memUsed: 1.35
+    studio: Golden Retriever
+  relations:
+    deployedAt: christina-aguilera
+    instanceOf: black-widow-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@al-green63
+  title: captain-atom-service@al-green
+  properties:
+    appUrl: http://cupiditate.name
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.39
+    memUsed: 2.45
+    studio: Hygen Hound
+  relations:
+    deployedAt: al-green
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@dusty-springfield81
+  title: scarlet-witch-service@dusty-springfield
+  properties:
+    appUrl: https://neque.name
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.51
+    memUsed: 1.08
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@robert-plant42
+  title: captain-atom-service@robert-plant
+  properties:
+    appUrl: https://voluptate.biz
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.14
+    memUsed: 0.45
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: robert-plant
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@buddy-holly157
+  title: the-atom-service@buddy-holly
+  properties:
+    appUrl: http://occaecati.name
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.72
+    memUsed: 0.01
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: buddy-holly
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: ice-service@kurt-cobain103
+  title: ice-service@kurt-cobain
+  properties:
+    appUrl: http://ullam.org
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.04
+    memUsed: 1.11
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: kurt-cobain
+    instanceOf: ice-service
+  team:
+    - The Lion King
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@mavis-staples193
+  title: she-hulk-service@mavis-staples
+  properties:
+    appUrl: https://qui.org
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1
+    memUsed: 0.75
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: mavis-staples
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@robert-plant97
+  title: wolverine-service@robert-plant
+  properties:
+    appUrl: http://deserunt.name
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 0.55
+    memUsed: 1.09
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: robert-plant
+    instanceOf: wolverine-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@dusty-springfield159
+  title: kitty-pryde-service@dusty-springfield
+  properties:
+    appUrl: http://omnis.dev
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.25
+    memUsed: 2.52
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@buddy-holly184
+  title: black-widow-service@buddy-holly
+  properties:
+    appUrl: https://deserunt.io
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.51
+    memUsed: 1.76
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: buddy-holly
+    instanceOf: black-widow-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@elvis-presley154
+  title: spider-man-service@elvis-presley
+  properties:
+    appUrl: http://eos.com
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.45
+    memUsed: 2.25
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@buddy-holly114
+  title: silver-sable-service@buddy-holly
+  properties:
+    appUrl: https://occaecati.io
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 1.31
+    memUsed: 3.92
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: buddy-holly
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@donny-hathaway74
+  title: power-girl-service@donny-hathaway
+  properties:
+    appUrl: https://sequi.io
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.42
+    memUsed: 0.94
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: donny-hathaway
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@bob-marley38
+  title: invisible-woman-service@bob-marley
+  properties:
+    appUrl: https://neque.io
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 0.84
+    memUsed: 0.68
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: invisible-woman-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@morrissey53
+  title: batgirl-service@morrissey
+  properties:
+    appUrl: https://et.io
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.57
+    memUsed: 2.74
+    studio: Affenpinscher
+  relations:
+    deployedAt: morrissey
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@iggy-pop58
+  title: spider-man-service@iggy-pop
+  properties:
+    appUrl: https://est.biz
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.24
+    memUsed: 1.71
+    studio: Affenpinscher
+  relations:
+    deployedAt: iggy-pop
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@david-bowie35
+  title: batgirl-service@david-bowie
+  properties:
+    appUrl: http://nostrum.org
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.07
+    memUsed: 1.1
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: david-bowie
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@jackie-wilson149
+  title: spider-man-service@jackie-wilson
+  properties:
+    appUrl: http://quas.com
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.73
+    memUsed: 0.28
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@morrissey145
+  title: frog-thor-service@morrissey
+  properties:
+    appUrl: https://voluptatem.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.91
+    memUsed: 1.93
+    studio: Affenpinscher
+  relations:
+    deployedAt: morrissey
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: rogue-service@robert-plant173
+  title: rogue-service@robert-plant
+  properties:
+    appUrl: https://tenetur.net
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.02
+    memUsed: 1.95
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: robert-plant
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@michael-jackson1
+  title: kitty-pryde-service@michael-jackson
+  properties:
+    appUrl: http://error.dev
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.97
+    memUsed: 1
+    studio: English Toy Terrier
+  relations:
+    deployedAt: michael-jackson
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: hawk-service@marvin-gaye179
+  title: hawk-service@marvin-gaye
+  properties:
+    appUrl: http://possimus.biz
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.2
+    memUsed: 0.63
+    studio: Affenpinscher
+  relations:
+    deployedAt: marvin-gaye
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: rogue-service@neil-young189
+  title: rogue-service@neil-young
+  properties:
+    appUrl: https://consectetur.com
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.97
+    memUsed: 1.08
+    studio: Hygen Hound
+  relations:
+    deployedAt: neil-young
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: storm-service@howlin-wolf165
+  title: storm-service@howlin-wolf
+  properties:
+    appUrl: http://aut.io
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.69
+    memUsed: 0.19
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: howlin-wolf
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@levon-helm98
+  title: frog-thor-service@levon-helm
+  properties:
+    appUrl: http://reiciendis.biz
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.57
+    memUsed: 1.38
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: levon-helm
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@donny-hathaway59
+  title: supergirl-service@donny-hathaway
+  properties:
+    appUrl: https://unde.net
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.3
+    memUsed: 1.36
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: donny-hathaway
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@mavis-staples186
+  title: the-atom-service@mavis-staples
+  properties:
+    appUrl: http://aut.org
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.78
+    memUsed: 0.39
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: mavis-staples
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@van-morrison54
+  title: green-arrow-service@van-morrison
+  properties:
+    appUrl: https://quae.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.2
+    memUsed: 2.58
+    studio: Golden Retriever
+  relations:
+    deployedAt: van-morrison
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@bobby-blue-bland138
+  title: black-widow-service@bobby-blue-bland
+  properties:
+    appUrl: https://beatae.name
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.43
+    memUsed: 2.53
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: black-widow-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@neil-young40
+  title: scarlet-witch-service@neil-young
+  properties:
+    appUrl: http://consequatur.io
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.77
+    memUsed: 3.74
+    studio: Hygen Hound
+  relations:
+    deployedAt: neil-young
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@bonnie-raitt132
+  title: kitty-pryde-service@bonnie-raitt
+  properties:
+    appUrl: https://quae.com
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.24
+    memUsed: 0.01
+    studio: Affenpinscher
+  relations:
+    deployedAt: bonnie-raitt
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: rogue-service@toots-hibbert156
+  title: rogue-service@toots-hibbert
+  properties:
+    appUrl: http://id.biz
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.7
+    memUsed: 0.21
+    studio: English Toy Terrier
+  relations:
+    deployedAt: toots-hibbert
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@bobby-blue-bland139
+  title: silver-sable-service@bobby-blue-bland
+  properties:
+    appUrl: https://nostrum.dev
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.5
+    memUsed: 3.75
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@karen-carpenter15
+  title: spider-man-service@karen-carpenter
+  properties:
+    appUrl: https://quia.biz
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 0.48
+    memUsed: 0.21
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: hawk-service@elvis-presley198
+  title: hawk-service@elvis-presley
+  properties:
+    appUrl: https://voluptate.dev
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.68
+    memUsed: 0.35
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@patti-smith130
+  title: silver-sable-service@patti-smith
+  properties:
+    appUrl: https://nemo.name
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.72
+    memUsed: 2.58
+    studio: Affenpinscher
+  relations:
+    deployedAt: patti-smith
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@muddy-waters64
+  title: black-canary-service@muddy-waters
+  properties:
+    appUrl: http://magnam.io
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.25
+    memUsed: 1.53
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: muddy-waters
+    instanceOf: black-canary-service
+  team:
+    - Once Upon a Time in the West
+    - The Apartment
+    - Django Unchained
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: gamora-service@curtis-mayfield125
+  title: gamora-service@curtis-mayfield
+  properties:
+    appUrl: http://et.dev
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.22
+    memUsed: 1.48
+    studio: Hygen Hound
+  relations:
+    deployedAt: curtis-mayfield
+    instanceOf: gamora-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@john-lee-hooker153
+  title: hawkgirl-service@john-lee-hooker
+  properties:
+    appUrl: http://asperiores.org
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 1.81
+    memUsed: 2.54
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: john-lee-hooker
+    instanceOf: hawkgirl-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@dusty-springfield176
+  title: power-girl-service@dusty-springfield
+  properties:
+    appUrl: https://voluptatem.name
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 2.02
+    memUsed: 0.3
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: thor-service@bobby-blue-bland52
+  title: thor-service@bobby-blue-bland
+  properties:
+    appUrl: https://facilis.dev
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 1.34
+    memUsed: 0.17
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: thor-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: hawk-service@al-green167
+  title: hawk-service@al-green
+  properties:
+    appUrl: http://asperiores.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.24
+    memUsed: 1.52
+    studio: Hygen Hound
+  relations:
+    deployedAt: al-green
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@little-richard79
+  title: supergirl-service@little-richard
+  properties:
+    appUrl: https://tenetur.name
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 0.28
+    memUsed: 0.64
+    studio: Affenpinscher
+  relations:
+    deployedAt: little-richard
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: black-lightning-service@wilson-pickett199
+  title: black-lightning-service@wilson-pickett
+  properties:
+    appUrl: https://voluptatibus.biz
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.69
+    memUsed: 3.72
+    studio: Hygen Hound
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: black-lightning-service
+  team:
+    - The Apartment
+    - The Lion King
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@sly-stone50
+  title: captain-atom-service@sly-stone
+  properties:
+    appUrl: http://aut.biz
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.52
+    memUsed: 0.63
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sly-stone
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@curtis-mayfield20
+  title: green-arrow-service@curtis-mayfield
+  properties:
+    appUrl: https://repellat.org
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 1.42
+    memUsed: 2.37
+    studio: Hygen Hound
+  relations:
+    deployedAt: curtis-mayfield
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@paul-rodgers75
+  title: hawkgirl-service@paul-rodgers
+  properties:
+    appUrl: http://error.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.88
+    memUsed: 0.71
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: paul-rodgers
+    instanceOf: hawkgirl-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: elektra-service@elvis-presley85
+  title: elektra-service@elvis-presley
+  properties:
+    appUrl: https://est.net
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.19
+    memUsed: 0.43
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: elektra-service
+  team:
+    - The Lion King
+    - Once Upon a Time in the West
+    - The Apartment
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@sly-stone106
+  title: black-widow-service@sly-stone
+  properties:
+    appUrl: https://voluptatem.com
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.77
+    memUsed: 1.86
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sly-stone
+    instanceOf: black-widow-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@bob-marley73
+  title: hawkgirl-service@bob-marley
+  properties:
+    appUrl: http://quos.info
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.46
+    memUsed: 2.05
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: hawkgirl-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@lou-reed82
+  title: supergirl-service@lou-reed
+  properties:
+    appUrl: https://laborum.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.8
+    memUsed: 2.22
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: lou-reed
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: rogue-service@mariah-carey142
+  title: rogue-service@mariah-carey
+  properties:
+    appUrl: http://labore.dev
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 2
+    memUsed: 0.79
+    studio: Affenpinscher
+  relations:
+    deployedAt: mariah-carey
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@kurt-cobain5
+  title: batgirl-service@kurt-cobain
+  properties:
+    appUrl: http://sit.info
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.35
+    memUsed: 0.81
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: kurt-cobain
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@art-garfunkel90
+  title: frog-thor-service@art-garfunkel
+  properties:
+    appUrl: http://nostrum.info
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 1.65
+    memUsed: 0.37
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@donny-hathaway56
+  title: scarlet-witch-service@donny-hathaway
+  properties:
+    appUrl: http://maiores.biz
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.79
+    memUsed: 3.39
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: donny-hathaway
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@howlin-wolf134
+  title: she-hulk-service@howlin-wolf
+  properties:
+    appUrl: http://ipsum.name
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.61
+    memUsed: 0.27
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: howlin-wolf
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@patsy-cline109
+  title: frog-thor-service@patsy-cline
+  properties:
+    appUrl: https://occaecati.name
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 1.23
+    memUsed: 0.45
+    studio: Hygen Hound
+  relations:
+    deployedAt: patsy-cline
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: hawk-service@levon-helm169
+  title: hawk-service@levon-helm
+  properties:
+    appUrl: https://ipsum.dev
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.22
+    memUsed: 1.12
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: levon-helm
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@john-fogerty151
+  title: silver-sable-service@john-fogerty
+  properties:
+    appUrl: https://labore.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.1
+    memUsed: 2.35
+    studio: English Toy Terrier
+  relations:
+    deployedAt: john-fogerty
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: daredevil-service@bob-marley83
+  title: daredevil-service@bob-marley
+  properties:
+    appUrl: http://excepturi.info
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 0.83
+    memUsed: 0.17
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: daredevil-service
+  team:
+    - Once Upon a Time in the West
+    - Django Unchained
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: daredevil-service@mavis-staples102
+  title: daredevil-service@mavis-staples
+  properties:
+    appUrl: https://consectetur.biz
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.68
+    memUsed: 0.94
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: mavis-staples
+    instanceOf: daredevil-service
+  team:
+    - Once Upon a Time in the West
+    - Django Unchained
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: storm-service@john-lee-hooker194
+  title: storm-service@john-lee-hooker
+  properties:
+    appUrl: https://deserunt.biz
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.95
+    memUsed: 0.21
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: john-lee-hooker
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: thor-service@iggy-pop127
+  title: thor-service@iggy-pop
+  properties:
+    appUrl: http://cupiditate.com
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 2.31
+    memUsed: 1.14
+    studio: Affenpinscher
+  relations:
+    deployedAt: iggy-pop
+    instanceOf: thor-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@elvis-presley68
+  title: the-flash-service@elvis-presley
+  properties:
+    appUrl: http://necessitatibus.io
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.45
+    memUsed: 0.22
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: the-flash-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: ice-service@john-fogerty101
+  title: ice-service@john-fogerty
+  properties:
+    appUrl: https://tenetur.name
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.33
+    memUsed: 0.49
+    studio: English Toy Terrier
+  relations:
+    deployedAt: john-fogerty
+    instanceOf: ice-service
+  team:
+    - The Lion King
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@patti-smith95
+  title: frog-thor-service@patti-smith
+  properties:
+    appUrl: https://doloribus.biz
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.34
+    memUsed: 0.28
+    studio: Affenpinscher
+  relations:
+    deployedAt: patti-smith
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@kurt-cobain108
+  title: wolverine-service@kurt-cobain
+  properties:
+    appUrl: https://fugiat.biz
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.39
+    memUsed: 0.27
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: kurt-cobain
+    instanceOf: wolverine-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: storm-service@karen-carpenter45
+  title: storm-service@karen-carpenter
+  properties:
+    appUrl: http://cupiditate.biz
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 3.43
+    memUsed: 1.8
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: rogue-service@muddy-waters172
+  title: rogue-service@muddy-waters
+  properties:
+    appUrl: http://magnam.biz
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.01
+    memUsed: 0.97
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: muddy-waters
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@morrissey32
+  title: power-girl-service@morrissey
+  properties:
+    appUrl: http://doloribus.biz
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.82
+    memUsed: 1.72
+    studio: Affenpinscher
+  relations:
+    deployedAt: morrissey
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: rogue-service@bob-marley141
+  title: rogue-service@bob-marley
+  properties:
+    appUrl: https://est.com
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.67
+    memUsed: 0.66
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: thor-service@bono9
+  title: thor-service@bono
+  properties:
+    appUrl: http://voluptatem.name
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 2.1
+    memUsed: 0.99
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bono
+    instanceOf: thor-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: huntress-service@bob-marley144
+  title: huntress-service@bob-marley
+  properties:
+    appUrl: https://esse.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.91
+    memUsed: 0.97
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: huntress-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - The Sound of Music
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@frankie-valli104
+  title: black-widow-service@frankie-valli
+  properties:
+    appUrl: http://nihil.org
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.95
+    memUsed: 1
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: frankie-valli
+    instanceOf: black-widow-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@al-green117
+  title: silver-sable-service@al-green
+  properties:
+    appUrl: https://in.io
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.6
+    memUsed: 1
+    studio: Hygen Hound
+  relations:
+    deployedAt: al-green
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@thom-yorke67
+  title: captain-atom-service@thom-yorke
+  properties:
+    appUrl: http://ipsum.net
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.52
+    memUsed: 0.67
+    studio: English Toy Terrier
+  relations:
+    deployedAt: thom-yorke
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@bob-marley94
+  title: batgirl-service@bob-marley
+  properties:
+    appUrl: http://rerum.com
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.58
+    memUsed: 0.18
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@wilson-pickett10
+  title: batgirl-service@wilson-pickett
+  properties:
+    appUrl: http://neque.dev
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.43
+    memUsed: 0.9
+    studio: Hygen Hound
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@john-lee-hooker55
+  title: captain-atom-service@john-lee-hooker
+  properties:
+    appUrl: http://ipsum.name
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.83
+    memUsed: 0.87
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: john-lee-hooker
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@karen-carpenter143
+  title: black-canary-service@karen-carpenter
+  properties:
+    appUrl: http://ducimus.name
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.93
+    memUsed: 1.16
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: black-canary-service
+  team:
+    - Once Upon a Time in the West
+    - The Apartment
+    - Django Unchained
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: ice-service@mick-jagger84
+  title: ice-service@mick-jagger
+  properties:
+    appUrl: https://id.dev
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.15
+    memUsed: 0.26
+    studio: Affenpinscher
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: ice-service
+  team:
+    - The Lion King
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: iron-man-service@bobby-blue-bland99
+  title: iron-man-service@bobby-blue-bland
+  properties:
+    appUrl: http://nemo.dev
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.71
+    memUsed: 0.08
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: iron-man-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Lion King
+    - The Apartment
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@roy-orbison46
+  title: invisible-woman-service@roy-orbison
+  properties:
+    appUrl: https://commodi.org
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.35
+    memUsed: 0.25
+    studio: Hygen Hound
+  relations:
+    deployedAt: roy-orbison
+    instanceOf: invisible-woman-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@mariah-carey195
+  title: silver-sable-service@mariah-carey
+  properties:
+    appUrl: http://aliquid.com
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 0.94
+    memUsed: 0.62
+    studio: Affenpinscher
+  relations:
+    deployedAt: mariah-carey
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: hawk-service@john-lee-hooker129
+  title: hawk-service@john-lee-hooker
+  properties:
+    appUrl: https://magnam.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.93
+    memUsed: 1.11
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: john-lee-hooker
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@bjork178
+  title: silver-sable-service@bjork
+  properties:
+    appUrl: http://ipsum.dev
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.53
+    memUsed: 0.81
+    studio: English Toy Terrier
+  relations:
+    deployedAt: bjork
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@bjork152
+  title: she-hulk-service@bjork
+  properties:
+    appUrl: https://consequatur.io
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.11
+    memUsed: 0.44
+    studio: English Toy Terrier
+  relations:
+    deployedAt: bjork
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@prince8
+  title: spider-man-service@prince
+  properties:
+    appUrl: https://occaecati.info
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.64
+    memUsed: 0.81
+    studio: Affenpinscher
+  relations:
+    deployedAt: prince
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@donny-hathaway119
+  title: spider-man-service@donny-hathaway
+  properties:
+    appUrl: http://blanditiis.org
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.93
+    memUsed: 1.03
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: donny-hathaway
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: thor-service@thom-yorke13
+  title: thor-service@thom-yorke
+  properties:
+    appUrl: https://consectetur.name
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 0.26
+    memUsed: 2.92
+    studio: English Toy Terrier
+  relations:
+    deployedAt: thom-yorke
+    instanceOf: thor-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@little-richard41
+  title: green-arrow-service@little-richard
+  properties:
+    appUrl: http://blanditiis.com
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.25
+    memUsed: 0.09
+    studio: Affenpinscher
+  relations:
+    deployedAt: little-richard
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@dusty-springfield91
+  title: wolverine-service@dusty-springfield
+  properties:
+    appUrl: https://ullam.org
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 2.82
+    memUsed: 0.39
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: wolverine-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@bonnie-raitt93
+  title: captain-atom-service@bonnie-raitt
+  properties:
+    appUrl: http://est.name
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.95
+    memUsed: 1.43
+    studio: Affenpinscher
+  relations:
+    deployedAt: bonnie-raitt
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@neil-young92
+  title: frog-thor-service@neil-young
+  properties:
+    appUrl: https://quia.org
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.34
+    memUsed: 0.9
+    studio: Hygen Hound
+  relations:
+    deployedAt: neil-young
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@karen-carpenter146
+  title: silver-sable-service@karen-carpenter
+  properties:
+    appUrl: https://voluptatem.io
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.51
+    memUsed: 0.53
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@elvis-presley30
+  title: scarlet-witch-service@elvis-presley
+  properties:
+    appUrl: https://voluptatem.biz
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.77
+    memUsed: 0.93
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@frankie-valli123
+  title: frog-thor-service@frankie-valli
+  properties:
+    appUrl: https://neque.biz
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.14
+    memUsed: 0.05
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: frankie-valli
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: storm-service@donny-hathaway196
+  title: storm-service@donny-hathaway
+  properties:
+    appUrl: https://sit.biz
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 0.63
+    memUsed: 1.49
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: donny-hathaway
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@paul-rodgers113
+  title: supergirl-service@paul-rodgers
+  properties:
+    appUrl: https://necessitatibus.com
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.9
+    memUsed: 0.03
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: paul-rodgers
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@frankie-valli96
+  title: green-lantern-service@frankie-valli
+  properties:
+    appUrl: https://ducimus.dev
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.72
+    memUsed: 1.96
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: frankie-valli
+    instanceOf: green-lantern-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: deadpool-service@levon-helm66
+  title: deadpool-service@levon-helm
+  properties:
+    appUrl: http://facilis.net
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.06
+    memUsed: 0.55
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: levon-helm
+    instanceOf: deadpool-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+    - There Will Be Blood
+    - The Apartment
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@prince34
+  title: green-arrow-service@prince
+  properties:
+    appUrl: http://maiores.dev
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.2
+    memUsed: 2.34
+    studio: Affenpinscher
+  relations:
+    deployedAt: prince
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@bono181
+  title: silver-sable-service@bono
+  properties:
+    appUrl: http://quia.net
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 1.96
+    memUsed: 3.32
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bono
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@david-bowie190
+  title: power-girl-service@david-bowie
+  properties:
+    appUrl: http://cupiditate.net
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.78
+    memUsed: 1.16
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: david-bowie
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: rogue-service@john-fogerty111
+  title: rogue-service@john-fogerty
+  properties:
+    appUrl: http://sapiente.net
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 2.06
+    memUsed: 2.83
+    studio: English Toy Terrier
+  relations:
+    deployedAt: john-fogerty
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@john-lee-hooker183
+  title: the-atom-service@john-lee-hooker
+  properties:
+    appUrl: http://numquam.name
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.93
+    memUsed: 1.98
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: john-lee-hooker
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: ice-service@chuck-berry86
+  title: ice-service@chuck-berry
+  properties:
+    appUrl: http://quos.org
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.06
+    memUsed: 1.04
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: chuck-berry
+    instanceOf: ice-service
+  team:
+    - The Lion King
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@michael-jackson16
+  title: green-arrow-service@michael-jackson
+  properties:
+    appUrl: https://esse.org
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.34
+    memUsed: 0.92
+    studio: English Toy Terrier
+  relations:
+    deployedAt: michael-jackson
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@mariah-carey175
+  title: hawkgirl-service@mariah-carey
+  properties:
+    appUrl: https://neque.net
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.36
+    memUsed: 0.6
+    studio: Affenpinscher
+  relations:
+    deployedAt: mariah-carey
+    instanceOf: hawkgirl-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: hawk-service@david-bowie192
+  title: hawk-service@david-bowie
+  properties:
+    appUrl: https://unde.dev
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 1.8
+    memUsed: 3.93
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: david-bowie
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@patti-smith170
+  title: she-hulk-service@patti-smith
+  properties:
+    appUrl: http://nihil.biz
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 0.52
+    memUsed: 2.64
+    studio: Affenpinscher
+  relations:
+    deployedAt: patti-smith
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@curtis-mayfield122
+  title: kitty-pryde-service@curtis-mayfield
+  properties:
+    appUrl: https://laborum.dev
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.93
+    memUsed: 1.52
+    studio: Hygen Hound
+  relations:
+    deployedAt: curtis-mayfield
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@levon-helm78
+  title: supergirl-service@levon-helm
+  properties:
+    appUrl: https://quaerat.biz
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.79
+    memUsed: 0.53
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: levon-helm
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@art-garfunkel89
+  title: kitty-pryde-service@art-garfunkel
+  properties:
+    appUrl: http://nemo.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.4
+    memUsed: 0.28
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: storm-service@paul-rodgers29
+  title: storm-service@paul-rodgers
+  properties:
+    appUrl: https://aliquid.io
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.94
+    memUsed: 3.13
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: paul-rodgers
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@roy-orbison80
+  title: power-girl-service@roy-orbison
+  properties:
+    appUrl: http://esse.info
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 0.8
+    memUsed: 2.17
+    studio: Hygen Hound
+  relations:
+    deployedAt: roy-orbison
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@karen-carpenter115
+  title: kitty-pryde-service@karen-carpenter
+  properties:
+    appUrl: http://nulla.dev
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.8
+    memUsed: 1.65
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@sly-stone155
+  title: silver-sable-service@sly-stone
+  properties:
+    appUrl: https://fugit.dev
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.45
+    memUsed: 0.72
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sly-stone
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@john-lee-hooker180
+  title: black-widow-service@john-lee-hooker
+  properties:
+    appUrl: https://commodi.dev
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.4
+    memUsed: 0.75
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: john-lee-hooker
+    instanceOf: black-widow-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@van-morrison182
+  title: hawkgirl-service@van-morrison
+  properties:
+    appUrl: https://sit.io
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.54
+    memUsed: 2.65
+    studio: Golden Retriever
+  relations:
+    deployedAt: van-morrison
+    instanceOf: hawkgirl-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@prince188
+  title: green-lantern-service@prince
+  properties:
+    appUrl: http://sequi.com
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.37
+    memUsed: 0.91
+    studio: Affenpinscher
+  relations:
+    deployedAt: prince
+    instanceOf: green-lantern-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@mavis-staples33
+  title: scarlet-witch-service@mavis-staples
+  properties:
+    appUrl: http://facilis.dev
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 0.64
+    memUsed: 1.68
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: mavis-staples
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@don-henley7
+  title: green-arrow-service@don-henley
+  properties:
+    appUrl: http://nihil.io
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 3.22
+    memUsed: 0.47
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: don-henley
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@elvis-presley88
+  title: invisible-woman-service@elvis-presley
+  properties:
+    appUrl: https://deserunt.com
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.16
+    memUsed: 1.38
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: invisible-woman-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: hawk-service@patti-la-belle166
+  title: hawk-service@patti-la-belle
+  properties:
+    appUrl: http://excepturi.com
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.57
+    memUsed: 2.82
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@bjork49
+  title: captain-america-service@bjork
+  properties:
+    appUrl: https://voluptate.name
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 1.49
+    memUsed: 0.59
+    studio: English Toy Terrier
+  relations:
+    deployedAt: bjork
+    instanceOf: captain-america-service
+  team:
+    - Django Unchained
+    - There Will Be Blood
+    - The Lion King
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@howlin-wolf6
+  title: batgirl-service@howlin-wolf
+  properties:
+    appUrl: http://id.dev
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.81
+    memUsed: 3.73
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: howlin-wolf
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@iggy-pop76
+  title: green-lantern-service@iggy-pop
+  properties:
+    appUrl: http://vitae.name
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.97
+    memUsed: 2.53
+    studio: Affenpinscher
+  relations:
+    deployedAt: iggy-pop
+    instanceOf: green-lantern-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@sly-stone57
+  title: supergirl-service@sly-stone
+  properties:
+    appUrl: https://possimus.net
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.82
+    memUsed: 0.51
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: sly-stone
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: she-hulk-service@jackie-wilson164
+  title: she-hulk-service@jackie-wilson
+  properties:
+    appUrl: http://quae.io
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.39
+    memUsed: 3.81
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: she-hulk-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: deadpool-service@marvin-gaye118
+  title: deadpool-service@marvin-gaye
+  properties:
+    appUrl: http://fugiat.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.54
+    memUsed: 2.97
+    studio: Affenpinscher
+  relations:
+    deployedAt: marvin-gaye
+    instanceOf: deadpool-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+    - There Will Be Blood
+    - The Apartment
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@iggy-pop12
+  title: green-arrow-service@iggy-pop
+  properties:
+    appUrl: http://id.name
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.85
+    memUsed: 0.06
+    studio: Affenpinscher
+  relations:
+    deployedAt: iggy-pop
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: rogue-service@jackie-wilson158
+  title: rogue-service@jackie-wilson
+  properties:
+    appUrl: https://occaecati.org
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.96
+    memUsed: 1.36
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: kitty-pryde-service@paul-rodgers71
+  title: kitty-pryde-service@paul-rodgers
+  properties:
+    appUrl: https://esse.org
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 3.53
+    memUsed: 3.36
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: paul-rodgers
+    instanceOf: kitty-pryde-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: storm-service@thom-yorke161
+  title: storm-service@thom-yorke
+  properties:
+    appUrl: http://commodi.io
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.07
+    memUsed: 0.12
+    studio: English Toy Terrier
+  relations:
+    deployedAt: thom-yorke
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@robert-plant137
+  title: the-atom-service@robert-plant
+  properties:
+    appUrl: http://fugiat.name
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.05
+    memUsed: 2.49
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: robert-plant
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: black-lightning-service@little-richard77
+  title: black-lightning-service@little-richard
+  properties:
+    appUrl: http://sequi.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.76
+    memUsed: 0.92
+    studio: Affenpinscher
+  relations:
+    deployedAt: little-richard
+    instanceOf: black-lightning-service
+  team:
+    - The Apartment
+    - The Lion King
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: huntress-service@art-garfunkel120
+  title: huntress-service@art-garfunkel
+  properties:
+    appUrl: http://asperiores.io
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.89
+    memUsed: 1.38
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: huntress-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - The Sound of Music
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@wilson-pickett60
+  title: black-canary-service@wilson-pickett
+  properties:
+    appUrl: http://hic.dev
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.83
+    memUsed: 0.04
+    studio: Hygen Hound
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: black-canary-service
+  team:
+    - Once Upon a Time in the West
+    - The Apartment
+    - Django Unchained
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@al-green110
+  title: doctor-strange-service@al-green
+  properties:
+    appUrl: http://tenetur.name
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.33
+    memUsed: 1.8
+    studio: Hygen Hound
+  relations:
+    deployedAt: al-green
+    instanceOf: doctor-strange-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@jackie-wilson187
+  title: silver-sable-service@jackie-wilson
+  properties:
+    appUrl: https://tenetur.info
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.87
+    memUsed: 1.12
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: silver-sable-service
+  team:
+    - The Sound of Music
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@prince135
+  title: supergirl-service@prince
+  properties:
+    appUrl: https://numquam.net
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.69
+    memUsed: 3.73
+    studio: Affenpinscher
+  relations:
+    deployedAt: prince
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@karen-carpenter17
+  title: scarlet-witch-service@karen-carpenter
+  properties:
+    appUrl: https://deserunt.com
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.31
+    memUsed: 1.7
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@thom-yorke28
+  title: scarlet-witch-service@thom-yorke
+  properties:
+    appUrl: https://excepturi.name
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.23
+    memUsed: 0.98
+    studio: English Toy Terrier
+  relations:
+    deployedAt: thom-yorke
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: thor-service@morrissey36
+  title: thor-service@morrissey
+  properties:
+    appUrl: http://fugit.biz
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.85
+    memUsed: 0.69
+    studio: Affenpinscher
+  relations:
+    deployedAt: morrissey
+    instanceOf: thor-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: hawk-service@patsy-cline131
+  title: hawk-service@patsy-cline
+  properties:
+    appUrl: https://beatae.biz
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.56
+    memUsed: 1.05
+    studio: Hygen Hound
+  relations:
+    deployedAt: patsy-cline
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: rogue-service@prince160
+  title: rogue-service@prince
+  properties:
+    appUrl: https://blanditiis.com
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 2.69
+    memUsed: 3.28
+    studio: Affenpinscher
+  relations:
+    deployedAt: prince
+    instanceOf: rogue-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@dolly-parton62
+  title: spider-man-service@dolly-parton
+  properties:
+    appUrl: http://deserunt.dev
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.31
+    memUsed: 1.15
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: dolly-parton
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@muddy-waters39
+  title: green-arrow-service@muddy-waters
+  properties:
+    appUrl: https://nihil.net
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.61
+    memUsed: 0.55
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: muddy-waters
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: daredevil-service@levon-helm136
+  title: daredevil-service@levon-helm
+  properties:
+    appUrl: https://labore.org
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.39
+    memUsed: 1.84
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: levon-helm
+    instanceOf: daredevil-service
+  team:
+    - Once Upon a Time in the West
+    - Django Unchained
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: storm-service@dolly-parton4
+  title: storm-service@dolly-parton
+  properties:
+    appUrl: https://sed.biz
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.56
+    memUsed: 0.99
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: dolly-parton
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@patti-la-belle47
+  title: spider-man-service@patti-la-belle
+  properties:
+    appUrl: http://nemo.io
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.9
+    memUsed: 2.67
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@patti-smith44
+  title: green-arrow-service@patti-smith
+  properties:
+    appUrl: http://doloribus.info
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.49
+    memUsed: 1.7
+    studio: Affenpinscher
+  relations:
+    deployedAt: patti-smith
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: hawk-service@bono174
+  title: hawk-service@bono
+  properties:
+    appUrl: https://aut.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.67
+    memUsed: 0.14
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bono
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: thor-service@don-henley18
+  title: thor-service@don-henley
+  properties:
+    appUrl: http://doloribus.dev
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 1.58
+    memUsed: 0.83
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: don-henley
+    instanceOf: thor-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@bono11
+  title: spider-man-service@bono
+  properties:
+    appUrl: https://quia.info
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 2
+    memUsed: 2.08
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bono
+    instanceOf: spider-man-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: iron-man-service@patsy-cline140
+  title: iron-man-service@patsy-cline
+  properties:
+    appUrl: https://possimus.info
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.69
+    memUsed: 1.64
+    studio: Hygen Hound
+  relations:
+    deployedAt: patsy-cline
+    instanceOf: iron-man-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Lion King
+    - The Apartment
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: storm-service@dusty-springfield3
+  title: storm-service@dusty-springfield
+  properties:
+    appUrl: https://voluptate.net
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.68
+    memUsed: 1.68
+    studio: Hygen Hound
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@bobby-blue-bland124
+  title: supergirl-service@bobby-blue-bland
+  properties:
+    appUrl: http://facilis.info
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.36
+    memUsed: 0.54
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: supergirl-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@chuck-berry72
+  title: invisible-woman-service@chuck-berry
+  properties:
+    appUrl: https://numquam.info
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 1.02
+    memUsed: 0.91
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: chuck-berry
+    instanceOf: invisible-woman-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@mariah-carey23
+  title: scarlet-witch-service@mariah-carey
+  properties:
+    appUrl: http://deserunt.org
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 3
+    memUsed: 1.74
+    studio: Affenpinscher
+  relations:
+    deployedAt: mariah-carey
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@neil-young24
+  title: batgirl-service@neil-young
+  properties:
+    appUrl: https://aut.biz
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.96
+    memUsed: 1.94
+    studio: Hygen Hound
+  relations:
+    deployedAt: neil-young
+    instanceOf: batgirl-service
+  team:
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@karen-carpenter177
+  title: green-arrow-service@karen-carpenter
+  properties:
+    appUrl: https://consequuntur.org
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.35
+    memUsed: 1.6
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: captain-atom-service@karen-carpenter21
+  title: captain-atom-service@karen-carpenter
+  properties:
+    appUrl: https://nostrum.io
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.07
+    memUsed: 0.8
+    studio: Hygen Hound
+  relations:
+    deployedAt: karen-carpenter
+    instanceOf: captain-atom-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@mariah-carey2
+  title: power-girl-service@mariah-carey
+  properties:
+    appUrl: https://nemo.name
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.27
+    memUsed: 1.21
+    studio: Affenpinscher
+  relations:
+    deployedAt: mariah-carey
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@elvis-presley26
+  title: green-arrow-service@elvis-presley
+  properties:
+    appUrl: http://excepturi.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.76
+    memUsed: 0.01
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@neil-young14
+  title: green-arrow-service@neil-young
+  properties:
+    appUrl: https://exercitationem.net
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.96
+    memUsed: 0.38
+    studio: Hygen Hound
+  relations:
+    deployedAt: neil-young
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@christina-aguilera100
+  title: green-arrow-service@christina-aguilera
+  properties:
+    appUrl: http://quas.com
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 1.36
+    memUsed: 0.49
+    studio: Golden Retriever
+  relations:
+    deployedAt: christina-aguilera
+    instanceOf: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@bono69
+  title: hawkgirl-service@bono
+  properties:
+    appUrl: https://enim.org
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.25
+    memUsed: 1.47
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bono
+    instanceOf: hawkgirl-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: ServiceInEnv
+  identifier: storm-service@patsy-cline65
+  title: storm-service@patsy-cline
+  properties:
+    appUrl: https://aut.io
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.16
+    memUsed: 0.84
+    studio: Hygen Hound
+  relations:
+    deployedAt: patsy-cline
+    instanceOf: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: lady-blackhawk-service@elvis-presley0
+  title: lady-blackhawk-service@elvis-presley
+  properties:
+    appUrl: http://voluptatibus.biz
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.39
+    memUsed: 0.56
+    studio: Garafian Shepherd
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: lady-blackhawk-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - Unforgiven
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@van-morrison25
+  title: power-girl-service@van-morrison
+  properties:
+    appUrl: http://aliquid.io
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.69
+    memUsed: 0.93
+    studio: Golden Retriever
+  relations:
+    deployedAt: van-morrison
+    instanceOf: power-girl-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: hawk-service@little-richard147
+  title: hawk-service@little-richard
+  properties:
+    appUrl: https://vel.biz
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.6
+    memUsed: 0.77
+    studio: Affenpinscher
+  relations:
+    deployedAt: little-richard
+    instanceOf: hawk-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: ServiceInEnv
+  identifier: the-atom-service@levon-helm185
+  title: the-atom-service@levon-helm
+  properties:
+    appUrl: https://nemo.dev
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.86
+    memUsed: 1.23
+    studio: Basset Fauve de Bretagne
+  relations:
+    deployedAt: levon-helm
+    instanceOf: the-atom-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: ServiceInEnv
+  identifier: black-lightning-service@curtis-mayfield70
+  title: black-lightning-service@curtis-mayfield
+  properties:
+    appUrl: https://exercitationem.dev
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.08
+    memUsed: 0.61
+    studio: Hygen Hound
+  relations:
+    deployedAt: curtis-mayfield
+    instanceOf: black-lightning-service
+  team:
+    - The Apartment
+    - The Lion King
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@christina-aguilera105
+  title: frog-thor-service@christina-aguilera
+  properties:
+    appUrl: https://quia.info
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 2.49
+    memUsed: 0.09
+    studio: Golden Retriever
+  relations:
+    deployedAt: christina-aguilera
+    instanceOf: frog-thor-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@patti-la-belle51
+  title: scarlet-witch-service@patti-la-belle
+  properties:
+    appUrl: https://esse.io
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.7
+    memUsed: 1.93
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: scarlet-witch-service
+  team:
+    - The Lion King

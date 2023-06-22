@@ -7,7 +7,6 @@
     slackChannelUrl: https://getport.slack.com/archives/t,n,5,7,1,7,3,b,1,r
   relations:
     deployedAt: mssabaha
-    
 - blueprint: Env
   identifier: patti-smith
   title: patti-smith

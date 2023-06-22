@@ -498,3 +498,103 @@
   relations:
     deployedAt: boquerones-al-vinagre
   team: []
+- blueprint: Cluster
+  identifier: llunca-de-gallina
+  title: llunca-de-gallina
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/2760,235285,809611,255326,841529,467089,137930,577523,54734,392633
+    studio: Giant Schnauzer
+    kconfig: Affenpinscher
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: boquerones-al-vinagre
+  title: boquerones-al-vinagre
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/624150,445218,535209,137757,230096,481957,166211,148004,723086,140049
+    studio: Garafian Shepherd
+    kconfig: Denmark Feist
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: edamame
+  title: edamame
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/199984,487857,280003,814256,740490,348297,892518,373326,226366,582128
+    studio: Hygen Hound
+    kconfig: Boykin Spaniel
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: milanesas
+  title: milanesas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/339079,458783,296064,48515,904713,408150,896207,774873,506342,415041
+    studio: English Toy Terrier
+    kconfig: Denmark Feist
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: bocadillo-de-calamares
+  title: bocadillo-de-calamares
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/24355,580303,331088,459973,899997,989887,656178,300813,125535,185242
+    studio: Hygen Hound
+    kconfig: Doberman Pinscher
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: caraotas-negras
+  title: caraotas-negras
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/551210,814404,95946,858698,600490,20031,624245,682293,174152,930247
+    studio: Giant Schnauzer
+    kconfig: Kishu
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: bondiola
+  title: bondiola
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/687927,68119,169768,66424,701319,806466,155890,909127,389364,950077
+    studio: Affenpinscher
+    kconfig: Basset Fauve de Bretagne
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: patacones
+  title: patacones
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/457139,429817,191504,679395,891168,725839,643545,225900,510046,27476
+    studio: Golden Retriever
+    kconfig: Golden Retriever
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: donburi
+  title: donburi
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/12532,651674,834797,781008,339505,99104,164802,485371,991277,896437
+    studio: Basset Fauve de Bretagne
+    kconfig: French Poodle
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: sopa-de-patas
+  title: sopa-de-patas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/785170,735296,421637,684702,118343,635635,359366,340407,343709,903368
+    studio: Garafian Shepherd
+    kconfig: Jack Russell Terrier
+  relations: {}
+  team: []

@@ -1,105 +1,120 @@
 - blueprint: Package
-  identifier: mini-explorer
-  title: null
-  properties:
-    docsUrl: http://exercitationem.com
-    packageManager: Nuget
-  relations: {}
-- blueprint: Package
-  identifier: ford-camry
-  title: null
-  properties:
-    docsUrl: https://sed.dev
-    packageManager: NPM
-  relations: {}
-- blueprint: Package
-  identifier: bugatti-corvette
-  title: null
-  properties:
-    docsUrl: https://aliquid.info
-    packageManager: Nuget
-  relations: {}
-- blueprint: Package
-  identifier: mercedes-benz-a-4
-  title: null
-  properties:
-    docsUrl: https://error.info
-    packageManager: NPM
-  relations: {}
-- blueprint: Package
-  identifier: toyota-a-4
-  title: null
-  properties:
-    docsUrl: https://reiciendis.biz
-    packageManager: PIP
-  relations: {}
-- blueprint: Package
-  identifier: hyundai-roadster
-  title: null
-  properties:
-    docsUrl: https://commodi.dev
-    packageManager: Yarn
-  relations: {}
-- blueprint: Package
-  identifier: nissan-fiesta
-  title: null
-  properties:
-    docsUrl: https://commodi.name
-    packageManager: NPM
-  relations: {}
-- blueprint: Package
-  identifier: smart-focus
-  title: null
-  properties:
-    docsUrl: https://ullam.info
-    packageManager: Nuget
-  relations: {}
-- blueprint: Package
   identifier: toyota-challenger
   title: null
   properties:
-    docsUrl: https://nemo.info
+    docsUrl: http://exercitationem.org
     packageManager: Maven
   relations: {}
-- blueprint: Package
-  identifier: mazda-challenger
-  title: null
-  properties:
-    docsUrl: http://excepturi.biz
-    packageManager: PIP
-  relations: {}
-- blueprint: Package
-  identifier: lamborghini-f-150
-  title: null
-  properties:
-    docsUrl: https://consequatur.io
-    packageManager: Nuget
-  relations: {}
-- blueprint: Package
-  identifier: nissan-spyder
-  title: null
-  properties:
-    docsUrl: https://sit.com
-    packageManager: Nuget
-  relations: {}
+  team: []
 - blueprint: Package
   identifier: toyota-volt
   title: null
   properties:
-    docsUrl: https://asperiores.name
-    packageManager: NPM
+    docsUrl: https://qui.io
+    packageManager: Maven
   relations: {}
+  team: []
+- blueprint: Package
+  identifier: smart-focus
+  title: null
+  properties:
+    docsUrl: https://deserunt.name
+    packageManager: PIP
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-corvette
+  title: null
+  properties:
+    docsUrl: http://sit.biz
+    packageManager: Yarn
+  relations: {}
+  team: []
 - blueprint: Package
   identifier: bugatti-1
   title: null
   properties:
-    docsUrl: https://beatae.org
+    docsUrl: https://necessitatibus.info
     packageManager: Yarn
   relations: {}
+  team: []
+- blueprint: Package
+  identifier: mercedes-benz-a-4
+  title: null
+  properties:
+    docsUrl: https://repellat.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: ford-camry
+  title: null
+  properties:
+    docsUrl: http://deserunt.io
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: lamborghini-f-150
+  title: null
+  properties:
+    docsUrl: http://aliquid.net
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mini-explorer
+  title: null
+  properties:
+    docsUrl: http://error.biz
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: chevrolet-malibu
+  title: null
+  properties:
+    docsUrl: https://ducimus.io
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: lamborghini-prius
+  title: null
+  properties:
+    docsUrl: https://deserunt.com
+    packageManager: Nuget
+  relations: {}
+  team: []
 - blueprint: Package
   identifier: rolls-royce-xc-90
   title: null
   properties:
-    docsUrl: http://consequuntur.name
+    docsUrl: http://repellat.info
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mazda-challenger
+  title: null
+  properties:
+    docsUrl: https://doloribus.biz
     packageManager: Nuget
   relations: {}
+  team: []
+- blueprint: Package
+  identifier: hyundai-roadster
+  title: null
+  properties:
+    docsUrl: https://at.io
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: kia-spyder
+  title: null
+  properties:
+    docsUrl: https://labore.org
+    packageManager: NPM
+  relations: {}
+  team: []

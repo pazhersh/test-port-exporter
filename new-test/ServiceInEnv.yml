@@ -1,3200 +1,4172 @@
 - blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@muddy-waters14
-  title: scarlet-witch-service@muddy-waters
+  identifier: hawkgirl-service@bjork94
+  title: hawkgirl-service@bjork
   properties:
-    appUrl: https://non.io
+    appUrl: http://nostrum.com
     cpuLimit: 3
     memLimit: 3
-    cpuUsed: 0.21
-    memUsed: 1.98
-    color: green
-    color2: red
-    studio: Beauceron
+    cpuUsed: 2.49
+    memUsed: 1.36
+    studio: Denmark Feist
   relations:
-    deployedAt: muddy-waters
-    instanceOf: scarlet-witch-service
-  team: Modern Times
+    deployedAt: bjork
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
 - blueprint: ServiceInEnv
-  identifier: punisher-service@muddy-waters119
-  title: punisher-service@muddy-waters
+  identifier: scarlet-witch-service@bjork182
+  title: scarlet-witch-service@bjork
   properties:
-    appUrl: https://in.org
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.95
-    memUsed: 2.36
-    color: red
-    color2: blue
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: punisher-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: doctor-strange-service@dion45
-  title: doctor-strange-service@dion
-  properties:
-    appUrl: http://in.name
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.72
-    memUsed: 1.72
-    color: asdf
-    color2: blue
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: doctor-strange-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: superman-service@jackie-wilson137
-  title: superman-service@jackie-wilson
-  properties:
-    appUrl: https://nemo.io
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 1.29
-    memUsed: 0.36
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: jackie-wilson
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: x-23-service@robert-plant147
-  title: x-23-service@robert-plant
-  properties:
-    appUrl: https://cupiditate.dev
-    cpuLimit: 2
+    appUrl: http://nemo.biz
+    cpuLimit: 1
     memLimit: 4
-    cpuUsed: 1.4
-    memUsed: 1.7
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
+    cpuUsed: 0.29
+    memUsed: 2.97
+    studio: Denmark Feist
   relations:
-    deployedAt: robert-plant
-    instanceOf: x-23-service
-  team: On the Waterfront
+    deployedAt: bjork
+    instanceOf: scarlet-witch-service
+  team:
+    - Full Metal Jacket
 - blueprint: ServiceInEnv
-  identifier: daredevil-service@bob-marley179
-  title: daredevil-service@bob-marley
+  identifier: frog-thor-service@david-bowie19
+  title: frog-thor-service@david-bowie
   properties:
-    appUrl: https://repellat.net
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 0
-    memUsed: 0.91
-    color: null
-    color2: null
-    studio: Beauceron
+    appUrl: https://possimus.com
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 0.09
+    memUsed: 1.07
+    studio: Denmark Feist
   relations:
-    deployedAt: bob-marley
-    instanceOf: daredevil-service
-  team: The Godfather
+    deployedAt: david-bowie
+    instanceOf: frog-thor-service
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
 - blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@paul-mc-cartney169
-  title: lady-blackhawk-service@paul-mc-cartney
+  identifier: wonder-woman-service@bobby-blue-bland166
+  title: wonder-woman-service@bobby-blue-bland
   properties:
-    appUrl: http://neque.net
+    appUrl: http://error.io
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.35
+    memUsed: 2.75
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: wonder-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+- blueprint: ServiceInEnv
+  identifier: storm-service@tina-turner196
+  title: storm-service@tina-turner
+  properties:
+    appUrl: http://consequuntur.info
     cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 2.67
-    memUsed: 2.03
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: paul-mc-cartney
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: storm-service@prince182
-  title: storm-service@prince
-  properties:
-    appUrl: http://ipsum.org
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.92
-    memUsed: 0.21
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: prince
-    instanceOf: storm-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@tina-turner140
-  title: martian-manhunter-service@tina-turner
-  properties:
-    appUrl: https://blanditiis.org
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.21
-    memUsed: 1.28
-    color: null
-    color2: null
-    studio: Beauceron
+    memLimit: 4
+    cpuUsed: 3.17
+    memUsed: 2.58
+    studio: Alaskan Malamute
   relations:
     deployedAt: tina-turner
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
+    instanceOf: storm-service
+  team:
+    - Prisoners
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: carol-danvers-service@roy-orbison166
-  title: carol-danvers-service@roy-orbison
+  identifier: doctor-strange-service@aretha-franklin101
+  title: doctor-strange-service@aretha-franklin
   properties:
-    appUrl: http://numquam.name
+    appUrl: http://error.info
     cpuLimit: 4
     memLimit: 3
-    cpuUsed: 3.67
-    memUsed: 2.94
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: roy-orbison
-    instanceOf: carol-danvers-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: elektra-service@steve-winwood83
-  title: elektra-service@steve-winwood
-  properties:
-    appUrl: http://ipsum.com
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 0.7
-    memUsed: 0.62
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: steve-winwood
-    instanceOf: elektra-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: moon-knight-service@ray-charles153
-  title: moon-knight-service@ray-charles
-  properties:
-    appUrl: https://aliquid.dev
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 1.44
-    memUsed: 0.51
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: ray-charles
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
-- blueprint: ServiceInEnv
-  identifier: wonder-woman-service@dusty-springfield85
-  title: wonder-woman-service@dusty-springfield
-  properties:
-    appUrl: http://consectetur.name
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 3.96
-    memUsed: 1.84
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: dusty-springfield
-    instanceOf: wonder-woman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: spider-man-service@sam-cooke77
-  title: spider-man-service@sam-cooke
-  properties:
-    appUrl: http://sunt.io
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.76
-    memUsed: 1.02
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: sam-cooke
-    instanceOf: spider-man-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@darlene-love69
-  title: green-arrow-service@darlene-love
-  properties:
-    appUrl: https://non.info
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 0.6
-    memUsed: 0.19
-    color: zxcv
-    color2: gray
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@steve-winwood95
-  title: scarlet-witch-service@steve-winwood
-  properties:
-    appUrl: https://facilis.info
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.5
-    memUsed: 1.06
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: steve-winwood
-    instanceOf: scarlet-witch-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: wasp-service@john-fogerty57
-  title: wasp-service@john-fogerty
-  properties:
-    appUrl: https://numquam.info
-    cpuLimit: 3
-    memLimit: 1
-    cpuUsed: 2.46
-    memUsed: 0.12
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: john-fogerty
-    instanceOf: wasp-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: silver-sable-service@aretha-franklin138
-  title: silver-sable-service@aretha-franklin
-  properties:
-    appUrl: https://sit.org
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.34
-    memUsed: 1.65
-    color: null
-    color2: null
-    studio: Beauceron
+    cpuUsed: 2.72
+    memUsed: 1.3
+    studio: Siberian Husky
   relations:
     deployedAt: aretha-franklin
-    instanceOf: silver-sable-service
-  team: On the Waterfront
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
 - blueprint: ServiceInEnv
-  identifier: hawkgirl-service@jackie-wilson56
-  title: hawkgirl-service@jackie-wilson
+  identifier: hawkgirl-service@stevie-wonder83
+  title: hawkgirl-service@stevie-wonder
   properties:
-    appUrl: http://sed.dev
-    cpuLimit: 1
-    memLimit: 3
-    cpuUsed: 0.03
-    memUsed: 0.09
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: jackie-wilson
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@roy-orbison93
-  title: green-arrow-service@roy-orbison
-  properties:
-    appUrl: http://neque.info
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 1.73
-    memUsed: 0.51
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: roy-orbison
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@neil-young74
-  title: hawkgirl-service@neil-young
-  properties:
-    appUrl: http://dicta.name
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 1.54
-    memUsed: 2.87
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: neil-young
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@sam-moore110
-  title: hawkgirl-service@sam-moore
-  properties:
-    appUrl: https://voluptate.biz
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 3.76
-    memUsed: 1.81
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: sam-moore
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: moon-knight-service@neil-young90
-  title: moon-knight-service@neil-young
-  properties:
-    appUrl: http://doloribus.info
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.15
-    memUsed: 0.71
-    color: blue
-    color2: no color
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
-- blueprint: ServiceInEnv
-  identifier: frog-thor-service@eric-burdon134
-  title: frog-thor-service@eric-burdon
-  properties:
-    appUrl: http://non.biz
+    appUrl: http://at.org
     cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.16
-    memUsed: 2.49
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
+    memLimit: 2
+    cpuUsed: 0.31
+    memUsed: 0.67
+    studio: Boykin Spaniel
   relations:
-    deployedAt: eric-burdon
+    deployedAt: stevie-wonder
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@al-green25
+  title: frog-thor-service@al-green
+  properties:
+    appUrl: https://rerum.com
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.97
+    memUsed: 0.31
+    studio: Beauceron
+  relations:
+    deployedAt: al-green
     instanceOf: frog-thor-service
-  team: Singin' in the Rain
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
 - blueprint: ServiceInEnv
-  identifier: superman-service@don-henley163
-  title: superman-service@don-henley
+  identifier: scarlet-witch-service@bonnie-raitt86
+  title: scarlet-witch-service@bonnie-raitt
   properties:
-    appUrl: http://ducimus.dev
-    cpuLimit: 1
-    memLimit: 3
-    cpuUsed: 0.5
-    memUsed: 1.51
-    color: qewr
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@little-richard127
-  title: power-girl-service@little-richard
-  properties:
-    appUrl: http://nihil.biz
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0.85
-    memUsed: 3.51
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: little-richard
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: x-23-service@patsy-cline52
-  title: x-23-service@patsy-cline
-  properties:
-    appUrl: http://fugit.info
-    cpuLimit: 1
+    appUrl: https://enim.com
+    cpuLimit: 3
     memLimit: 1
-    cpuUsed: 0.58
-    memUsed: 0.82
-    color: null
-    color2: null
+    cpuUsed: 0.69
+    memUsed: 0.13
     studio: Alaskan Malamute
-  relations:
-    deployedAt: patsy-cline
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: black-lightning-service@sam-moore34
-  title: black-lightning-service@sam-moore
-  properties:
-    appUrl: https://non.io
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.26
-    memUsed: 1.42
-    color: fdas
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: black-lightning-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: black-lightning-service@roy-orbison37
-  title: black-lightning-service@roy-orbison
-  properties:
-    appUrl: http://rerum.biz
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.24
-    memUsed: 0.74
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: roy-orbison
-    instanceOf: black-lightning-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@bob-dylan171
-  title: green-arrow-service@bob-dylan
-  properties:
-    appUrl: https://aliquid.dev
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 0.1
-    memUsed: 1.52
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: bob-dylan
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: carol-danvers-service@otis-redding184
-  title: carol-danvers-service@otis-redding
-  properties:
-    appUrl: https://omnis.dev
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.21
-    memUsed: 2.76
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: otis-redding
-    instanceOf: carol-danvers-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: storm-service@roy-orbison70
-  title: storm-service@roy-orbison
-  properties:
-    appUrl: http://ullam.name
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 0.35
-    memUsed: 3.45
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: roy-orbison
-    instanceOf: storm-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: superman-service@eric-burdon92
-  title: superman-service@eric-burdon
-  properties:
-    appUrl: https://non.org
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.16
-    memUsed: 1.78
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: eric-burdon
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: captain-atom-service@bonnie-raitt91
-  title: captain-atom-service@bonnie-raitt
-  properties:
-    appUrl: https://vitae.io
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.74
-    memUsed: 1.83
-    color: null
-    color2: null
-    studio: Maltese
   relations:
     deployedAt: bonnie-raitt
-    instanceOf: captain-atom-service
-  team: On the Waterfront
+    instanceOf: scarlet-witch-service
+  team:
+    - Full Metal Jacket
 - blueprint: ServiceInEnv
-  identifier: black-canary-service@bob-dylan120
-  title: black-canary-service@bob-dylan
+  identifier: invisible-woman-service@luther-vandross64
+  title: invisible-woman-service@luther-vandross
   properties:
-    appUrl: http://error.dev
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 3.28
-    memUsed: 0.59
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: bob-dylan
-    instanceOf: black-canary-service
-  team: Requiem for a Dream
-- blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@janis-joplin129
-  title: lady-blackhawk-service@janis-joplin
-  properties:
-    appUrl: http://asperiores.io
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.26
-    memUsed: 0.44
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: janis-joplin
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: gamora-service@george-jones108
-  title: gamora-service@george-jones
-  properties:
-    appUrl: http://nulla.name
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 3.72
-    memUsed: 1.57
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: george-jones
-    instanceOf: gamora-service
-  team: Singin' in the Rain
-- blueprint: ServiceInEnv
-  identifier: cypher-service@george-jones190
-  title: cypher-service@george-jones
-  properties:
-    appUrl: https://id.net
-    cpuLimit: 4
+    appUrl: https://quia.dev
+    cpuLimit: 2
     memLimit: 3
-    cpuUsed: 2.53
-    memUsed: 0.93
-    color: null
-    color2: null
-    studio: French Poodle
+    cpuUsed: 0.38
+    memUsed: 1.7
+    studio: Siberian Husky
   relations:
-    deployedAt: george-jones
-    instanceOf: cypher-service
-  team: On the Waterfront
+    deployedAt: luther-vandross
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
 - blueprint: ServiceInEnv
-  identifier: hawk-service@little-richard61
-  title: hawk-service@little-richard
+  identifier: power-girl-service@jackie-wilson43
+  title: power-girl-service@jackie-wilson
   properties:
-    appUrl: https://voluptatem.info
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.47
-    memUsed: 1.06
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: little-richard
-    instanceOf: hawk-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: black-panther-service@david-ruffin43
-  title: black-panther-service@david-ruffin
-  properties:
-    appUrl: https://nemo.info
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.24
-    memUsed: 0.01
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: david-ruffin
-    instanceOf: black-panther-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: batman-service@bob-dylan53
-  title: batman-service@bob-dylan
-  properties:
-    appUrl: http://deserunt.dev
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0.92
-    memUsed: 1.1
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: bob-dylan
-    instanceOf: batman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: black-canary-service@otis-redding3
-  title: black-canary-service@otis-redding
-  properties:
-    appUrl: https://deserunt.com
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 2.46
-    memUsed: 0.59
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: otis-redding
-    instanceOf: black-canary-service
-  team: Requiem for a Dream
-- blueprint: ServiceInEnv
-  identifier: storm-service@darlene-love113
-  title: storm-service@darlene-love
-  properties:
-    appUrl: http://nostrum.net
+    appUrl: http://consequuntur.com
     cpuLimit: 2
     memLimit: 2
-    cpuUsed: 1.57
-    memUsed: 1.05
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: darlene-love
-    instanceOf: storm-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: wasp-service@aretha-franklin188
-  title: wasp-service@aretha-franklin
-  properties:
-    appUrl: http://nemo.name
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0.41
-    memUsed: 0.67
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: aretha-franklin
-    instanceOf: wasp-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: superman-service@michael-jackson49
-  title: superman-service@michael-jackson
-  properties:
-    appUrl: https://labore.io
-    cpuLimit: 4
-    memLimit: 4
-    cpuUsed: 2.93
-    memUsed: 1.22
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: michael-jackson
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@jackie-wilson71
-  title: green-arrow-service@jackie-wilson
-  properties:
-    appUrl: https://ducimus.dev
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.83
-    memUsed: 1.39
-    color: null
-    color2: null
-    studio: Maltese
+    cpuUsed: 0.54
+    memUsed: 0.22
+    studio: Jack Russell Terrier
   relations:
     deployedAt: jackie-wilson
-    instanceOf: green-arrow-service
-  team: On the Waterfront
+    instanceOf: power-girl-service
+  team:
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: elektra-service@muddy-waters42
-  title: elektra-service@muddy-waters
+  identifier: rogue-service@annie-lennox136
+  title: rogue-service@annie-lennox
   properties:
-    appUrl: http://voluptate.io
+    appUrl: https://hic.com
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.44
+    memUsed: 0.07
+    studio: Beauceron
+  relations:
+    deployedAt: annie-lennox
+    instanceOf: rogue-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: punisher-service@solomon-burke123
+  title: punisher-service@solomon-burke
+  properties:
+    appUrl: http://consequatur.biz
     cpuLimit: 2
     memLimit: 3
-    cpuUsed: 1.38
-    memUsed: 0.83
-    color: vasdf
-    color2: null
+    cpuUsed: 1.18
+    memUsed: 2.3
+    studio: Siberian Husky
+  relations:
+    deployedAt: solomon-burke
+    instanceOf: punisher-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@wilson-pickett88
+  title: hawkgirl-service@wilson-pickett
+  properties:
+    appUrl: http://in.io
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 3.39
+    memUsed: 0.12
+    studio: Denmark Feist
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: hawk-service@gregg-allman110
+  title: hawk-service@gregg-allman
+  properties:
+    appUrl: http://deserunt.name
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 3.71
+    memUsed: 0.6
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: gregg-allman
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: elektra-service@etta-james5
+  title: elektra-service@etta-james
+  properties:
+    appUrl: http://hic.net
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.71
+    memUsed: 2.15
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: etta-james
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@smokey-robinson156
+  title: invisible-woman-service@smokey-robinson
+  properties:
+    appUrl: https://omnis.name
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.45
+    memUsed: 1.48
     studio: Beauceron
+  relations:
+    deployedAt: smokey-robinson
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@bob-marley23
+  title: captain-america-service@bob-marley
+  properties:
+    appUrl: http://error.name
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 1.42
+    memUsed: 3.99
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@steve-perry22
+  title: batgirl-service@steve-perry
+  properties:
+    appUrl: http://ullam.io
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 0.29
+    memUsed: 0.02
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: steve-perry
+    instanceOf: batgirl-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: elektra-service@muddy-waters99
+  title: elektra-service@muddy-waters
+  properties:
+    appUrl: http://vitae.info
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.68
+    memUsed: 1.45
+    studio: Siberian Husky
   relations:
     deployedAt: muddy-waters
     instanceOf: elektra-service
-  team: On the Waterfront
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
 - blueprint: ServiceInEnv
-  identifier: storm-service@tom-waits178
-  title: storm-service@tom-waits
+  identifier: wonder-woman-service@steve-winwood149
+  title: wonder-woman-service@steve-winwood
   properties:
-    appUrl: https://vitae.dev
+    appUrl: https://enim.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.46
+    memUsed: 2.95
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: steve-winwood
+    instanceOf: wonder-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@ray-charles158
+  title: doctor-strange-service@ray-charles
+  properties:
+    appUrl: https://numquam.org
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.18
+    memUsed: 0.7
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: ray-charles
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@eric-burdon41
+  title: black-canary-service@eric-burdon
+  properties:
+    appUrl: https://in.com
     cpuLimit: 2
     memLimit: 4
-    cpuUsed: 0.52
-    memUsed: 3
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
+    cpuUsed: 1.42
+    memUsed: 2.03
+    studio: Beauceron
   relations:
-    deployedAt: tom-waits
-    instanceOf: storm-service
-  team: Casino
+    deployedAt: eric-burdon
+    instanceOf: black-canary-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: doctor-strange-service@sam-cooke22
-  title: doctor-strange-service@sam-cooke
+  identifier: black-widow-service@muddy-waters139
+  title: black-widow-service@muddy-waters
   properties:
-    appUrl: https://hic.net
+    appUrl: https://non.biz
     cpuLimit: 3
     memLimit: 2
-    cpuUsed: 1.38
-    memUsed: 1.7
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
+    cpuUsed: 1.98
+    memUsed: 0.19
+    studio: Siberian Husky
   relations:
-    deployedAt: sam-cooke
-    instanceOf: doctor-strange-service
-  team: Rashomon
+    deployedAt: muddy-waters
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
 - blueprint: ServiceInEnv
-  identifier: elektra-service@john-fogerty81
-  title: elektra-service@john-fogerty
+  identifier: captain-america-service@eric-burdon47
+  title: captain-america-service@eric-burdon
   properties:
-    appUrl: https://voluptate.net
+    appUrl: https://eos.net
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 1.2
+    memUsed: 3.81
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: elektra-service@bruce-springsteen75
+  title: elektra-service@bruce-springsteen
+  properties:
+    appUrl: https://numquam.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.67
+    memUsed: 1.91
+    studio: Beauceron
+  relations:
+    deployedAt: bruce-springsteen
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@james-brown124
+  title: spider-man-service@james-brown
+  properties:
+    appUrl: http://blanditiis.name
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.99
+    memUsed: 0.8
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: james-brown
+    instanceOf: spider-man-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: martian-manhunter-service@brian-wilson112
+  title: martian-manhunter-service@brian-wilson
+  properties:
+    appUrl: http://maiores.org
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.14
+    memUsed: 0.44
+    studio: Beauceron
+  relations:
+    deployedAt: brian-wilson
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@solomon-burke26
+  title: black-canary-service@solomon-burke
+  properties:
+    appUrl: http://hic.dev
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.31
+    memUsed: 1.92
+    studio: Siberian Husky
+  relations:
+    deployedAt: solomon-burke
+    instanceOf: black-canary-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@james-taylor90
+  title: power-girl-service@james-taylor
+  properties:
+    appUrl: https://vel.io
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.29
+    memUsed: 1.78
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: power-girl-service
+  team:
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: hawk-service@bob-marley190
+  title: hawk-service@bob-marley
+  properties:
+    appUrl: http://nihil.dev
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.54
+    memUsed: 0.62
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: aquaman-service@mavis-staples187
+  title: aquaman-service@mavis-staples
+  properties:
+    appUrl: http://quaerat.info
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.15
+    memUsed: 1.41
+    studio: Beauceron
+  relations:
+    deployedAt: mavis-staples
+    instanceOf: aquaman-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@smokey-robinson141
+  title: green-lantern-service@smokey-robinson
+  properties:
+    appUrl: http://vitae.net
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.13
+    memUsed: 1.01
+    studio: Beauceron
+  relations:
+    deployedAt: smokey-robinson
+    instanceOf: green-lantern-service
+  team:
+    - The Terminator
+    - The Elephant Man
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: cypher-service@gregg-allman46
+  title: cypher-service@gregg-allman
+  properties:
+    appUrl: http://quae.biz
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.38
+    memUsed: 1.67
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: gregg-allman
+    instanceOf: cypher-service
+  team:
+    - Prisoners
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@rod-stewart170
+  title: the-flash-service@rod-stewart
+  properties:
+    appUrl: http://reiciendis.dev
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 3.67
+    memUsed: 1.02
+    studio: Beauceron
+  relations:
+    deployedAt: rod-stewart
+    instanceOf: the-flash-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: iron-man-service@mick-jagger79
+  title: iron-man-service@mick-jagger
+  properties:
+    appUrl: http://consequatur.io
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.17
+    memUsed: 2.43
+    studio: Siberian Husky
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: iron-man-service
+  team:
+    - The Truman Show
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@ray-charles61
+  title: hawkgirl-service@ray-charles
+  properties:
+    appUrl: http://ipsum.io
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.72
+    memUsed: 0.59
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: ray-charles
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: wonder-woman-service@bob-dylan145
+  title: wonder-woman-service@bob-dylan
+  properties:
+    appUrl: https://et.org
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.59
+    memUsed: 0.85
+    studio: Siberian Husky
+  relations:
+    deployedAt: bob-dylan
+    instanceOf: wonder-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+- blueprint: ServiceInEnv
+  identifier: moon-knight-service@art-garfunkel192
+  title: moon-knight-service@art-garfunkel
+  properties:
+    appUrl: http://possimus.com
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 0.94
+    memUsed: 1.97
+    studio: Siberian Husky
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: moon-knight-service
+  team:
+    - Full Metal Jacket
+    - The Elephant Man
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: black-panther-service@eric-burdon165
+  title: black-panther-service@eric-burdon
+  properties:
+    appUrl: http://numquam.net
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.33
+    memUsed: 0.74
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: black-panther-service
+  team:
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - Full Metal Jacket
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@steven-tyler154
+  title: batgirl-service@steven-tyler
+  properties:
+    appUrl: http://vel.info
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.23
+    memUsed: 1.44
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: steven-tyler
+    instanceOf: batgirl-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: gamora-service@frankie-valli21
+  title: gamora-service@frankie-valli
+  properties:
+    appUrl: http://ducimus.dev
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.65
+    memUsed: 1.29
+    studio: Denmark Feist
+  relations:
+    deployedAt: frankie-valli
+    instanceOf: gamora-service
+  team:
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+    - Prisoners
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: huntress-service@james-taylor195
+  title: huntress-service@james-taylor
+  properties:
+    appUrl: http://sed.dev
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.65
+    memUsed: 0.8
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: huntress-service
+  team:
+    - The Elephant Man
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: elektra-service@david-bowie197
+  title: elektra-service@david-bowie
+  properties:
+    appUrl: https://blanditiis.biz
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.9
+    memUsed: 1.25
+    studio: Denmark Feist
+  relations:
+    deployedAt: david-bowie
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@jackie-wilson85
+  title: captain-america-service@jackie-wilson
+  properties:
+    appUrl: http://voluptatem.io
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.62
+    memUsed: 1.76
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: storm-service@ray-charles105
+  title: storm-service@ray-charles
+  properties:
+    appUrl: https://numquam.io
     cpuLimit: 2
     memLimit: 3
-    cpuUsed: 0.33
-    memUsed: 2.22
-    color: null
-    color2: null
-    studio: English Mastiff
+    cpuUsed: 1.99
+    memUsed: 2.75
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: ray-charles
+    instanceOf: storm-service
+  team:
+    - Prisoners
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: elektra-service@frankie-valli127
+  title: elektra-service@frankie-valli
+  properties:
+    appUrl: http://blanditiis.info
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.21
+    memUsed: 0.68
+    studio: Denmark Feist
+  relations:
+    deployedAt: frankie-valli
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: martian-manhunter-service@lou-reed172
+  title: martian-manhunter-service@lou-reed
+  properties:
+    appUrl: https://rerum.info
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.33
+    memUsed: 1.31
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: lou-reed
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@lou-reed89
+  title: power-girl-service@lou-reed
+  properties:
+    appUrl: https://fugiat.biz
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.93
+    memUsed: 0.09
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: lou-reed
+    instanceOf: power-girl-service
+  team:
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@james-taylor37
+  title: invisible-woman-service@james-taylor
+  properties:
+    appUrl: http://sunt.com
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.9
+    memUsed: 0.52
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@gladys-knight0
+  title: doctor-strange-service@gladys-knight
+  properties:
+    appUrl: https://vitae.org
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.19
+    memUsed: 2.08
+    studio: Beauceron
+  relations:
+    deployedAt: gladys-knight
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@wilson-pickett150
+  title: frog-thor-service@wilson-pickett
+  properties:
+    appUrl: http://ipsum.info
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.71
+    memUsed: 1.32
+    studio: Denmark Feist
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: frog-thor-service
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@al-green27
+  title: batgirl-service@al-green
+  properties:
+    appUrl: https://ipsum.biz
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 0.8
+    memUsed: 1.92
+    studio: Beauceron
+  relations:
+    deployedAt: al-green
+    instanceOf: batgirl-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@patti-la-belle35
+  title: invisible-woman-service@patti-la-belle
+  properties:
+    appUrl: http://voluptate.biz
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.92
+    memUsed: 0.63
+    studio: Beauceron
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: martian-manhunter-service@elton-john167
+  title: martian-manhunter-service@elton-john
+  properties:
+    appUrl: https://cupiditate.info
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 2.85
+    memUsed: 2.97
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: elton-john
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: martian-manhunter-service@james-taylor60
+  title: martian-manhunter-service@james-taylor
+  properties:
+    appUrl: https://dolores.net
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.41
+    memUsed: 0.84
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: black-panther-service@bruce-springsteen144
+  title: black-panther-service@bruce-springsteen
+  properties:
+    appUrl: https://vel.com
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.86
+    memUsed: 2.45
+    studio: Beauceron
+  relations:
+    deployedAt: bruce-springsteen
+    instanceOf: black-panther-service
+  team:
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - Full Metal Jacket
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@david-bowie45
+  title: invisible-woman-service@david-bowie
+  properties:
+    appUrl: https://tenetur.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.47
+    memUsed: 0.79
+    studio: Denmark Feist
+  relations:
+    deployedAt: david-bowie
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: storm-service@luther-vandross98
+  title: storm-service@luther-vandross
+  properties:
+    appUrl: https://laborum.info
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.76
+    memUsed: 1.58
+    studio: Siberian Husky
+  relations:
+    deployedAt: luther-vandross
+    instanceOf: storm-service
+  team:
+    - Prisoners
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@bob-marley49
+  title: frog-thor-service@bob-marley
+  properties:
+    appUrl: http://occaecati.io
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.06
+    memUsed: 1.92
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: frog-thor-service
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@patti-la-belle125
+  title: supergirl-service@patti-la-belle
+  properties:
+    appUrl: https://necessitatibus.name
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.13
+    memUsed: 1.64
+    studio: Beauceron
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: supergirl-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: wonder-woman-service@eric-burdon178
+  title: wonder-woman-service@eric-burdon
+  properties:
+    appUrl: http://aliquid.info
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.06
+    memUsed: 3.94
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: wonder-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@steven-tyler24
+  title: doctor-strange-service@steven-tyler
+  properties:
+    appUrl: http://quaerat.org
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 2.88
+    memUsed: 1.76
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: steven-tyler
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@john-fogerty104
+  title: batgirl-service@john-fogerty
+  properties:
+    appUrl: http://doloribus.net
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.69
+    memUsed: 1.4
+    studio: Denmark Feist
   relations:
     deployedAt: john-fogerty
-    instanceOf: elektra-service
-  team: On the Waterfront
+    instanceOf: batgirl-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: elektra-service@lou-reed104
-  title: elektra-service@lou-reed
+  identifier: invisible-woman-service@tina-turner62
+  title: invisible-woman-service@tina-turner
   properties:
-    appUrl: https://est.org
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.78
-    memUsed: 1.65
-    color: null
-    color2: null
+    appUrl: http://in.name
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 1.53
+    memUsed: 1.77
     studio: Alaskan Malamute
   relations:
-    deployedAt: lou-reed
-    instanceOf: elektra-service
-  team: On the Waterfront
+    deployedAt: tina-turner
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
 - blueprint: ServiceInEnv
-  identifier: punisher-service@lou-reed105
-  title: punisher-service@lou-reed
+  identifier: invisible-woman-service@ray-charles151
+  title: invisible-woman-service@ray-charles
   properties:
-    appUrl: http://qui.io
+    appUrl: https://blanditiis.io
     cpuLimit: 3
     memLimit: 3
-    cpuUsed: 2.08
-    memUsed: 0.86
-    color: null
-    color2: null
+    cpuUsed: 2.82
+    memUsed: 0.83
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: ray-charles
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@mick-jagger91
+  title: the-flash-service@mick-jagger
+  properties:
+    appUrl: https://eos.name
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.87
+    memUsed: 1.83
+    studio: Siberian Husky
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: the-flash-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: hawk-service@morrissey176
+  title: hawk-service@morrissey
+  properties:
+    appUrl: https://sequi.io
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.77
+    memUsed: 1.02
+    studio: Beauceron
+  relations:
+    deployedAt: morrissey
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: hawk-service@al-green171
+  title: hawk-service@al-green
+  properties:
+    appUrl: http://asperiores.io
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.27
+    memUsed: 0.38
+    studio: Beauceron
+  relations:
+    deployedAt: al-green
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: gambit-service@lou-reed29
+  title: gambit-service@lou-reed
+  properties:
+    appUrl: http://id.net
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.65
+    memUsed: 0.32
     studio: Alaskan Malamute
   relations:
     deployedAt: lou-reed
-    instanceOf: punisher-service
-  team: Casino
+    instanceOf: gambit-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: black-lightning-service@dusty-springfield167
-  title: black-lightning-service@dusty-springfield
+  identifier: hawkgirl-service@bobby-blue-bland44
+  title: hawkgirl-service@bobby-blue-bland
   properties:
-    appUrl: https://error.dev
+    appUrl: http://exercitationem.biz
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.2
+    memUsed: 0.38
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: iron-man-service@van-morrison102
+  title: iron-man-service@van-morrison
+  properties:
+    appUrl: https://vitae.org
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.71
+    memUsed: 1.07
+    studio: Denmark Feist
+  relations:
+    deployedAt: van-morrison
+    instanceOf: iron-man-service
+  team:
+    - The Truman Show
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@steve-perry173
+  title: the-flash-service@steve-perry
+  properties:
+    appUrl: http://unde.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.32
+    memUsed: 1.54
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: steve-perry
+    instanceOf: the-flash-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: green-arrow-service@steven-tyler188
+  title: green-arrow-service@steven-tyler
+  properties:
+    appUrl: https://aliquid.dev
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.06
+    memUsed: 1.86
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: steven-tyler
+    instanceOf: green-arrow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: carol-danvers-service@steven-tyler179
+  title: carol-danvers-service@steven-tyler
+  properties:
+    appUrl: http://consequatur.io
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 1.76
+    memUsed: 1.65
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: steven-tyler
+    instanceOf: carol-danvers-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: carol-danvers-service@james-taylor120
+  title: carol-danvers-service@james-taylor
+  properties:
+    appUrl: http://vitae.com
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.02
+    memUsed: 0.16
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: carol-danvers-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@smokey-robinson7
+  title: black-canary-service@smokey-robinson
+  properties:
+    appUrl: https://vitae.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.57
+    memUsed: 1.65
+    studio: Beauceron
+  relations:
+    deployedAt: smokey-robinson
+    instanceOf: black-canary-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@mick-jagger97
+  title: captain-america-service@mick-jagger
+  properties:
+    appUrl: https://consequuntur.com
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 2.36
+    memUsed: 0.32
+    studio: Siberian Husky
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: punisher-service@etta-james142
+  title: punisher-service@etta-james
+  properties:
+    appUrl: https://sit.org
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.98
+    memUsed: 0.39
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: etta-james
+    instanceOf: punisher-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: cypher-service@darlene-love2
+  title: cypher-service@darlene-love
+  properties:
+    appUrl: https://commodi.name
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.74
+    memUsed: 1.49
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: darlene-love
+    instanceOf: cypher-service
+  team:
+    - Prisoners
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@dusty-springfield8
+  title: wolverine-service@dusty-springfield
+  properties:
+    appUrl: http://necessitatibus.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.24
+    memUsed: 2.04
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: deadpool-service@art-garfunkel198
+  title: deadpool-service@art-garfunkel
+  properties:
+    appUrl: http://id.net
+    cpuLimit: 1
+    memLimit: 1
+    cpuUsed: 0.34
+    memUsed: 0.12
+    studio: Siberian Husky
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: deadpool-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@john-fogerty194
+  title: green-lantern-service@john-fogerty
+  properties:
+    appUrl: https://ipsum.dev
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.36
+    memUsed: 1.45
+    studio: Denmark Feist
+  relations:
+    deployedAt: john-fogerty
+    instanceOf: green-lantern-service
+  team:
+    - The Terminator
+    - The Elephant Man
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@roy-orbison4
+  title: black-canary-service@roy-orbison
+  properties:
+    appUrl: http://enim.com
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.63
+    memUsed: 0.44
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: roy-orbison
+    instanceOf: black-canary-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@bob-marley152
+  title: invisible-woman-service@bob-marley
+  properties:
+    appUrl: http://eos.io
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.11
+    memUsed: 1.71
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@solomon-burke31
+  title: power-girl-service@solomon-burke
+  properties:
+    appUrl: http://vel.biz
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1
+    memUsed: 0.43
+    studio: Siberian Husky
+  relations:
+    deployedAt: solomon-burke
+    instanceOf: power-girl-service
+  team:
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: gambit-service@tom-waits82
+  title: gambit-service@tom-waits
+  properties:
+    appUrl: https://aut.com
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 2.22
+    memUsed: 0.8
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: tom-waits
+    instanceOf: gambit-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@aretha-franklin42
+  title: wolverine-service@aretha-franklin
+  properties:
+    appUrl: http://magnam.info
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.74
+    memUsed: 0.75
+    studio: Siberian Husky
+  relations:
+    deployedAt: aretha-franklin
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: carol-danvers-service@solomon-burke148
+  title: carol-danvers-service@solomon-burke
+  properties:
+    appUrl: https://quasi.biz
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.49
+    memUsed: 0.69
+    studio: Siberian Husky
+  relations:
+    deployedAt: solomon-burke
+    instanceOf: carol-danvers-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@steve-winwood126
+  title: hawkgirl-service@steve-winwood
+  properties:
+    appUrl: https://ipsum.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.97
+    memUsed: 0.07
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: steve-winwood
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@luther-vandross40
+  title: wolverine-service@luther-vandross
+  properties:
+    appUrl: https://non.org
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.93
+    memUsed: 1.02
+    studio: Siberian Husky
+  relations:
+    deployedAt: luther-vandross
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: blink-service@elton-john72
+  title: blink-service@elton-john
+  properties:
+    appUrl: http://ipsum.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.36
+    memUsed: 0.01
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: elton-john
+    instanceOf: blink-service
+  team:
+    - The Truman Show
+    - The Elephant Man
+    - Prisoners
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@roy-orbison13
+  title: hawkgirl-service@roy-orbison
+  properties:
+    appUrl: https://ducimus.info
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.37
+    memUsed: 1.96
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: roy-orbison
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@lou-reed180
+  title: spider-man-service@lou-reed
+  properties:
+    appUrl: http://sequi.com
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.13
+    memUsed: 0.35
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: lou-reed
+    instanceOf: spider-man-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: green-lantern-service@morrissey146
+  title: green-lantern-service@morrissey
+  properties:
+    appUrl: https://enim.io
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.49
+    memUsed: 0.54
+    studio: Beauceron
+  relations:
+    deployedAt: morrissey
+    instanceOf: green-lantern-service
+  team:
+    - The Terminator
+    - The Elephant Man
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: wasp-service@otis-redding134
+  title: wasp-service@otis-redding
+  properties:
+    appUrl: http://voluptatibus.io
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.67
+    memUsed: 2.81
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: otis-redding
+    instanceOf: wasp-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@dusty-springfield121
+  title: invisible-woman-service@dusty-springfield
+  properties:
+    appUrl: https://tenetur.name
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.47
+    memUsed: 0.17
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@david-bowie122
+  title: hawkgirl-service@david-bowie
+  properties:
+    appUrl: https://numquam.name
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.86
+    memUsed: 0.88
+    studio: Denmark Feist
+  relations:
+    deployedAt: david-bowie
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: elektra-service@steve-perry15
+  title: elektra-service@steve-perry
+  properties:
+    appUrl: http://nemo.net
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.51
+    memUsed: 1.01
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: steve-perry
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: elektra-service@art-garfunkel95
+  title: elektra-service@art-garfunkel
+  properties:
+    appUrl: http://ipsum.name
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.39
+    memUsed: 0.17
+    studio: Siberian Husky
+  relations:
+    deployedAt: art-garfunkel
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: hawk-service@mary-j-blige130
+  title: hawk-service@mary-j-blige
+  properties:
+    appUrl: https://consectetur.org
     cpuLimit: 1
     memLimit: 3
     cpuUsed: 0.37
-    memUsed: 0.43
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
+    memUsed: 0.19
+    studio: Boykin Spaniel
   relations:
-    deployedAt: dusty-springfield
-    instanceOf: black-lightning-service
-  team: Rashomon
+    deployedAt: mary-j-blige
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
 - blueprint: ServiceInEnv
-  identifier: iron-man-service@donny-hathaway192
-  title: iron-man-service@donny-hathaway
+  identifier: frog-thor-service@bob-dylan10
+  title: frog-thor-service@bob-dylan
   properties:
-    appUrl: http://commodi.info
+    appUrl: https://sunt.info
     cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.26
-    memUsed: 1.88
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: donny-hathaway
-    instanceOf: iron-man-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@otis-redding4
-  title: scarlet-witch-service@otis-redding
-  properties:
-    appUrl: https://error.io
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.21
-    memUsed: 0.39
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: otis-redding
-    instanceOf: scarlet-witch-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@etta-james149
-  title: hawkgirl-service@etta-james
-  properties:
-    appUrl: https://possimus.com
-    cpuLimit: 1
     memLimit: 1
-    cpuUsed: 0.39
-    memUsed: 0.65
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: etta-james
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: silver-sable-service@otis-redding148
-  title: silver-sable-service@otis-redding
-  properties:
-    appUrl: http://aut.com
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 0.89
-    memUsed: 2.88
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: otis-redding
-    instanceOf: silver-sable-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: wonder-woman-service@darlene-love65
-  title: wonder-woman-service@darlene-love
-  properties:
-    appUrl: https://nulla.com
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.43
-    memUsed: 3.34
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: darlene-love
-    instanceOf: wonder-woman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@howlin-wolf103
-  title: power-girl-service@howlin-wolf
-  properties:
-    appUrl: https://doloribus.net
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 0.34
-    memUsed: 0.64
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: howlin-wolf
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: batgirl-service@dusty-springfield151
-  title: batgirl-service@dusty-springfield
-  properties:
-    appUrl: http://esse.net
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 3.1
-    memUsed: 0.35
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: dusty-springfield
-    instanceOf: batgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: doctor-strange-service@don-henley102
-  title: doctor-strange-service@don-henley
-  properties:
-    appUrl: https://consequatur.name
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 0.05
-    memUsed: 0.42
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: don-henley
-    instanceOf: doctor-strange-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@prince141
-  title: lady-blackhawk-service@prince
-  properties:
-    appUrl: http://magnam.io
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.35
-    memUsed: 0.08
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: prince
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: superman-service@patti-smith115
-  title: superman-service@patti-smith
-  properties:
-    appUrl: https://aut.dev
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 2.31
-    memUsed: 2.78
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: patti-smith
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: spider-man-service@bob-dylan31
-  title: spider-man-service@bob-dylan
-  properties:
-    appUrl: https://esse.io
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 0.6
-    memUsed: 0.76
-    color: null
-    color2: null
-    studio: English Mastiff
+    cpuUsed: 1.75
+    memUsed: 0.05
+    studio: Siberian Husky
   relations:
     deployedAt: bob-dylan
-    instanceOf: spider-man-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@janis-joplin162
-  title: hawkgirl-service@janis-joplin
-  properties:
-    appUrl: https://sed.dev
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 1.86
-    memUsed: 1.6
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: janis-joplin
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: black-widow-service@darlene-love50
-  title: black-widow-service@darlene-love
-  properties:
-    appUrl: https://labore.io
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.4
-    memUsed: 0.9
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: darlene-love
-    instanceOf: black-widow-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: thor-service@ray-charles47
-  title: thor-service@ray-charles
-  properties:
-    appUrl: http://neque.org
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 2.06
-    memUsed: 0.88
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: ray-charles
-    instanceOf: thor-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: storm-service@michael-jackson54
-  title: storm-service@michael-jackson
-  properties:
-    appUrl: http://vel.biz
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.41
-    memUsed: 1.35
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: michael-jackson
-    instanceOf: storm-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: huntress-service@howlin-wolf156
-  title: huntress-service@howlin-wolf
-  properties:
-    appUrl: https://unde.dev
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.41
-    memUsed: 0.86
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: howlin-wolf
-    instanceOf: huntress-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: storm-service@howlin-wolf142
-  title: storm-service@howlin-wolf
-  properties:
-    appUrl: http://in.dev
-    cpuLimit: 1
-    memLimit: 3
-    cpuUsed: 0.66
-    memUsed: 2.58
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: howlin-wolf
-    instanceOf: storm-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@kurt-cobain6
-  title: scarlet-witch-service@kurt-cobain
-  properties:
-    appUrl: https://rerum.com
-    cpuLimit: 3
-    memLimit: 1
-    cpuUsed: 2
-    memUsed: 0.76
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: kurt-cobain
-    instanceOf: scarlet-witch-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: frog-thor-service@paul-rodgers161
-  title: frog-thor-service@paul-rodgers
-  properties:
-    appUrl: https://ipsum.org
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 0.69
-    memUsed: 0.34
-    color: dsg
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
     instanceOf: frog-thor-service
-  team: Singin' in the Rain
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
 - blueprint: ServiceInEnv
-  identifier: gamora-service@janis-joplin164
-  title: gamora-service@janis-joplin
+  identifier: martian-manhunter-service@eric-burdon56
+  title: martian-manhunter-service@eric-burdon
   properties:
-    appUrl: https://sequi.com
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 1.48
-    memUsed: 2.07
-    color: null
-    color2: null
+    appUrl: http://rerum.info
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.83
+    memUsed: 1.07
     studio: Beauceron
   relations:
-    deployedAt: janis-joplin
-    instanceOf: gamora-service
-  team: Singin' in the Rain
+    deployedAt: eric-burdon
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
 - blueprint: ServiceInEnv
-  identifier: moon-knight-service@donny-hathaway107
-  title: moon-knight-service@donny-hathaway
+  identifier: martian-manhunter-service@steven-tyler184
+  title: martian-manhunter-service@steven-tyler
   properties:
-    appUrl: http://consectetur.com
-    cpuLimit: 1
-    memLimit: 3
-    cpuUsed: 0.83
-    memUsed: 1.81
-    color: null
-    color2: null
-    studio: English Mastiff
+    appUrl: http://sequi.net
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 2.25
+    memUsed: 1.19
+    studio: Jack Russell Terrier
   relations:
-    deployedAt: donny-hathaway
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
+    deployedAt: steven-tyler
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
 - blueprint: ServiceInEnv
-  identifier: superman-service@kurt-cobain117
-  title: superman-service@kurt-cobain
+  identifier: elektra-service@mary-j-blige168
+  title: elektra-service@mary-j-blige
   properties:
-    appUrl: http://qui.net
+    appUrl: http://magnam.biz
     cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.62
-    memUsed: 1.64
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
+    memLimit: 1
+    cpuUsed: 1.37
+    memUsed: 0.53
+    studio: Boykin Spaniel
   relations:
-    deployedAt: kurt-cobain
-    instanceOf: superman-service
-  team: The Godfather
+    deployedAt: mary-j-blige
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
 - blueprint: ServiceInEnv
-  identifier: hawkgirl-service@bob-marley174
-  title: hawkgirl-service@bob-marley
-  properties:
-    appUrl: http://numquam.com
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.11
-    memUsed: 1.95
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: bob-marley
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@b-b-king112
+  identifier: power-girl-service@b-b-king81
   title: power-girl-service@b-b-king
   properties:
-    appUrl: http://quia.biz
-    cpuLimit: 4
+    appUrl: http://ullam.info
+    cpuLimit: 1
     memLimit: 3
-    cpuUsed: 3.81
-    memUsed: 1.63
-    color: null
-    color2: null
-    studio: Beauceron
+    cpuUsed: 0.63
+    memUsed: 0.1
+    studio: Jack Russell Terrier
   relations:
     deployedAt: b-b-king
     instanceOf: power-girl-service
-  team: Chinatown
+  team:
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: hawk-service@steve-perry118
-  title: hawk-service@steve-perry
+  identifier: wasp-service@roy-orbison111
+  title: wasp-service@roy-orbison
+  properties:
+    appUrl: http://fugiat.net
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.53
+    memUsed: 1.37
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: roy-orbison
+    instanceOf: wasp-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@brian-wilson33
+  title: black-widow-service@brian-wilson
+  properties:
+    appUrl: https://in.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.77
+    memUsed: 0.22
+    studio: Beauceron
+  relations:
+    deployedAt: brian-wilson
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@solomon-burke132
+  title: supergirl-service@solomon-burke
+  properties:
+    appUrl: https://commodi.com
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 2.08
+    memUsed: 0.51
+    studio: Siberian Husky
+  relations:
+    deployedAt: solomon-burke
+    instanceOf: supergirl-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@eric-burdon63
+  title: hawkgirl-service@eric-burdon
+  properties:
+    appUrl: https://fugiat.io
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.2
+    memUsed: 0.41
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@jackie-wilson50
+  title: frog-thor-service@jackie-wilson
+  properties:
+    appUrl: https://magnam.io
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.53
+    memUsed: 3.05
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: frog-thor-service
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@james-brown117
+  title: doctor-strange-service@james-brown
+  properties:
+    appUrl: https://aut.name
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.5
+    memUsed: 0.36
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: james-brown
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: cypher-service@james-brown71
+  title: cypher-service@james-brown
   properties:
     appUrl: https://in.name
     cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 0.96
-    memUsed: 0.8
-    color: null
-    color2: null
+    memLimit: 4
+    cpuUsed: 1.82
+    memUsed: 0.03
     studio: Alaskan Malamute
+  relations:
+    deployedAt: james-brown
+    instanceOf: cypher-service
+  team:
+    - Prisoners
+- blueprint: ServiceInEnv
+  identifier: cypher-service@otis-redding80
+  title: cypher-service@otis-redding
+  properties:
+    appUrl: http://nostrum.io
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.21
+    memUsed: 3.27
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: otis-redding
+    instanceOf: cypher-service
+  team:
+    - Prisoners
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@van-morrison17
+  title: black-widow-service@van-morrison
+  properties:
+    appUrl: http://magnam.com
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.98
+    memUsed: 0.9
+    studio: Denmark Feist
+  relations:
+    deployedAt: van-morrison
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: gamora-service@steve-perry115
+  title: gamora-service@steve-perry
+  properties:
+    appUrl: http://excepturi.biz
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.43
+    memUsed: 0.09
+    studio: Giant Schnauzer
   relations:
     deployedAt: steve-perry
-    instanceOf: hawk-service
-  team: On the Waterfront
+    instanceOf: gamora-service
+  team:
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+    - Prisoners
+    - Sunset Blvd.
 - blueprint: ServiceInEnv
-  identifier: huntress-service@michael-jackson150
-  title: huntress-service@michael-jackson
+  identifier: wonder-woman-service@etta-james118
+  title: wonder-woman-service@etta-james
   properties:
-    appUrl: http://quos.com
+    appUrl: http://ullam.io
     cpuLimit: 3
     memLimit: 3
-    cpuUsed: 2.89
-    memUsed: 0.23
-    color: null
-    color2: null
-    studio: Alaskan Malamute
+    cpuUsed: 2.85
+    memUsed: 2.42
+    studio: Cocker Spaniel
   relations:
-    deployedAt: michael-jackson
-    instanceOf: huntress-service
-  team: Chinatown
+    deployedAt: etta-james
+    instanceOf: wonder-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
 - blueprint: ServiceInEnv
-  identifier: superman-service@tom-waits68
-  title: superman-service@tom-waits
+  identifier: silver-sable-service@art-garfunkel183
+  title: silver-sable-service@art-garfunkel
   properties:
-    appUrl: http://et.dev
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.28
-    memUsed: 1.76
-    color: asdf
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: black-canary-service@bonnie-raitt183
-  title: black-canary-service@bonnie-raitt
-  properties:
-    appUrl: https://vel.org
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 2.72
-    memUsed: 0.24
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: bonnie-raitt
-    instanceOf: black-canary-service
-  team: Requiem for a Dream
-- blueprint: ServiceInEnv
-  identifier: batgirl-service@neil-young136
-  title: batgirl-service@neil-young
-  properties:
-    appUrl: http://qui.net
+    appUrl: https://nihil.net
     cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.85
-    memUsed: 0.71
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: neil-young
-    instanceOf: batgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: x-23-service@solomon-burke89
-  title: x-23-service@solomon-burke
-  properties:
-    appUrl: https://occaecati.info
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.68
-    memUsed: 1.06
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: solomon-burke
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@roy-orbison197
-  title: scarlet-witch-service@roy-orbison
-  properties:
-    appUrl: https://sunt.name
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 3.53
-    memUsed: 1.42
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: roy-orbison
-    instanceOf: scarlet-witch-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: aquaman-service@art-garfunkel29
-  title: aquaman-service@art-garfunkel
-  properties:
-    appUrl: https://possimus.name
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.08
-    memUsed: 0.41
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
+    memLimit: 3
+    cpuUsed: 0.77
+    memUsed: 1.29
+    studio: Siberian Husky
   relations:
     deployedAt: art-garfunkel
-    instanceOf: aquaman-service
-  team: On the Waterfront
+    instanceOf: silver-sable-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
 - blueprint: ServiceInEnv
-  identifier: huntress-service@jerry-lee-lewis186
-  title: huntress-service@jerry-lee-lewis
+  identifier: storm-service@eric-burdon135
+  title: storm-service@eric-burdon
   properties:
-    appUrl: http://excepturi.io
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.3
-    memUsed: 0.39
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: jerry-lee-lewis
-    instanceOf: huntress-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: batman-service@curtis-mayfield30
-  title: batman-service@curtis-mayfield
-  properties:
-    appUrl: http://excepturi.io
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.17
-    memUsed: 2.37
-    color: blue
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: batman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: the-flash-service@little-richard131
-  title: the-flash-service@little-richard
-  properties:
-    appUrl: https://consequuntur.com
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.27
-    memUsed: 0.59
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: little-richard
-    instanceOf: the-flash-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: captain-atom-service@sam-moore28
-  title: captain-atom-service@sam-moore
-  properties:
-    appUrl: http://eos.name
+    appUrl: https://voluptatem.dev
     cpuLimit: 3
     memLimit: 2
-    cpuUsed: 2.32
-    memUsed: 0.42
-    color: null
-    color2: null
+    cpuUsed: 2.46
+    memUsed: 1.34
     studio: Beauceron
   relations:
-    deployedAt: sam-moore
-    instanceOf: captain-atom-service
-  team: On the Waterfront
+    deployedAt: eric-burdon
+    instanceOf: storm-service
+  team:
+    - Prisoners
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: thor-service@curtis-mayfield160
-  title: thor-service@curtis-mayfield
+  identifier: elektra-service@elvis-presley39
+  title: elektra-service@elvis-presley
+  properties:
+    appUrl: https://labore.name
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 3.71
+    memUsed: 3.61
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@elvis-presley59
+  title: captain-america-service@elvis-presley
+  properties:
+    appUrl: http://exercitationem.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.85
+    memUsed: 0.29
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: thor-service@stevie-wonder28
+  title: thor-service@stevie-wonder
   properties:
     appUrl: https://esse.org
     cpuLimit: 3
     memLimit: 3
-    cpuUsed: 0.18
-    memUsed: 2.41
-    color: blue
-    color2: null
-    studio: Beauceron
+    cpuUsed: 2.95
+    memUsed: 0.12
+    studio: Boykin Spaniel
   relations:
-    deployedAt: muddy-waters
+    deployedAt: stevie-wonder
     instanceOf: thor-service
-  team: Modern Times
+  team:
+    - The Terminator
+    - Sunset Blvd.
 - blueprint: ServiceInEnv
-  identifier: elektra-service@jackie-wilson122
-  title: elektra-service@jackie-wilson
+  identifier: gambit-service@morrissey69
+  title: gambit-service@morrissey
   properties:
-    appUrl: http://non.dev
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.76
-    memUsed: 0.46
-    color: null
-    color2: null
-    studio: Maltese
+    appUrl: http://sed.com
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.07
+    memUsed: 0.8
+    studio: Beauceron
   relations:
-    deployedAt: jackie-wilson
-    instanceOf: elektra-service
-  team: On the Waterfront
+    deployedAt: morrissey
+    instanceOf: gambit-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: batman-service@patti-smith98
-  title: batman-service@patti-smith
+  identifier: martian-manhunter-service@bjork38
+  title: martian-manhunter-service@bjork
   properties:
-    appUrl: https://rerum.biz
+    appUrl: https://possimus.biz
     cpuLimit: 2
     memLimit: 3
-    cpuUsed: 0.33
-    memUsed: 2.66
-    color: gfhj
-    color2: null
-    studio: Beauceron
+    cpuUsed: 0.76
+    memUsed: 2.13
+    studio: Denmark Feist
   relations:
-    deployedAt: muddy-waters
-    instanceOf: batman-service
-  team: On the Waterfront
+    deployedAt: bjork
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
 - blueprint: ServiceInEnv
-  identifier: green-lantern-service@gladys-knight196
-  title: green-lantern-service@gladys-knight
+  identifier: black-canary-service@morrissey53
+  title: black-canary-service@morrissey
   properties:
-    appUrl: http://nemo.io
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.49
-    memUsed: 1.41
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: gladys-knight
-    instanceOf: green-lantern-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: x-23-service@b-b-king99
-  title: x-23-service@b-b-king
-  properties:
-    appUrl: https://consectetur.org
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 2.07
-    memUsed: 0.08
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: b-b-king
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: silver-sable-service@neil-young158
-  title: silver-sable-service@neil-young
-  properties:
-    appUrl: http://error.name
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.99
-    memUsed: 1.4
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: neil-young
-    instanceOf: silver-sable-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: elektra-service@steve-perry72
-  title: elektra-service@steve-perry
-  properties:
-    appUrl: http://numquam.dev
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.85
-    memUsed: 0.45
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: steve-perry
-    instanceOf: elektra-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: x-23-service@jackie-wilson41
-  title: x-23-service@jackie-wilson
-  properties:
-    appUrl: http://quasi.name
+    appUrl: https://non.biz
     cpuLimit: 2
     memLimit: 1
-    cpuUsed: 1.51
-    memUsed: 0.79
-    color: null
-    color2: null
-    studio: Maltese
+    cpuUsed: 0.75
+    memUsed: 0.4
+    studio: Beauceron
   relations:
-    deployedAt: jackie-wilson
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@robert-plant124
-  title: lady-blackhawk-service@robert-plant
-  properties:
-    appUrl: http://sit.io
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.16
-    memUsed: 1.48
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: robert-plant
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: superman-service@sam-cooke62
-  title: superman-service@sam-cooke
-  properties:
-    appUrl: http://nihil.info
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.88
-    memUsed: 1.77
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: sam-cooke
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: wasp-service@kurt-cobain55
-  title: wasp-service@kurt-cobain
-  properties:
-    appUrl: http://fugit.info
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0.48
-    memUsed: 1.93
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: kurt-cobain
-    instanceOf: wasp-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@david-ruffin44
-  title: power-girl-service@david-ruffin
-  properties:
-    appUrl: http://blanditiis.biz
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 3.16
-    memUsed: 1.64
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: david-ruffin
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@john-lennon10
-  title: martian-manhunter-service@john-lennon
-  properties:
-    appUrl: http://facilis.com
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 0.58
-    memUsed: 2.47
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: john-lennon
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@curtis-mayfield36
-  title: green-arrow-service@curtis-mayfield
-  properties:
-    appUrl: https://error.name
-    cpuLimit: 1
-    memLimit: 3
-    cpuUsed: 0.7
-    memUsed: 0.79
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: curtis-mayfield
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: moon-knight-service@michael-jackson97
-  title: moon-knight-service@michael-jackson
-  properties:
-    appUrl: https://in.info
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.84
-    memUsed: 0.22
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: michael-jackson
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
-- blueprint: ServiceInEnv
-  identifier: black-canary-service@curtis-mayfield9
-  title: black-canary-service@curtis-mayfield
-  properties:
-    appUrl: http://quasi.net
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.61
-    memUsed: 2.25
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: curtis-mayfield
+    deployedAt: morrissey
     instanceOf: black-canary-service
-  team: Requiem for a Dream
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: captain-atom-service@jackie-wilson121
-  title: captain-atom-service@jackie-wilson
+  identifier: batgirl-service@steve-winwood77
+  title: batgirl-service@steve-winwood
   properties:
-    appUrl: http://qui.io
-    cpuLimit: 4
-    memLimit: 4
-    cpuUsed: 0.84
-    memUsed: 3.82
-    color: null
-    color2: null
-    studio: Maltese
+    appUrl: https://deserunt.dev
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.94
+    memUsed: 1.98
+    studio: Cocker Spaniel
   relations:
-    deployedAt: jackie-wilson
-    instanceOf: captain-atom-service
-  team: On the Waterfront
+    deployedAt: steve-winwood
+    instanceOf: batgirl-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: hawkgirl-service@lou-reed125
-  title: hawkgirl-service@lou-reed
+  identifier: moon-knight-service@jeff-buckley185
+  title: moon-knight-service@jeff-buckley
   properties:
-    appUrl: http://dicta.org
+    appUrl: https://voluptate.info
     cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.89
-    memUsed: 1
-    color: null
-    color2: null
+    memLimit: 2
+    cpuUsed: 1.51
+    memUsed: 1.89
+    studio: Beauceron
+  relations:
+    deployedAt: jeff-buckley
+    instanceOf: moon-knight-service
+  team:
+    - Full Metal Jacket
+    - The Elephant Man
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@bonnie-raitt191
+  title: the-flash-service@bonnie-raitt
+  properties:
+    appUrl: http://nulla.name
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.56
+    memUsed: 1.45
     studio: Alaskan Malamute
-  relations:
-    deployedAt: lou-reed
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: the-atom-service@eric-burdon79
-  title: the-atom-service@eric-burdon
-  properties:
-    appUrl: http://aliquid.net
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 0.36
-    memUsed: 1.71
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: eric-burdon
-    instanceOf: the-atom-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: wonder-woman-service@eric-burdon67
-  title: wonder-woman-service@eric-burdon
-  properties:
-    appUrl: http://esse.io
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 0.38
-    memUsed: 0.59
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: eric-burdon
-    instanceOf: wonder-woman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: punisher-service@patti-smith106
-  title: punisher-service@patti-smith
-  properties:
-    appUrl: http://fugit.dev
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0.45
-    memUsed: 3.64
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: patti-smith
-    instanceOf: punisher-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: moon-knight-service@howlin-wolf176
-  title: moon-knight-service@howlin-wolf
-  properties:
-    appUrl: http://sunt.net
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.49
-    memUsed: 0.29
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: howlin-wolf
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
-- blueprint: ServiceInEnv
-  identifier: carol-danvers-service@bob-marley26
-  title: carol-danvers-service@bob-marley
-  properties:
-    appUrl: https://magnam.com
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.45
-    memUsed: 1.59
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: bob-marley
-    instanceOf: carol-danvers-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: wonder-woman-service@aretha-franklin35
-  title: wonder-woman-service@aretha-franklin
-  properties:
-    appUrl: http://esse.name
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.29
-    memUsed: 1.96
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: aretha-franklin
-    instanceOf: wonder-woman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: spider-man-service@david-ruffin78
-  title: spider-man-service@david-ruffin
-  properties:
-    appUrl: http://aliquid.dev
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 1.9
-    memUsed: 0.05
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: david-ruffin
-    instanceOf: spider-man-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: captain-atom-service@solomon-burke51
-  title: captain-atom-service@solomon-burke
-  properties:
-    appUrl: http://est.net
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 2.59
-    memUsed: 1.18
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: solomon-burke
-    instanceOf: captain-atom-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: frog-thor-service@nina-simone18
-  title: frog-thor-service@nina-simone
-  properties:
-    appUrl: http://consequatur.net
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.59
-    memUsed: 0.78
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: nina-simone
-    instanceOf: frog-thor-service
-  team: Singin' in the Rain
-- blueprint: ServiceInEnv
-  identifier: x-23-service@eric-burdon159
-  title: x-23-service@eric-burdon
-  properties:
-    appUrl: https://id.io
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 1.62
-    memUsed: 2.46
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: eric-burdon
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@etta-james24
-  title: martian-manhunter-service@etta-james
-  properties:
-    appUrl: http://consectetur.name
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.57
-    memUsed: 0.41
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: etta-james
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: black-lightning-service@bob-marley27
-  title: black-lightning-service@bob-marley
-  properties:
-    appUrl: https://reiciendis.net
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 1.01
-    memUsed: 1.22
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: bob-marley
-    instanceOf: black-lightning-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: moon-knight-service@etta-james48
-  title: moon-knight-service@etta-james
-  properties:
-    appUrl: https://repellat.biz
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.91
-    memUsed: 1.02
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: etta-james
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
-- blueprint: ServiceInEnv
-  identifier: hawk-service@joni-mitchell2
-  title: hawk-service@joni-mitchell
-  properties:
-    appUrl: https://deserunt.com
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 0.31
-    memUsed: 0.74
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: joni-mitchell
-    instanceOf: hawk-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: she-hulk-service@little-richard109
-  title: she-hulk-service@little-richard
-  properties:
-    appUrl: http://quae.biz
-    cpuLimit: 3
-    memLimit: 1
-    cpuUsed: 2.15
-    memUsed: 0.96
-    color: nbcv
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: she-hulk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@patti-smith123
-  title: hawkgirl-service@patti-smith
-  properties:
-    appUrl: https://excepturi.com
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 0.13
-    memUsed: 0.87
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: patti-smith
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: doctor-strange-service@neil-young180
-  title: doctor-strange-service@neil-young
-  properties:
-    appUrl: https://hic.biz
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.6
-    memUsed: 3.89
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: neil-young
-    instanceOf: doctor-strange-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@paul-rodgers100
-  title: martian-manhunter-service@paul-rodgers
-  properties:
-    appUrl: http://non.dev
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.95
-    memUsed: 1.54
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: paul-rodgers
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: she-hulk-service@john-fogerty75
-  title: she-hulk-service@john-fogerty
-  properties:
-    appUrl: https://eos.dev
-    cpuLimit: 1
-    memLimit: 1
-    cpuUsed: 0.11
-    memUsed: 0.43
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: john-fogerty
-    instanceOf: she-hulk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: hawk-service@bonnie-raitt7
-  title: hawk-service@bonnie-raitt
-  properties:
-    appUrl: http://doloribus.dev
-    cpuLimit: 4
-    memLimit: 3
-    cpuUsed: 0.24
-    memUsed: 1.22
-    color: null
-    color2: null
-    studio: Maltese
   relations:
     deployedAt: bonnie-raitt
-    instanceOf: hawk-service
-  team: On the Waterfront
+    instanceOf: the-flash-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: captain-atom-service@karen-carpenter144
-  title: captain-atom-service@karen-carpenter
+  identifier: black-canary-service@luther-vandross18
+  title: black-canary-service@luther-vandross
   properties:
-    appUrl: https://facilis.biz
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 2.43
-    memUsed: 1.92
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: karen-carpenter
-    instanceOf: captain-atom-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: punisher-service@karen-carpenter20
-  title: punisher-service@karen-carpenter
-  properties:
-    appUrl: https://fugiat.com
-    cpuLimit: 4
-    memLimit: 4
-    cpuUsed: 3.38
-    memUsed: 3.51
-    color: ynrtd
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: punisher-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: x-23-service@donny-hathaway165
-  title: x-23-service@donny-hathaway
-  properties:
-    appUrl: http://fugiat.net
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 0.39
-    memUsed: 1.49
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: donny-hathaway
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@paul-rodgers5
-  title: green-arrow-service@paul-rodgers
-  properties:
-    appUrl: http://error.biz
+    appUrl: https://vel.net
     cpuLimit: 3
     memLimit: 2
-    cpuUsed: 0.6
-    memUsed: 1.51
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
+    cpuUsed: 2.26
+    memUsed: 0.04
+    studio: Siberian Husky
   relations:
-    deployedAt: paul-rodgers
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: black-canary-service@solomon-burke15
-  title: black-canary-service@solomon-burke
-  properties:
-    appUrl: http://ullam.org
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.87
-    memUsed: 1.07
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: solomon-burke
+    deployedAt: luther-vandross
     instanceOf: black-canary-service
-  team: Requiem for a Dream
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
 - blueprint: ServiceInEnv
-  identifier: wasp-service@gladys-knight185
-  title: wasp-service@gladys-knight
-  properties:
-    appUrl: https://quia.info
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 1.49
-    memUsed: 0.23
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: gladys-knight
-    instanceOf: wasp-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: spider-man-service@prince63
-  title: spider-man-service@prince
-  properties:
-    appUrl: http://rerum.com
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0
-    memUsed: 1.37
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: prince
-    instanceOf: spider-man-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: huntress-service@prince145
-  title: huntress-service@prince
-  properties:
-    appUrl: http://consequatur.io
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.07
-    memUsed: 1.04
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: prince
-    instanceOf: huntress-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: black-widow-service@brian-wilson111
-  title: black-widow-service@brian-wilson
-  properties:
-    appUrl: http://quos.name
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.42
-    memUsed: 1.96
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: brian-wilson
-    instanceOf: black-widow-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: punisher-service@paul-rodgers38
-  title: punisher-service@paul-rodgers
-  properties:
-    appUrl: http://repellat.name
-    cpuLimit: 3
-    memLimit: 1
-    cpuUsed: 0.93
-    memUsed: 0.29
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: paul-rodgers
-    instanceOf: punisher-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: superman-service@howlin-wolf101
-  title: superman-service@howlin-wolf
-  properties:
-    appUrl: https://consequuntur.dev
-    cpuLimit: 3
-    memLimit: 4
-    cpuUsed: 0.46
-    memUsed: 3.05
-    color: ',uik'
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@nina-simone8
-  title: martian-manhunter-service@nina-simone
-  properties:
-    appUrl: http://quos.net
-    cpuLimit: 4
-    memLimit: 4
-    cpuUsed: 0.95
-    memUsed: 1.83
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: nina-simone
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@neil-young88
-  title: lady-blackhawk-service@neil-young
-  properties:
-    appUrl: https://est.com
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.3
-    memUsed: 0.57
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: neil-young
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@paul-rodgers0
-  title: scarlet-witch-service@paul-rodgers
-  properties:
-    appUrl: https://sit.dev
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.42
-    memUsed: 0.26
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: paul-rodgers
-    instanceOf: scarlet-witch-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: she-hulk-service@jackie-wilson66
-  title: she-hulk-service@jackie-wilson
-  properties:
-    appUrl: http://neque.biz
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.53
-    memUsed: 0.78
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: jackie-wilson
-    instanceOf: she-hulk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: elektra-service@gladys-knight12
-  title: elektra-service@gladys-knight
-  properties:
-    appUrl: http://cupiditate.dev
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.23
-    memUsed: 1.47
-    color: jfhxgfh
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: elektra-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: superman-service@paul-rodgers64
-  title: superman-service@paul-rodgers
-  properties:
-    appUrl: http://reiciendis.biz
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.27
-    memUsed: 0.9
-    color: zdsftrn
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: batman-service@nina-simone170
-  title: batman-service@nina-simone
+  identifier: wolverine-service@james-taylor14
+  title: wolverine-service@james-taylor
   properties:
     appUrl: http://vitae.io
     cpuLimit: 2
     memLimit: 1
-    cpuUsed: 1.44
-    memUsed: 0.35
-    color: null
-    color2: null
+    cpuUsed: 0.18
+    memUsed: 0.46
     studio: Beauceron
   relations:
-    deployedAt: nina-simone
-    instanceOf: batman-service
-  team: On the Waterfront
+    deployedAt: james-taylor
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: cypher-service@paul-rodgers198
-  title: cypher-service@paul-rodgers
+  identifier: ice-service@gregg-allman68
+  title: ice-service@gregg-allman
   properties:
-    appUrl: https://quia.name
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.51
-    memUsed: 1.71
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: paul-rodgers
-    instanceOf: cypher-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: batgirl-service@karen-carpenter189
-  title: batgirl-service@karen-carpenter
-  properties:
-    appUrl: https://voluptatem.dev
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.26
-    memUsed: 3.42
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: karen-carpenter
-    instanceOf: batgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: batgirl-service@paul-mc-cartney193
-  title: batgirl-service@paul-mc-cartney
-  properties:
-    appUrl: http://laborum.net
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.71
-    memUsed: 0.26
-    color: cxbvc
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: batgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: batman-service@kurt-cobain187
-  title: batman-service@kurt-cobain
-  properties:
-    appUrl: http://nemo.com
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 2.71
-    memUsed: 0.27
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: kurt-cobain
-    instanceOf: batman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@sam-cooke46
-  title: hawkgirl-service@sam-cooke
-  properties:
-    appUrl: https://hic.biz
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.83
-    memUsed: 1.67
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: sam-cooke
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@otis-redding114
-  title: lady-blackhawk-service@otis-redding
-  properties:
-    appUrl: https://qui.org
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 0.43
-    memUsed: 1.77
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: otis-redding
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@solomon-burke16
-  title: green-arrow-service@solomon-burke
-  properties:
-    appUrl: http://quas.biz
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.35
-    memUsed: 2.59
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: solomon-burke
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: green-arrow-service@muddy-waters23
-  title: green-arrow-service@muddy-waters
-  properties:
-    appUrl: http://blanditiis.info
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.42
-    memUsed: 1.15
-    color: fmytuf
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: green-arrow-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: black-lightning-service@aretha-franklin19
-  title: black-lightning-service@aretha-franklin
-  properties:
-    appUrl: https://maiores.com
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.86
-    memUsed: 2.85
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: aretha-franklin
-    instanceOf: black-lightning-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: cypher-service@michael-jackson154
-  title: cypher-service@michael-jackson
-  properties:
-    appUrl: http://possimus.name
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.17
-    memUsed: 1.84
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: michael-jackson
-    instanceOf: cypher-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: carol-danvers-service@john-fogerty181
-  title: carol-danvers-service@john-fogerty
-  properties:
-    appUrl: http://cupiditate.com
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 3.12
-    memUsed: 1.13
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: john-fogerty
-    instanceOf: carol-danvers-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: batman-service@john-fogerty59
-  title: batman-service@john-fogerty
-  properties:
-    appUrl: http://sapiente.info
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.13
-    memUsed: 0.47
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: john-fogerty
-    instanceOf: batman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: superman-service@jerry-lee-lewis175
-  title: superman-service@jerry-lee-lewis
-  properties:
-    appUrl: https://voluptatem.info
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 0.78
-    memUsed: 0.62
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: jerry-lee-lewis
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: the-atom-service@darlene-love73
-  title: the-atom-service@darlene-love
-  properties:
-    appUrl: http://in.biz
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.31
-    memUsed: 1.12
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: darlene-love
-    instanceOf: the-atom-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: x-23-service@prince173
-  title: x-23-service@prince
-  properties:
-    appUrl: http://cupiditate.biz
+    appUrl: http://doloribus.dev
     cpuLimit: 3
     memLimit: 4
-    cpuUsed: 2.69
-    memUsed: 3.44
-    color: null
-    color2: null
-    studio: English Mastiff
+    cpuUsed: 0.45
+    memUsed: 2.08
+    studio: Boykin Spaniel
   relations:
-    deployedAt: prince
-    instanceOf: x-23-service
-  team: On the Waterfront
+    deployedAt: gregg-allman
+    instanceOf: ice-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
 - blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@patti-smith84
-  title: lady-blackhawk-service@patti-smith
-  properties:
-    appUrl: https://error.org
-    cpuLimit: 3
-    memLimit: 1
-    cpuUsed: 0.54
-    memUsed: 0.25
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: patti-smith
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: wonder-woman-service@patsy-cline157
-  title: wonder-woman-service@patsy-cline
-  properties:
-    appUrl: http://est.name
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 0.59
-    memUsed: 0.93
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: patsy-cline
-    instanceOf: wonder-woman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: punisher-service@b-b-king33
-  title: punisher-service@b-b-king
-  properties:
-    appUrl: http://quaerat.com
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 1.09
-    memUsed: 1.23
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: b-b-king
-    instanceOf: punisher-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@dion60
-  title: power-girl-service@dion
-  properties:
-    appUrl: https://eos.com
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.99
-    memUsed: 1.77
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: dion
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: wasp-service@nina-simone58
-  title: wasp-service@nina-simone
-  properties:
-    appUrl: http://asperiores.com
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 1.72
-    memUsed: 0.54
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: nina-simone
-    instanceOf: wasp-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: black-lightning-service@lou-reed17
-  title: black-lightning-service@lou-reed
-  properties:
-    appUrl: http://labore.com
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 0.38
-    memUsed: 0.7
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: lou-reed
-    instanceOf: black-lightning-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@eric-burdon82
-  title: power-girl-service@eric-burdon
-  properties:
-    appUrl: https://est.biz
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.79
-    memUsed: 2.85
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: storm-service@b-b-king172
-  title: storm-service@b-b-king
-  properties:
-    appUrl: http://id.io
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 0.51
-    memUsed: 1.3
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: b-b-king
-    instanceOf: storm-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: green-lantern-service@prince143
-  title: green-lantern-service@prince
-  properties:
-    appUrl: https://voluptatibus.org
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 1.34
-    memUsed: 1.38
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: prince
-    instanceOf: green-lantern-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: silver-sable-service@lou-reed146
-  title: silver-sable-service@lou-reed
-  properties:
-    appUrl: http://facilis.name
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.89
-    memUsed: 0.14
-    color: null
-    color2: null
-    studio: Alaskan Malamute
-  relations:
-    deployedAt: lou-reed
-    instanceOf: silver-sable-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: huntress-service@gladys-knight133
-  title: huntress-service@gladys-knight
-  properties:
-    appUrl: https://occaecati.name
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.18
-    memUsed: 1.28
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: gladys-knight
-    instanceOf: huntress-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: frog-thor-service@patti-smith135
-  title: frog-thor-service@patti-smith
-  properties:
-    appUrl: http://at.org
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 2.91
-    memUsed: 0.58
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: patti-smith
-    instanceOf: frog-thor-service
-  team: Singin' in the Rain
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@don-henley32
-  title: martian-manhunter-service@don-henley
-  properties:
-    appUrl: https://dolores.biz
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 0.54
-    memUsed: 0.85
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: superman-service@muddy-waters86
-  title: superman-service@muddy-waters
-  properties:
-    appUrl: http://omnis.org
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.14
-    memUsed: 0.27
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: superman-service
-  team: The Godfather
-- blueprint: ServiceInEnv
-  identifier: moon-knight-service@hank-williams177
-  title: moon-knight-service@hank-williams
-  properties:
-    appUrl: https://quia.io
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 1.64
-    memUsed: 1.52
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: moon-knight-service
-  team: Catch Me If You Can
-- blueprint: ServiceInEnv
-  identifier: she-hulk-service@david-ruffin76
-  title: she-hulk-service@david-ruffin
-  properties:
-    appUrl: https://vel.io
-    cpuLimit: 1
-    memLimit: 4
-    cpuUsed: 0.16
-    memUsed: 1.28
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: david-ruffin
-    instanceOf: she-hulk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: black-lightning-service@paul-rodgers25
-  title: black-lightning-service@paul-rodgers
-  properties:
-    appUrl: http://dicta.net
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 2.54
-    memUsed: 0.86
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: paul-rodgers
-    instanceOf: black-lightning-service
-  team: Rashomon
-- blueprint: ServiceInEnv
-  identifier: carol-danvers-service@bob-dylan168
-  title: carol-danvers-service@bob-dylan
-  properties:
-    appUrl: https://sunt.net
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 0.25
-    memUsed: 0.94
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: bob-dylan
-    instanceOf: carol-danvers-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: huntress-service@donny-hathaway152
-  title: huntress-service@donny-hathaway
-  properties:
-    appUrl: http://est.net
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.66
-    memUsed: 2.53
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: donny-hathaway
-    instanceOf: huntress-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: blink-service@darlene-love199
-  title: blink-service@darlene-love
-  properties:
-    appUrl: http://nulla.info
-    cpuLimit: 4
-    memLimit: 2
-    cpuUsed: 0.19
-    memUsed: 0.83
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: darlene-love
-    instanceOf: blink-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: frog-thor-service@bonnie-raitt39
-  title: frog-thor-service@bonnie-raitt
-  properties:
-    appUrl: http://consectetur.name
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.34
-    memUsed: 1.46
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: bonnie-raitt
-    instanceOf: frog-thor-service
-  team: Singin' in the Rain
-- blueprint: ServiceInEnv
-  identifier: scarlet-witch-service@hank-williams40
-  title: scarlet-witch-service@hank-williams
-  properties:
-    appUrl: http://sed.info
-    cpuLimit: 3
-    memLimit: 1
-    cpuUsed: 1.3
-    memUsed: 0.19
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: scarlet-witch-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@tom-waits80
-  title: power-girl-service@tom-waits
-  properties:
-    appUrl: http://non.org
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.87
-    memUsed: 0.25
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: tom-waits
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: power-girl-service@donny-hathaway96
-  title: power-girl-service@donny-hathaway
-  properties:
-    appUrl: http://aliquid.net
-    cpuLimit: 2
-    memLimit: 1
-    cpuUsed: 1.54
-    memUsed: 0.37
-    color: null
-    color2: null
-    studio: Beauceron
-  relations:
-    deployedAt: muddy-waters
-    instanceOf: power-girl-service
-  team: Chinatown
-- blueprint: ServiceInEnv
-  identifier: lady-blackhawk-service@art-garfunkel126
-  title: lady-blackhawk-service@art-garfunkel
-  properties:
-    appUrl: https://reiciendis.dev
-    cpuLimit: 3
-    memLimit: 3
-    cpuUsed: 2.05
-    memUsed: 0.71
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
-  relations:
-    deployedAt: art-garfunkel
-    instanceOf: lady-blackhawk-service
-  team: Modern Times
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@dusty-springfield94
-  title: hawkgirl-service@dusty-springfield
+  identifier: carol-danvers-service@eric-burdon162
+  title: carol-danvers-service@eric-burdon
   properties:
     appUrl: https://error.dev
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.7
+    memUsed: 1.05
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: carol-danvers-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@james-taylor175
+  title: silver-sable-service@james-taylor
+  properties:
+    appUrl: http://voluptatem.info
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 2.28
+    memUsed: 0.56
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: silver-sable-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: scarlet-witch-service@wilson-pickett160
+  title: scarlet-witch-service@wilson-pickett
+  properties:
+    appUrl: http://qui.info
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.38
+    memUsed: 0.47
+    studio: Denmark Feist
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: scarlet-witch-service
+  team:
+    - Full Metal Jacket
+- blueprint: ServiceInEnv
+  identifier: wasp-service@brian-wilson169
+  title: wasp-service@brian-wilson
+  properties:
+    appUrl: https://commodi.com
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.42
+    memUsed: 2.15
+    studio: Beauceron
+  relations:
+    deployedAt: brian-wilson
+    instanceOf: wasp-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@etta-james92
+  title: invisible-woman-service@etta-james
+  properties:
+    appUrl: http://blanditiis.dev
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.94
+    memUsed: 0.56
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: etta-james
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@james-brown181
+  title: supergirl-service@james-brown
+  properties:
+    appUrl: https://deserunt.biz
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.57
+    memUsed: 1.38
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: james-brown
+    instanceOf: supergirl-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: x-23-service@frankie-valli78
+  title: x-23-service@frankie-valli
+  properties:
+    appUrl: http://quasi.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.04
+    memUsed: 2.85
+    studio: Denmark Feist
+  relations:
+    deployedAt: frankie-valli
+    instanceOf: x-23-service
+  team:
+    - The Truman Show
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+    - Full Metal Jacket
+    - The Intouchables
+- blueprint: ServiceInEnv
+  identifier: storm-service@jeff-buckley140
+  title: storm-service@jeff-buckley
+  properties:
+    appUrl: https://nostrum.com
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.22
+    memUsed: 1.93
+    studio: Beauceron
+  relations:
+    deployedAt: jeff-buckley
+    instanceOf: storm-service
+  team:
+    - Prisoners
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: iron-man-service@patti-la-belle199
+  title: iron-man-service@patti-la-belle
+  properties:
+    appUrl: https://consequatur.dev
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.11
+    memUsed: 0.85
+    studio: Beauceron
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: iron-man-service
+  team:
+    - The Truman Show
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@wilson-pickett159
+  title: black-widow-service@wilson-pickett
+  properties:
+    appUrl: http://hic.name
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 2.52
+    memUsed: 2.76
+    studio: Denmark Feist
+  relations:
+    deployedAt: wilson-pickett
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: frog-thor-service@eric-burdon133
+  title: frog-thor-service@eric-burdon
+  properties:
+    appUrl: http://vel.org
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.4
+    memUsed: 2.87
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: frog-thor-service
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: elektra-service@smokey-robinson67
+  title: elektra-service@smokey-robinson
+  properties:
+    appUrl: http://facilis.dev
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.74
+    memUsed: 0.18
+    studio: Beauceron
+  relations:
+    deployedAt: smokey-robinson
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: x-23-service@mavis-staples153
+  title: x-23-service@mavis-staples
+  properties:
+    appUrl: http://est.io
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.58
+    memUsed: 0.52
+    studio: Beauceron
+  relations:
+    deployedAt: mavis-staples
+    instanceOf: x-23-service
+  team:
+    - The Truman Show
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+    - Full Metal Jacket
+    - The Intouchables
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@b-b-king32
+  title: invisible-woman-service@b-b-king
+  properties:
+    appUrl: http://est.biz
     cpuLimit: 1
     memLimit: 3
     cpuUsed: 0.46
-    memUsed: 2.12
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: dusty-springfield
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: captain-atom-service@don-henley139
-  title: captain-atom-service@don-henley
-  properties:
-    appUrl: http://enim.info
-    cpuLimit: 2
-    memLimit: 2
-    cpuUsed: 0.98
-    memUsed: 1.5
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: don-henley
-    instanceOf: captain-atom-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: wasp-service@otis-redding195
-  title: wasp-service@otis-redding
-  properties:
-    appUrl: https://vel.io
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.14
-    memUsed: 0.66
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: otis-redding
-    instanceOf: wasp-service
-  team: Witness for the Prosecution
-- blueprint: ServiceInEnv
-  identifier: the-atom-service@neil-young194
-  title: the-atom-service@neil-young
-  properties:
-    appUrl: https://blanditiis.io
-    cpuLimit: 4
-    memLimit: 1
-    cpuUsed: 2.73
-    memUsed: 0.29
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: neil-young
-    instanceOf: the-atom-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: captain-atom-service@darlene-love87
-  title: captain-atom-service@darlene-love
-  properties:
-    appUrl: https://magnam.io
-    cpuLimit: 1
-    memLimit: 2
-    cpuUsed: 0.66
-    memUsed: 1.99
-    color: null
-    color2: null
-    studio: French Poodle
-  relations:
-    deployedAt: darlene-love
-    instanceOf: captain-atom-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: hawkgirl-service@don-henley130
-  title: hawkgirl-service@don-henley
-  properties:
-    appUrl: https://dicta.info
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 0.92
-    memUsed: 0.34
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: don-henley
-    instanceOf: hawkgirl-service
-  team: Casino
-- blueprint: ServiceInEnv
-  identifier: martian-manhunter-service@dion13
-  title: martian-manhunter-service@dion
-  properties:
-    appUrl: http://consectetur.com
-    cpuLimit: 4
-    memLimit: 4
-    cpuUsed: 2.5
-    memUsed: 2.76
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: dion
-    instanceOf: martian-manhunter-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: frog-thor-service@brian-wilson21
-  title: frog-thor-service@brian-wilson
-  properties:
-    appUrl: http://laborum.biz
-    cpuLimit: 2
-    memLimit: 4
-    cpuUsed: 0.39
-    memUsed: 1.9
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
-  relations:
-    deployedAt: brian-wilson
-    instanceOf: frog-thor-service
-  team: Singin' in the Rain
-- blueprint: ServiceInEnv
-  identifier: invisible-woman-service@b-b-king155
-  title: invisible-woman-service@b-b-king
-  properties:
-    appUrl: https://omnis.info
-    cpuLimit: 2
-    memLimit: 3
-    cpuUsed: 0.44
-    memUsed: 0.07
-    color: null
-    color2: null
-    studio: Beauceron
+    memUsed: 1.06
+    studio: Jack Russell Terrier
   relations:
     deployedAt: b-b-king
     instanceOf: invisible-woman-service
-  team: Requiem for a Dream
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
 - blueprint: ServiceInEnv
-  identifier: she-hulk-service@paul-mc-cartney1
-  title: she-hulk-service@paul-mc-cartney
+  identifier: carol-danvers-service@elton-john177
+  title: carol-danvers-service@elton-john
   properties:
-    appUrl: http://hic.org
+    appUrl: https://nemo.biz
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 2.18
+    memUsed: 1.82
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: elton-john
+    instanceOf: carol-danvers-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: hawkgirl-service@lou-reed6
+  title: hawkgirl-service@lou-reed
+  properties:
+    appUrl: https://blanditiis.com
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.71
+    memUsed: 1.88
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: lou-reed
+    instanceOf: hawkgirl-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: deadpool-service@john-fogerty193
+  title: deadpool-service@john-fogerty
+  properties:
+    appUrl: https://deserunt.org
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 1.39
+    memUsed: 0.44
+    studio: Denmark Feist
+  relations:
+    deployedAt: john-fogerty
+    instanceOf: deadpool-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@bobby-blue-bland157
+  title: spider-man-service@bobby-blue-bland
+  properties:
+    appUrl: https://laborum.org
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.86
+    memUsed: 1.48
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: spider-man-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: elektra-service@van-morrison34
+  title: elektra-service@van-morrison
+  properties:
+    appUrl: https://quasi.info
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.15
+    memUsed: 1.44
+    studio: Denmark Feist
+  relations:
+    deployedAt: van-morrison
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: gambit-service@luther-vandross96
+  title: gambit-service@luther-vandross
+  properties:
+    appUrl: https://consectetur.dev
     cpuLimit: 1
     memLimit: 4
-    cpuUsed: 0.81
-    memUsed: 3.61
-    color: null
-    color2: null
-    studio: Nova Scotia Duck Tolling Retriever
+    cpuUsed: 0.96
+    memUsed: 1.69
+    studio: Siberian Husky
   relations:
-    deployedAt: paul-mc-cartney
-    instanceOf: she-hulk-service
-  team: Modern Times
+    deployedAt: luther-vandross
+    instanceOf: gambit-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
 - blueprint: ServiceInEnv
-  identifier: frog-thor-service@robert-plant191
-  title: frog-thor-service@robert-plant
+  identifier: wasp-service@john-fogerty107
+  title: wasp-service@john-fogerty
   properties:
-    appUrl: http://possimus.org
-    cpuLimit: 3
+    appUrl: https://numquam.biz
+    cpuLimit: 2
     memLimit: 4
-    cpuUsed: 0.99
-    memUsed: 1.43
-    color: null
-    color2: null
+    cpuUsed: 1.71
+    memUsed: 0.48
+    studio: Denmark Feist
+  relations:
+    deployedAt: john-fogerty
+    instanceOf: wasp-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: superman-service@jeff-buckley1
+  title: superman-service@jeff-buckley
+  properties:
+    appUrl: https://blanditiis.org
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.41
+    memUsed: 2.66
     studio: Beauceron
   relations:
-    deployedAt: muddy-waters
-    instanceOf: frog-thor-service
-  team: Singin' in the Rain
+    deployedAt: jeff-buckley
+    instanceOf: superman-service
+  team:
+    - The Truman Show
+    - Sunset Blvd.
+    - Prisoners
 - blueprint: ServiceInEnv
-  identifier: wonder-woman-service@jackie-wilson132
-  title: wonder-woman-service@jackie-wilson
+  identifier: supergirl-service@tom-waits137
+  title: supergirl-service@tom-waits
   properties:
-    appUrl: https://est.biz
+    appUrl: http://fugiat.name
     cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 1.57
-    memUsed: 1.44
-    color: null
-    color2: null
-    studio: Maltese
-  relations:
-    deployedAt: jackie-wilson
-    instanceOf: wonder-woman-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: x-23-service@little-richard116
-  title: x-23-service@little-richard
-  properties:
-    appUrl: https://error.org
-    cpuLimit: 3
-    memLimit: 2
-    cpuUsed: 2.94
-    memUsed: 1.84
-    color: null
-    color2: null
-    studio: English Mastiff
-  relations:
-    deployedAt: little-richard
-    instanceOf: x-23-service
-  team: On the Waterfront
-- blueprint: ServiceInEnv
-  identifier: hawk-service@howlin-wolf11
-  title: hawk-service@howlin-wolf
-  properties:
-    appUrl: http://dicta.com
-    cpuLimit: 1
     memLimit: 1
-    cpuUsed: 0.48
-    memUsed: 0.5
-    color: null
-    color2: null
-    studio: Croatian Sheepdog
+    cpuUsed: 1.35
+    memUsed: 0.84
+    studio: Jack Russell Terrier
   relations:
-    deployedAt: howlin-wolf
-    instanceOf: hawk-service
-  team: On the Waterfront
+    deployedAt: tom-waits
+    instanceOf: supergirl-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
 - blueprint: ServiceInEnv
-  identifier: spider-man-service@bob-marley128
-  title: spider-man-service@bob-marley
+  identifier: green-lantern-service@otis-redding189
+  title: green-lantern-service@otis-redding
   properties:
-    appUrl: https://numquam.io
+    appUrl: http://et.org
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.8
+    memUsed: 0.56
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: otis-redding
+    instanceOf: green-lantern-service
+  team:
+    - The Terminator
+    - The Elephant Man
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@roy-orbison55
+  title: invisible-woman-service@roy-orbison
+  properties:
+    appUrl: https://quaerat.io
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 1.98
+    memUsed: 0.96
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: roy-orbison
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@b-b-king36
+  title: wolverine-service@b-b-king
+  properties:
+    appUrl: https://quaerat.com
     cpuLimit: 2
     memLimit: 2
-    cpuUsed: 0.28
-    memUsed: 0.44
-    color: null
-    color2: null
+    cpuUsed: 1.96
+    memUsed: 1.41
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: b-b-king
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: martian-manhunter-service@smokey-robinson116
+  title: martian-manhunter-service@smokey-robinson
+  properties:
+    appUrl: https://quia.org
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.36
+    memUsed: 1.4
     studio: Beauceron
   relations:
-    deployedAt: bob-marley
+    deployedAt: smokey-robinson
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@james-taylor93
+  title: captain-america-service@james-taylor
+  properties:
+    appUrl: https://doloribus.org
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 3.58
+    memUsed: 0.58
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@otis-redding51
+  title: black-widow-service@otis-redding
+  properties:
+    appUrl: http://nemo.org
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.06
+    memUsed: 1.5
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: otis-redding
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: hawk-service@darlene-love100
+  title: hawk-service@darlene-love
+  properties:
+    appUrl: https://aut.biz
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.37
+    memUsed: 2.09
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: darlene-love
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@lou-reed65
+  title: invisible-woman-service@lou-reed
+  properties:
+    appUrl: https://sed.dev
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.43
+    memUsed: 0
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: lou-reed
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@tina-turner138
+  title: supergirl-service@tina-turner
+  properties:
+    appUrl: http://nulla.name
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 1.99
+    memUsed: 2.68
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: tina-turner
+    instanceOf: supergirl-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: captain-america-service@gregg-allman143
+  title: captain-america-service@gregg-allman
+  properties:
+    appUrl: https://ullam.dev
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.15
+    memUsed: 2.14
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: gregg-allman
+    instanceOf: captain-america-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@stevie-wonder147
+  title: wolverine-service@stevie-wonder
+  properties:
+    appUrl: https://neque.biz
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.47
+    memUsed: 0.25
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: stevie-wonder
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: black-lightning-service@james-taylor186
+  title: black-lightning-service@james-taylor
+  properties:
+    appUrl: http://eos.name
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 3.87
+    memUsed: 1.21
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: black-lightning-service
+  team:
+    - The Terminator
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: martian-manhunter-service@patti-la-belle11
+  title: martian-manhunter-service@patti-la-belle
+  properties:
+    appUrl: https://beatae.org
+    cpuLimit: 3
+    memLimit: 1
+    cpuUsed: 0.46
+    memUsed: 0.01
+    studio: Beauceron
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: martian-manhunter-service
+  team:
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: cypher-service@james-taylor74
+  title: cypher-service@james-taylor
+  properties:
+    appUrl: http://nostrum.biz
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.35
+    memUsed: 1.83
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: cypher-service
+  team:
+    - Prisoners
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@dusty-springfield66
+  title: black-widow-service@dusty-springfield
+  properties:
+    appUrl: http://blanditiis.net
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 0.82
+    memUsed: 0.36
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@roy-orbison108
+  title: spider-man-service@roy-orbison
+  properties:
+    appUrl: https://asperiores.org
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 2.75
+    memUsed: 2.29
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: roy-orbison
     instanceOf: spider-man-service
-  team: The Godfather
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: batgirl-service@dusty-springfield70
+  title: batgirl-service@dusty-springfield
+  properties:
+    appUrl: https://id.org
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.8
+    memUsed: 0.77
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: dusty-springfield
+    instanceOf: batgirl-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: iron-man-service@elvis-presley119
+  title: iron-man-service@elvis-presley
+  properties:
+    appUrl: http://voluptate.com
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.14
+    memUsed: 0.23
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: iron-man-service
+  team:
+    - The Truman Show
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@jackie-wilson12
+  title: black-canary-service@jackie-wilson
+  properties:
+    appUrl: http://sit.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 1.14
+    memUsed: 0.9
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: jackie-wilson
+    instanceOf: black-canary-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: rogue-service@stevie-wonder109
+  title: rogue-service@stevie-wonder
+  properties:
+    appUrl: https://id.org
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.24
+    memUsed: 2.29
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: stevie-wonder
+    instanceOf: rogue-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@eric-burdon87
+  title: the-flash-service@eric-burdon
+  properties:
+    appUrl: https://ducimus.info
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 2.82
+    memUsed: 1.74
+    studio: Beauceron
+  relations:
+    deployedAt: eric-burdon
+    instanceOf: the-flash-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: elektra-service@stevie-wonder54
+  title: elektra-service@stevie-wonder
+  properties:
+    appUrl: http://laborum.dev
+    cpuLimit: 2
+    memLimit: 4
+    cpuUsed: 0.98
+    memUsed: 0
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: stevie-wonder
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@bob-dylan57
+  title: wolverine-service@bob-dylan
+  properties:
+    appUrl: http://ipsum.name
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 0.99
+    memUsed: 1.67
+    studio: Siberian Husky
+  relations:
+    deployedAt: bob-dylan
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: silver-sable-service@steve-winwood164
+  title: silver-sable-service@steve-winwood
+  properties:
+    appUrl: https://esse.com
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.55
+    memUsed: 0.31
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: steve-winwood
+    instanceOf: silver-sable-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: ServiceInEnv
+  identifier: black-lightning-service@bob-marley114
+  title: black-lightning-service@bob-marley
+  properties:
+    appUrl: https://quos.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.62
+    memUsed: 1
+    studio: Giant Schnauzer
+  relations:
+    deployedAt: bob-marley
+    instanceOf: black-lightning-service
+  team:
+    - The Terminator
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: gamora-service@gregg-allman20
+  title: gamora-service@gregg-allman
+  properties:
+    appUrl: http://sit.com
+    cpuLimit: 1
+    memLimit: 2
+    cpuUsed: 0.11
+    memUsed: 1.76
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: gregg-allman
+    instanceOf: gamora-service
+  team:
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+    - Prisoners
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: hawk-service@james-taylor103
+  title: hawk-service@james-taylor
+  properties:
+    appUrl: https://deserunt.info
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 1.08
+    memUsed: 2.29
+    studio: Beauceron
+  relations:
+    deployedAt: james-taylor
+    instanceOf: hawk-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: elektra-service@steve-winwood174
+  title: elektra-service@steve-winwood
+  properties:
+    appUrl: https://vitae.net
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 1.77
+    memUsed: 1.31
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: steve-winwood
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@elvis-presley30
+  title: power-girl-service@elvis-presley
+  properties:
+    appUrl: http://tenetur.io
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.54
+    memUsed: 2.05
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: power-girl-service
+  team:
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@b-b-king52
+  title: doctor-strange-service@b-b-king
+  properties:
+    appUrl: http://in.dev
+    cpuLimit: 4
+    memLimit: 2
+    cpuUsed: 2.86
+    memUsed: 0.68
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: b-b-king
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: power-girl-service@james-brown48
+  title: power-girl-service@james-brown
+  properties:
+    appUrl: https://necessitatibus.dev
+    cpuLimit: 3
+    memLimit: 2
+    cpuUsed: 0.64
+    memUsed: 0.46
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: james-brown
+    instanceOf: power-girl-service
+  team:
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: wolverine-service@elvis-presley129
+  title: wolverine-service@elvis-presley
+  properties:
+    appUrl: http://magnam.name
+    cpuLimit: 4
+    memLimit: 3
+    cpuUsed: 2.1
+    memUsed: 2.1
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: elvis-presley
+    instanceOf: wolverine-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@stevie-wonder3
+  title: doctor-strange-service@stevie-wonder
+  properties:
+    appUrl: http://consequuntur.io
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.69
+    memUsed: 2.37
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: stevie-wonder
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: supergirl-service@mick-jagger113
+  title: supergirl-service@mick-jagger
+  properties:
+    appUrl: http://at.name
+    cpuLimit: 2
+    memLimit: 1
+    cpuUsed: 0.49
+    memUsed: 0.81
+    studio: Siberian Husky
+  relations:
+    deployedAt: mick-jagger
+    instanceOf: supergirl-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: wasp-service@etta-james128
+  title: wasp-service@etta-james
+  properties:
+    appUrl: https://quas.name
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 0.39
+    memUsed: 1.98
+    studio: Cocker Spaniel
+  relations:
+    deployedAt: etta-james
+    instanceOf: wasp-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - The Truman Show
+- blueprint: ServiceInEnv
+  identifier: black-lightning-service@van-morrison163
+  title: black-lightning-service@van-morrison
+  properties:
+    appUrl: https://ipsum.name
+    cpuLimit: 1
+    memLimit: 3
+    cpuUsed: 0.52
+    memUsed: 0.8
+    studio: Denmark Feist
+  relations:
+    deployedAt: van-morrison
+    instanceOf: black-lightning-service
+  team:
+    - The Terminator
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: gamora-service@stevie-wonder84
+  title: gamora-service@stevie-wonder
+  properties:
+    appUrl: http://dolores.name
+    cpuLimit: 4
+    memLimit: 4
+    cpuUsed: 3.9
+    memUsed: 2.32
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: stevie-wonder
+    instanceOf: gamora-service
+  team:
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+    - Prisoners
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: elektra-service@bob-dylan76
+  title: elektra-service@bob-dylan
+  properties:
+    appUrl: http://cupiditate.info
+    cpuLimit: 3
+    memLimit: 3
+    cpuUsed: 1.25
+    memUsed: 1.41
+    studio: Siberian Husky
+  relations:
+    deployedAt: bob-dylan
+    instanceOf: elektra-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: black-canary-service@patti-la-belle9
+  title: black-canary-service@patti-la-belle
+  properties:
+    appUrl: https://non.io
+    cpuLimit: 1
+    memLimit: 4
+    cpuUsed: 0.65
+    memUsed: 0.1
+    studio: Beauceron
+  relations:
+    deployedAt: patti-la-belle
+    instanceOf: black-canary-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@b-b-king106
+  title: spider-man-service@b-b-king
+  properties:
+    appUrl: http://neque.io
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.65
+    memUsed: 0.49
+    studio: Jack Russell Terrier
+  relations:
+    deployedAt: b-b-king
+    instanceOf: spider-man-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: black-widow-service@aretha-franklin16
+  title: black-widow-service@aretha-franklin
+  properties:
+    appUrl: https://sequi.net
+    cpuLimit: 3
+    memLimit: 4
+    cpuUsed: 0.43
+    memUsed: 0.68
+    studio: Siberian Husky
+  relations:
+    deployedAt: aretha-franklin
+    instanceOf: black-widow-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: ServiceInEnv
+  identifier: spider-man-service@rod-stewart131
+  title: spider-man-service@rod-stewart
+  properties:
+    appUrl: https://at.net
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 0.79
+    memUsed: 1.85
+    studio: Beauceron
+  relations:
+    deployedAt: rod-stewart
+    instanceOf: spider-man-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: ServiceInEnv
+  identifier: moon-knight-service@bobby-blue-bland161
+  title: moon-knight-service@bobby-blue-bland
+  properties:
+    appUrl: https://tenetur.info
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.32
+    memUsed: 1.03
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: bobby-blue-bland
+    instanceOf: moon-knight-service
+  team:
+    - Full Metal Jacket
+    - The Elephant Man
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: the-flash-service@stevie-wonder155
+  title: the-flash-service@stevie-wonder
+  properties:
+    appUrl: http://error.dev
+    cpuLimit: 2
+    memLimit: 3
+    cpuUsed: 0.56
+    memUsed: 0.38
+    studio: Boykin Spaniel
+  relations:
+    deployedAt: stevie-wonder
+    instanceOf: the-flash-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+- blueprint: ServiceInEnv
+  identifier: invisible-woman-service@james-brown58
+  title: invisible-woman-service@james-brown
+  properties:
+    appUrl: https://enim.biz
+    cpuLimit: 2
+    memLimit: 2
+    cpuUsed: 1.77
+    memUsed: 1.34
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: james-brown
+    instanceOf: invisible-woman-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: ServiceInEnv
+  identifier: doctor-strange-service@lou-reed73
+  title: doctor-strange-service@lou-reed
+  properties:
+    appUrl: http://beatae.com
+    cpuLimit: 4
+    memLimit: 1
+    cpuUsed: 1.61
+    memUsed: 0.3
+    studio: Alaskan Malamute
+  relations:
+    deployedAt: lou-reed
+    instanceOf: doctor-strange-service
+  team:
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: iron-man-service
+  title: iron-man-service
+  properties:
+    latestVersion: 2.12.17
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/iron-man-service
+  relations:
+    using: null
+  team:
+    - The Truman Show
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: Service
+  identifier: elektra-service
+  title: elektra-service
+  properties:
+    latestVersion: 14.1.17
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/elektra-service
+  relations:
+    using: power-girl-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: wolverine-service
+  title: wolverine-service
+  properties:
+    latestVersion: 5.11.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/wolverine-service
+  relations:
+    using: green-lantern-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: Service
+  identifier: green-lantern-service
+  title: green-lantern-service
+  properties:
+    latestVersion: 3.19.7
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/green-lantern-service
+  relations:
+    using: null
+  team:
+    - The Terminator
+    - The Elephant Man
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: Service
+  identifier: power-girl-service
+  title: power-girl-service
+  properties:
+    latestVersion: 11.18.19
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/power-girl-service
+  relations:
+    using: null
+  team:
+    - The Terminator
+- blueprint: Service
+  identifier: ice-service
+  title: ice-service
+  properties:
+    latestVersion: 15.14.17
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/ice-service
+  relations:
+    using: carol-danvers-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+- blueprint: Service
+  identifier: frog-thor-service
+  title: frog-thor-service
+  properties:
+    latestVersion: 14.7.7
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/frog-thor-service
+  relations:
+    using: hawkman-service
+  team:
+    - Prisoners
+    - The Terminator
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: Service
+  identifier: hawkgirl-service
+  title: hawkgirl-service
+  properties:
+    latestVersion: 7.11.6
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawkgirl-service
+  relations:
+    using: gambit-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: Service
+  identifier: doctor-strange-service
+  title: doctor-strange-service
+  properties:
+    latestVersion: 15.11.7
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/doctor-strange-service
+  relations:
+    using: carol-danvers-service
+  team:
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: batgirl-service
+  title: batgirl-service
+  properties:
+    latestVersion: 13.12.4
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/batgirl-service
+  relations:
+    using: spider-man-service
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: Service
+  identifier: gambit-service
+  title: gambit-service
+  properties:
+    latestVersion: 10.4.6
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/gambit-service
+  relations:
+    using: gamora-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+    - Sunset Blvd.
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+- blueprint: Service
+  identifier: black-canary-service
+  title: black-canary-service
+  properties:
+    latestVersion: 18.13.4
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/black-canary-service
+  relations:
+    using: black-lightning-service
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - The Terminator
+- blueprint: Service
+  identifier: cypher-service
+  title: cypher-service
+  properties:
+    latestVersion: 18.9.5
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/cypher-service
+  relations:
+    using: jade-service
+  team:
+    - Prisoners
+- blueprint: Service
+  identifier: gamora-service
+  title: gamora-service
+  properties:
+    latestVersion: 13.1.20
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/gamora-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+    - Prisoners
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: black-widow-service
+  title: black-widow-service
+  properties:
+    latestVersion: 0.1.11
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-widow-service
+  relations:
+    using: the-flash-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: green-arrow-service
+  title: green-arrow-service
+  properties:
+    latestVersion: 5.13.0
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/green-arrow-service
+  relations:
+    using: cypher-service
+  team:
+    - The Intouchables
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: Service
+  identifier: blink-service
+  title: blink-service
+  properties:
+    latestVersion: 0.9.15
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/blink-service
+  relations:
+    using: hawkman-service
+  team:
+    - The Truman Show
+    - The Elephant Man
+    - Prisoners
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: Service
+  identifier: martian-manhunter-service
+  title: martian-manhunter-service
+  properties:
+    latestVersion: 8.14.17
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/martian-manhunter-service
+  relations:
+    using: frog-thor-service
+  team:
+    - The Truman Show
+- blueprint: Service
+  identifier: captain-america-service
+  title: captain-america-service
+  properties:
+    latestVersion: 14.18.5
+    language: Python
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-america-service
+  relations:
+    using: null
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: Service
+  identifier: scarlet-witch-service
+  title: scarlet-witch-service
+  properties:
+    latestVersion: 18.2.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/scarlet-witch-service
+  relations:
+    using: superman-service
+  team:
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: the-flash-service
+  title: the-flash-service
+  properties:
+    latestVersion: 19.13.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-flash-service
+  relations:
+    using: null
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+- blueprint: Service
+  identifier: carol-danvers-service
+  title: carol-danvers-service
+  properties:
+    latestVersion: 1.13.13
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/carol-danvers-service
+  relations:
+    using: x-23-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: x-23-service
+  title: x-23-service
+  properties:
+    latestVersion: 0.18.5
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/x-23-service
+  relations:
+    using: rogue-service
+  team:
+    - The Truman Show
+    - Three Billboards Outside Ebbing, Missouri
+    - 'The Godfather: Part II'
+    - Full Metal Jacket
+    - The Intouchables
+- blueprint: Service
+  identifier: invisible-woman-service
+  title: invisible-woman-service
+  properties:
+    latestVersion: 15.14.7
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/invisible-woman-service
+  relations:
+    using: ice-service
+  team:
+    - Full Metal Jacket
+    - 'The Godfather: Part II'
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: Service
+  identifier: thor-service
+  title: thor-service
+  properties:
+    latestVersion: 9.4.8
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/thor-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - The Terminator
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: wasp-service
+  title: wasp-service
+  properties:
+    latestVersion: 5.2.14
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/wasp-service
+  relations:
+    using: null
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - The Truman Show
+- blueprint: Service
+  identifier: captain-atom-service
+  title: captain-atom-service
+  properties:
+    latestVersion: 11.15.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-atom-service
+  relations:
+    using: null
+  team:
+    - Full Metal Jacket
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Terminator
+- blueprint: Service
+  identifier: moon-knight-service
+  title: moon-knight-service
+  properties:
+    latestVersion: 4.18.17
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/moon-knight-service
+  relations:
+    using: superman-service
+  team:
+    - Full Metal Jacket
+    - The Elephant Man
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: Service
+  identifier: punisher-service
+  title: punisher-service
+  properties:
+    latestVersion: 18.3.8
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/punisher-service
+  relations:
+    using: green-arrow-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: black-panther-service
+  title: black-panther-service
+  properties:
+    latestVersion: 9.7.12
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/black-panther-service
+  relations:
+    using: x-23-service
+  team:
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - Full Metal Jacket
+    - The Elephant Man
+- blueprint: Service
+  identifier: storm-service
+  title: storm-service
+  properties:
+    latestVersion: 10.19.15
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/storm-service
+  relations:
+    using: hawkgirl-service
+  team:
+    - Prisoners
+    - The Terminator
+- blueprint: Service
+  identifier: wonder-woman-service
+  title: wonder-woman-service
+  properties:
+    latestVersion: 9.17.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/wonder-woman-service
+  relations:
+    using: invisible-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+- blueprint: Service
+  identifier: rogue-service
+  title: rogue-service
+  properties:
+    latestVersion: 15.6.17
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/rogue-service
+  relations:
+    using: supergirl-service
+  team:
+    - Full Metal Jacket
+    - Sunset Blvd.
+    - 'The Godfather: Part II'
+- blueprint: Service
+  identifier: spider-man-service
+  title: spider-man-service
+  properties:
+    latestVersion: 15.1.5
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/spider-man-service
+  relations:
+    using: null
+  team:
+    - Prisoners
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - 'The Godfather: Part II'
+    - The Intouchables
+    - The Elephant Man
+- blueprint: Service
+  identifier: hawk-service
+  title: hawk-service
+  properties:
+    latestVersion: 7.6.19
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/hawk-service
+  relations:
+    using: wonder-woman-service
+  team:
+    - 'The Godfather: Part II'
+    - The Terminator
+    - The Truman Show
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Elephant Man
+- blueprint: Service
+  identifier: supergirl-service
+  title: supergirl-service
+  properties:
+    latestVersion: 13.17.11
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/supergirl-service
+  relations:
+    using: green-lantern-service
+  team:
+    - 'The Godfather: Part II'
+    - Sunset Blvd.
+    - Three Billboards Outside Ebbing, Missouri
+    - The Truman Show
+- blueprint: Service
+  identifier: black-lightning-service
+  title: black-lightning-service
+  properties:
+    latestVersion: 13.10.13
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/black-lightning-service
+  relations:
+    using: daredevil-service
+  team:
+    - The Terminator
+    - The Elephant Man
+- blueprint: Service
+  identifier: silver-sable-service
+  title: silver-sable-service
+  properties:
+    latestVersion: 0.13.19
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/silver-sable-service
+  relations:
+    using: gambit-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - The Intouchables
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: Service
+  identifier: superman-service
+  title: superman-service
+  properties:
+    latestVersion: 17.11.8
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/superman-service
+  relations:
+    using: deadpool-service
+  team:
+    - The Truman Show
+    - Sunset Blvd.
+    - Prisoners
+- blueprint: Service
+  identifier: huntress-service
+  title: huntress-service
+  properties:
+    latestVersion: 10.3.2
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/huntress-service
+  relations:
+    using: hawk-service
+  team:
+    - The Elephant Man
+    - Three Billboards Outside Ebbing, Missouri
+    - Full Metal Jacket
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: deadpool-service
+  title: deadpool-service
+  properties:
+    latestVersion: 6.15.4
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/deadpool-service
+  relations:
+    using: null
+  team:
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+    - The Terminator
+- blueprint: Service
+  identifier: kitty-pryde-service
+  title: kitty-pryde-service
+  properties:
+    latestVersion: 1.2.2
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/kitty-pryde-service
+  relations:
+    using: hawkman-service
+  team:
+    - Sunset Blvd.
+    - The Truman Show
+    - The Terminator
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - Three Billboards Outside Ebbing, Missouri
+- blueprint: Service
+  identifier: batman-service
+  title: batman-service
+  properties:
+    latestVersion: 7.2.4
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/batman-service
+  relations:
+    using: superman-service
+  team:
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: she-hulk-service
+  title: she-hulk-service
+  properties:
+    latestVersion: 5.8.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/she-hulk-service
+  relations:
+    using: captain-america-service
+  team:
+    - The Truman Show
+    - The Terminator
+    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+- blueprint: Service
+  identifier: jade-service
+  title: jade-service
+  properties:
+    latestVersion: 18.12.1
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/jade-service
+  relations:
+    using: jade-service
+  team:
+    - The Intouchables
+    - The Truman Show
+- blueprint: Service
+  identifier: aquaman-service
+  title: aquaman-service
+  properties:
+    latestVersion: 18.17.15
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/aquaman-service
+  relations:
+    using: wolverine-service
+  team:
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: lady-blackhawk-service
+  title: lady-blackhawk-service
+  properties:
+    latestVersion: 20.1.11
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/lady-blackhawk-service
+  relations:
+    using: hawk-service
+  team:
+    - The Intouchables
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: daredevil-service
+  title: daredevil-service
+  properties:
+    latestVersion: 5.3.5
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/daredevil-service
+  relations:
+    using: hawkman-service
+  team:
+    - The Elephant Man
+    - Three Billboards Outside Ebbing, Missouri
+    - The Intouchables
+    - Sunset Blvd.
+- blueprint: Service
+  identifier: hawkman-service
+  title: hawkman-service
+  properties:
+    latestVersion: 16.7.17
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/hawkman-service
+  relations:
+    using: scarlet-witch-service
+  team:
+    - The Terminator
+    - The Truman Show
+    - The Intouchables
+    - Prisoners
+- blueprint: Service
+  identifier: the-atom-service
+  title: the-atom-service
+  properties:
+    latestVersion: 10.14.17
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/the-atom-service
+  relations:
+    using: blink-service
+  team:
+    - Full Metal Jacket
+    - The Intouchables
+    - The Elephant Man
+    - 'The Godfather: Part II'
+    - The Terminator

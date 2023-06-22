@@ -1,122 +1,100 @@
 - blueprint: Cluster
-  identifier: foul-mdammas
-  title: foul-mdammas
+  identifier: bouillabaisse
+  title: bouillabaisse
   properties:
     prometheus_url: >-
-      https://prometheus.com/247248,578084,628331,514797,197021,180577,690848,169334,184335,678725
-    studio: Maltese
-    kconfig: Giant Schnauzer
+      https://prometheus.com/614930,280466,22183,408391,937004,550811,325272,639954,493557,861352
+    studio: Denmark Feist
+    kconfig: French Poodle
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: empanadas
-  title: empanadas
+  identifier: gorditas-de-nata
+  title: gorditas-de-nata
   properties:
     prometheus_url: >-
-      https://prometheus.com/198831,491896,729938,735707,912606,864332,465117,789412,701018,137534
+      https://prometheus.com/152097,886978,776412,953882,293133,703252,851597,975904,447707,430407
     studio: Beauceron
-    kconfig: Beauceron
-  relations: {}
-- blueprint: Cluster
-  identifier: llunca-de-gallina
-  title: llunca-de-gallina
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/60295,195737,67756,858473,719700,975312,2154,198119,963405,170532
-    studio: Beauceron
-    kconfig: Basset Fauve de Bretagne
-  relations: {}
-- blueprint: Cluster
-  identifier: briam
-  title: briam
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/851414,496666,53988,893848,331162,118700,460576,653342,503778,895281
-    studio: Croatian Sheepdog
-    kconfig: Boykin Spaniel
-  relations: {}
-- blueprint: Cluster
-  identifier: vegetable-spring-rolls
-  title: vegetable-spring-rolls
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/59739,438013,506541,120328,850616,581332,647487,253117,868188,231598
-    studio: French Poodle
     kconfig: Denmark Feist
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: mssabaha
-  title: mssabaha
+  identifier: chicken-madras
+  title: chicken-madras
   properties:
     prometheus_url: >-
-      https://prometheus.com/393113,274079,74615,74318,217801,670793,976791,944443,178860,857186
+      https://prometheus.com/106210,330749,514950,929616,532629,786068,63419,888014,96765,702220
+    studio: Boykin Spaniel
+    kconfig: Basset Fauve de Bretagne
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: wagashi
+  title: wagashi
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/134215,444462,157625,842213,845276,30523,354234,848530,544656,368434
     studio: Alaskan Malamute
-    kconfig: Hygen Hound
+    kconfig: Denmark Feist
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: khao-soi
-  title: khao-soi
+  identifier: nikujaga
+  title: nikujaga
   properties:
     prometheus_url: >-
-      https://prometheus.com/569396,257190,251324,3588,984395,422209,720168,877402,684392,49974
-    studio: Nova Scotia Duck Tolling Retriever
-    kconfig: Beauceron
+      https://prometheus.com/819212,756243,25830,363296,695858,231405,20009,907938,50123,10565
+    studio: Jack Russell Terrier
+    kconfig: Jack Russell Terrier
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: aiseki-ryori
-  title: aiseki-ryori
+  identifier: bife-de-chorizo
+  title: bife-de-chorizo
   properties:
     prometheus_url: >-
-      https://prometheus.com/264442,153376,491314,656792,728777,625518,378182,539851,571798,668004
-    studio: Nova Scotia Duck Tolling Retriever
-    kconfig: English Mastiff
+      https://prometheus.com/849100,249040,41074,228256,650074,385957,763882,185480,313042,288292
+    studio: Siberian Husky
+    kconfig: Jack Russell Terrier
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: bollo-limpio
-  title: bollo-limpio
+  identifier: kafta
+  title: kafta
   properties:
     prometheus_url: >-
-      https://prometheus.com/254172,105335,954215,37494,458912,84181,620848,202151,851178,420772
-    studio: Maltese
-    kconfig: Boykin Spaniel
+      https://prometheus.com/792099,989786,977213,148233,826268,479923,758060,517430,210018,37107
+    studio: Denmark Feist
+    kconfig: Austrian Black and Tan Hound
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: cachapa
-  title: cachapa
+  identifier: chicken-makhani
+  title: chicken-makhani
   properties:
     prometheus_url: >-
-      https://prometheus.com/767002,160699,749649,86700,747496,377831,989380,914908,607407,594801
-    studio: English Mastiff
+      https://prometheus.com/524083,786981,755346,838015,967518,997065,935019,815875,164367,491297
+    studio: Beauceron
     kconfig: Nova Scotia Duck Tolling Retriever
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: e_GTYjtv8pvbPnE9lQ
-  title: string
+  identifier: arrosticini
+  title: arrosticini
   properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
+    prometheus_url: >-
+      https://prometheus.com/525109,598528,349826,902414,464899,249926,199926,865833,819786,285764
+    studio: Giant Schnauzer
+    kconfig: Cocker Spaniel
   relations: {}
+  team: []
 - blueprint: Cluster
-  identifier: e_w0CnOmQYRScUZ566
-  title: string
+  identifier: soba
+  title: soba
   properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
+    prometheus_url: >-
+      https://prometheus.com/942033,310433,678229,391967,122989,778552,601300,743557,960464,300826
+    studio: Cocker Spaniel
+    kconfig: Denmark Feist
   relations: {}
-- blueprint: Cluster
-  identifier: e_7uupaVEdEPgQHFwO
-  title: string
-  properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
-  relations: {}
-- blueprint: Cluster
-  identifier: e_cHoqJiw4pIOkxGUh
-  title: string
-  properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
-  relations: {}
+  team: []

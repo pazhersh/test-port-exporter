@@ -8699,7 +8699,6 @@
   properties:
     appUrl: https://esse.io
     cpuLimit: 1
-    
     memLimit: 2
     cpuUsed: 0.7
     memUsed: 1.93

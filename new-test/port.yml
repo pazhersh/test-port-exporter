@@ -1,572 +1,650 @@
-- blueprint: Cluster
-  identifier: foul-mdammas
-  title: foul-mdammas
+- blueprint: Service
+  identifier: wonder-woman-service
+  title: wonder-woman-service
   properties:
-    prometheus_url: >-
-      https://prometheus.com/247248,578084,628331,514797,197021,180577,690848,169334,184335,678725
-    studio: Maltese
-    kconfig: Giant Schnauzer
-  relations: {}
-- blueprint: Cluster
-  identifier: empanadas
-  title: empanadas
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/198831,491896,729938,735707,912606,864332,465117,789412,701018,137534
-    studio: Beauceron
-    kconfig: Beauceron
-  relations: {}
-- blueprint: Cluster
-  identifier: llunca-de-gallina
-  title: llunca-de-gallina
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/60295,195737,67756,858473,719700,975312,2154,198119,963405,170532
-    studio: Beauceron
-    kconfig: Basset Fauve de Bretagne
-  relations: {}
-- blueprint: Cluster
-  identifier: briam
-  title: briam
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/851414,496666,53988,893848,331162,118700,460576,653342,503778,895281
-    studio: Croatian Sheepdog
-    kconfig: Boykin Spaniel
-  relations: {}
-- blueprint: Cluster
-  identifier: vegetable-spring-rolls
-  title: vegetable-spring-rolls
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/59739,438013,506541,120328,850616,581332,647487,253117,868188,231598
-    studio: French Poodle
-    kconfig: Denmark Feist
-  relations: {}
-- blueprint: Cluster
-  identifier: mssabaha
-  title: mssabaha
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/393113,274079,74615,74318,217801,670793,976791,944443,178860,857186
-    studio: Alaskan Malamute
-    kconfig: Hygen Hound
-  relations: {}
-- blueprint: Cluster
-  identifier: khao-soi
-  title: khao-soi
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/569396,257190,251324,3588,984395,422209,720168,877402,684392,49974
-    studio: Nova Scotia Duck Tolling Retriever
-    kconfig: Beauceron
-  relations: {}
-- blueprint: Cluster
-  identifier: aiseki-ryori
-  title: aiseki-ryori
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/264442,153376,491314,656792,728777,625518,378182,539851,571798,668004
-    studio: Nova Scotia Duck Tolling Retriever
-    kconfig: English Mastiff
-  relations: {}
-- blueprint: Cluster
-  identifier: bollo-limpio
-  title: bollo-limpio
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/254172,105335,954215,37494,458912,84181,620848,202151,851178,420772
-    studio: Maltese
-    kconfig: Boykin Spaniel
-  relations: {}
-- blueprint: Cluster
-  identifier: cachapa
-  title: cachapa
-  properties:
-    prometheus_url: >-
-      https://prometheus.com/767002,160699,749649,86700,747496,377831,989380,914908,607407,594801
-    studio: English Mastiff
-    kconfig: Nova Scotia Duck Tolling Retriever
-  relations: {}
-- blueprint: Cluster
-  identifier: e_GTYjtv8pvbPnE9lQ
-  title: string
-  properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
-  relations: {}
-- blueprint: Cluster
-  identifier: e_w0CnOmQYRScUZ566
-  title: string
-  properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
-  relations: {}
-- blueprint: Cluster
-  identifier: e_7uupaVEdEPgQHFwO
-  title: string
-  properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
-  relations: {}
-- blueprint: Cluster
-  identifier: e_cHoqJiw4pIOkxGUh
-  title: string
-  properties:
-    prometheus_url: null
-    studio: null
-    kconfig: konfig
-  relations: {}
-- blueprint: Env
-  identifier: michael-jackson
-  title: michael-jackson
-  properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/t,n,5,7,1,7,3,b,1,r
+    latestVersion: 2.6.15
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/wonder-woman-service
   relations:
-    deployedAt: mssabaha
-- blueprint: Env
-  identifier: patti-smith
-  title: patti-smith
+    using: daredevil-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: x-23-service
+  title: x-23-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/y,u,t,2,q,x,a,u,8,o
+    latestVersion: 3.14.15
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/x-23-service
   relations:
-    deployedAt: aiseki-ryori
-- blueprint: Env
-  identifier: howlin-wolf
-  title: howlin-wolf
+    using: punisher-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: spider-man-service
+  title: spider-man-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/7,k,6,i,r,m,h,0,1,3
+    latestVersion: 11.20.18
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/spider-man-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: sam-moore
-  title: sam-moore
+    using: ice-service
+  team: The Godfather
+- blueprint: Service
+  identifier: captain-atom-service
+  title: captain-atom-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/h,5,h,y,w,c,6,e,2,u
+    latestVersion: 7.13.17
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-atom-service
   relations:
-    deployedAt: empanadas
-- blueprint: Env
-  identifier: aretha-franklin
-  title: aretha-franklin
+    using: null
+  team: On the Waterfront
+- blueprint: Service
+  identifier: batman-service
+  title: batman-service
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/6,9,2,g,y,t,v,r,2,4
+    latestVersion: 17.5.7
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/batman-service
   relations:
-    deployedAt: llunca-de-gallina
-- blueprint: Env
-  identifier: janis-joplin
-  title: janis-joplin
+    using: spider-man-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: rogue-service
+  title: rogue-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/o,4,5,r,t,u,3,9,3,1
+    latestVersion: 18.18.3
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/rogue-service
   relations:
-    deployedAt: llunca-de-gallina
-- blueprint: Env
-  identifier: solomon-burke
-  title: solomon-burke
+    using: wonder-woman-service
+  team: Rashomon
+- blueprint: Service
+  identifier: lady-blackhawk-service
+  title: lady-blackhawk-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/4,1,6,5,3,1,6,d,x,d
+    latestVersion: 5.12.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/lady-blackhawk-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: gladys-knight
-  title: gladys-knight
+    using: scarlet-witch-service
+  team: Modern Times
+- blueprint: Service
+  identifier: wolverine-service
+  title: wolverine-service
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/d,9,9,2,b,6,5,u,v,b
+    latestVersion: 11.17.0
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/wolverine-service
   relations:
-    deployedAt: empanadas
-- blueprint: Env
-  identifier: b-b-king
-  title: b-b-king
+    using: thor-service
+  team: Casino
+- blueprint: Service
+  identifier: blink-service
+  title: blink-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/s,1,4,l,8,q,1,4,0,8
+    latestVersion: 8.13.8
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/blink-service
   relations:
-    deployedAt: empanadas
-- blueprint: Env
-  identifier: robert-plant
-  title: robert-plant
+    using: green-lantern-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: jade-service
+  title: jade-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/6,b,8,q,b,7,o,6,2,i
+    latestVersion: 7.10.14
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/jade-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: curtis-mayfield
-  title: curtis-mayfield
+    using: supergirl-service
+  team: Catch Me If You Can
+- blueprint: Service
+  identifier: carol-danvers-service
+  title: carol-danvers-service
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/z,y,4,7,1,3,3,7,w,d
+    latestVersion: 18.6.9
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/carol-danvers-service
   relations:
-    deployedAt: mssabaha
-- blueprint: Env
-  identifier: eric-burdon
-  title: eric-burdon
+    using: null
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: green-lantern-service
+  title: green-lantern-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/y,a,z,7,4,r,c,y,4,6
+    latestVersion: 6.7.6
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/green-lantern-service
   relations:
-    deployedAt: khao-soi
-- blueprint: Env
-  identifier: george-jones
-  title: george-jones
+    using: captain-america-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: frog-thor-service
+  title: frog-thor-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/5,2,a,1,r,k,8,d,5,c
+    latestVersion: 7.3.1
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/frog-thor-service
   relations:
-    deployedAt: vegetable-spring-rolls
-- blueprint: Env
-  identifier: dion
-  title: dion
+    using: invisible-woman-service
+  team: Singin' in the Rain
+- blueprint: Service
+  identifier: punisher-service
+  title: punisher-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/4,2,t,p,r,m,k,3,5,m
+    latestVersion: 19.8.15
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/punisher-service
   relations:
-    deployedAt: foul-mdammas
-- blueprint: Env
-  identifier: otis-redding
-  title: otis-redding
+    using: huntress-service
+  team: Casino
+- blueprint: Service
+  identifier: black-lightning-service
+  title: black-lightning-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/9,h,u,3,7,b,u,2,5,8
+    latestVersion: 2.15.6
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/black-lightning-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: bob-marley
-  title: bob-marley
+    using: jade-service
+  team: Rashomon
+- blueprint: Service
+  identifier: doctor-strange-service
+  title: doctor-strange-service
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/l,8,0,m,b,9,7,h,6,k
+    latestVersion: 4.13.4
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/doctor-strange-service
   relations:
-    deployedAt: llunca-de-gallina
-- blueprint: Env
-  identifier: sam-cooke
-  title: sam-cooke
+    using: spider-man-service
+  team: Rashomon
+- blueprint: Service
+  identifier: huntress-service
+  title: huntress-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/5,d,w,g,0,w,f,n,o,z
+    latestVersion: 6.3.9
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/huntress-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: tom-waits
-  title: tom-waits
+    using: aquaman-service
+  team: Chinatown
+- blueprint: Service
+  identifier: gamora-service
+  title: gamora-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/9,1,o,i,x,3,z,w,1,a
+    latestVersion: 15.20.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/gamora-service
   relations:
-    deployedAt: khao-soi
-- blueprint: Env
-  identifier: neil-young
-  title: neil-young
+    using: supergirl-service
+  team: Singin' in the Rain
+- blueprint: Service
+  identifier: captain-america-service
+  title: captain-america-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/4,c,3,m,5,j,j,3,3,z
+    latestVersion: 14.3.10
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-america-service
   relations:
-    deployedAt: vegetable-spring-rolls
-- blueprint: Env
-  identifier: david-ruffin
-  title: david-ruffin
+    using: null
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: green-arrow-service
+  title: green-arrow-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/2,s,m,y,z,j,0,7,4,w
+    latestVersion: 19.16.2
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/green-arrow-service
   relations:
-    deployedAt: aiseki-ryori
-- blueprint: Env
-  identifier: dusty-springfield
-  title: dusty-springfield
+    using: null
+  team: On the Waterfront
+- blueprint: Service
+  identifier: black-canary-service
+  title: black-canary-service
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/k,7,x,i,0,h,s,o,1,h
+    latestVersion: 2.2.3
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/black-canary-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: art-garfunkel
-  title: art-garfunkel
+    using: spider-man-service
+  team: Requiem for a Dream
+- blueprint: Service
+  identifier: hawk-service
+  title: hawk-service
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/1,j,5,7,5,8,9,7,v,z
+    latestVersion: 6.3.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/hawk-service
   relations:
-    deployedAt: khao-soi
-- blueprint: Env
-  identifier: hank-williams
-  title: hank-williams
+    using: cypher-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: aquaman-service
+  title: aquaman-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/0,4,c,7,p,e,e,q,y,5
+    latestVersion: 13.0.13
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/aquaman-service
   relations:
-    deployedAt: aiseki-ryori
-- blueprint: Env
-  identifier: paul-mc-cartney
-  title: paul-mc-cartney
+    using: null
+  team: On the Waterfront
+- blueprint: Service
+  identifier: martian-manhunter-service
+  title: martian-manhunter-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/0,o,i,4,0,g,j,f,7,p
+    latestVersion: 9.7.19
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/martian-manhunter-service
   relations:
-    deployedAt: khao-soi
-- blueprint: Env
-  identifier: prince
-  title: prince
+    using: gambit-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: scarlet-witch-service
+  title: scarlet-witch-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/9,g,c,w,m,4,7,5,o,6
+    latestVersion: 12.5.2
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/scarlet-witch-service
   relations:
-    deployedAt: cachapa
-- blueprint: Env
-  identifier: etta-james
-  title: etta-james
+    using: cypher-service
+  team: Modern Times
+- blueprint: Service
+  identifier: hawkgirl-service
+  title: hawkgirl-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/a,4,7,2,l,z,1,1,x,c
+    latestVersion: 11.12.17
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawkgirl-service
   relations:
-    deployedAt: bollo-limpio
-- blueprint: Env
-  identifier: tina-turner
-  title: tina-turner
+    using: black-widow-service
+  team: Casino
+- blueprint: Service
+  identifier: elektra-service
+  title: elektra-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/o,1,3,8,r,5,t,d,3,7
+    latestVersion: 7.19.16
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/elektra-service
   relations:
-    deployedAt: llunca-de-gallina
-- blueprint: Env
-  identifier: paul-rodgers
-  title: paul-rodgers
+    using: the-atom-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: power-girl-service
+  title: power-girl-service
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/x,k,o,5,2,o,0,q,s,7
+    latestVersion: 13.13.16
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/power-girl-service
   relations:
-    deployedAt: aiseki-ryori
-- blueprint: Env
-  identifier: kurt-cobain
-  title: kurt-cobain
+    using: elektra-service
+  team: Chinatown
+- blueprint: Service
+  identifier: superman-service
+  title: superman-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/z,z,e,u,y,6,l,o,d,6
+    latestVersion: 1.7.20
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/superman-service
   relations:
-    deployedAt: khao-soi
-- blueprint: Env
-  identifier: muddy-waters
-  title: muddy-waters
+    using: hawkman-service
+  team: The Godfather
+- blueprint: Service
+  identifier: daredevil-service
+  title: daredevil-service
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/t,g,5,m,n,k,c,2,7,w
+    latestVersion: 15.9.20
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/daredevil-service
   relations:
-    deployedAt: empanadas
-- blueprint: Env
-  identifier: patsy-cline
-  title: patsy-cline
+    using: moon-knight-service
+  team: The Godfather
+- blueprint: Service
+  identifier: black-panther-service
+  title: black-panther-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/y,r,t,3,8,3,n,5,4,8
+    latestVersion: 16.19.18
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-panther-service
   relations:
-    deployedAt: mssabaha
-- blueprint: Env
-  identifier: donny-hathaway
-  title: donny-hathaway
+    using: the-atom-service
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: hawkman-service
+  title: hawkman-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/0,6,6,z,u,3,m,r,4,x
+    latestVersion: 4.14.13
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/hawkman-service
   relations:
-    deployedAt: cachapa
-- blueprint: Env
-  identifier: john-fogerty
-  title: john-fogerty
+    using: superman-service
+  team: Rashomon
+- blueprint: Service
+  identifier: moon-knight-service
+  title: moon-knight-service
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/6,a,h,2,c,k,1,a,a,4
+    latestVersion: 14.19.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/moon-knight-service
   relations:
-    deployedAt: cachapa
-- blueprint: Env
-  identifier: john-lennon
-  title: john-lennon
+    using: captain-atom-service
+  team: Catch Me If You Can
+- blueprint: Service
+  identifier: black-widow-service
+  title: black-widow-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/4,1,5,3,g,q,g,4,y,4
+    latestVersion: 18.4.8
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/black-widow-service
   relations:
-    deployedAt: vegetable-spring-rolls
-- blueprint: Env
-  identifier: steve-perry
-  title: steve-perry
+    using: daredevil-service
+  team: The Godfather
+- blueprint: Service
+  identifier: wasp-service
+  title: wasp-service
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/x,3,i,3,2,q,9,5,3,k
+    latestVersion: 4.20.15
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/wasp-service
   relations:
-    deployedAt: mssabaha
-- blueprint: Env
-  identifier: bob-dylan
-  title: bob-dylan
+    using: hawk-service
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: she-hulk-service
+  title: she-hulk-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/z,6,b,m,g,3,d,7,2,1
+    latestVersion: 17.11.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/she-hulk-service
   relations:
-    deployedAt: cachapa
-- blueprint: Env
-  identifier: karen-carpenter
-  title: karen-carpenter
+    using: spider-man-service
+  team: Modern Times
+- blueprint: Service
+  identifier: the-atom-service
+  title: the-atom-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/8,e,m,n,o,7,7,j,w,0
+    latestVersion: 14.12.13
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-atom-service
   relations:
-    deployedAt: aiseki-ryori
-- blueprint: Env
-  identifier: ray-charles
-  title: ray-charles
+    using: null
+  team: Casino
+- blueprint: Service
+  identifier: storm-service
+  title: storm-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/4,y,x,s,t,2,8,v,1,2
+    latestVersion: 9.16.18
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/storm-service
   relations:
-    deployedAt: llunca-de-gallina
-- blueprint: Env
-  identifier: joni-mitchell
-  title: joni-mitchell
+    using: lady-blackhawk-service
+  team: Casino
+- blueprint: Service
+  identifier: iron-man-service
+  title: iron-man-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/3,1,0,w,3,m,6,s,2,3
+    latestVersion: 8.17.5
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/iron-man-service
   relations:
-    deployedAt: empanadas
-- blueprint: Env
-  identifier: steve-winwood
-  title: steve-winwood
+    using: supergirl-service
+  team: The Godfather
+- blueprint: Service
+  identifier: cypher-service
+  title: cypher-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/u,8,6,z,6,l,7,4,p,4
+    latestVersion: 7.12.17
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/cypher-service
   relations:
-    deployedAt: empanadas
-- blueprint: Env
-  identifier: jackie-wilson
-  title: jackie-wilson
+    using: hawkman-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: invisible-woman-service
+  title: invisible-woman-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/1,3,u,7,r,p,5,u,5,2
+    latestVersion: 16.12.8
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/invisible-woman-service
   relations:
-    deployedAt: foul-mdammas
-- blueprint: Env
-  identifier: don-henley
-  title: don-henley
+    using: x-23-service
+  team: Requiem for a Dream
+- blueprint: Service
+  identifier: supergirl-service
+  title: supergirl-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/h,g,8,z,c,z,5,k,q,5
+    latestVersion: 8.2.7
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/supergirl-service
   relations:
-    deployedAt: cachapa
-- blueprint: Env
-  identifier: little-richard
-  title: little-richard
+    using: scarlet-witch-service
+  team: Catch Me If You Can
+- blueprint: Service
+  identifier: silver-sable-service
+  title: silver-sable-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/7,0,2,v,1,3,x,a,l,5
+    latestVersion: 5.19.11
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/silver-sable-service
   relations:
-    deployedAt: cachapa
-- blueprint: Env
-  identifier: darlene-love
-  title: darlene-love
+    using: wolverine-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: thor-service
+  title: thor-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/e,5,9,t,w,u,t,v,s,o
+    latestVersion: 10.17.7
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/thor-service
   relations:
-    deployedAt: vegetable-spring-rolls
-- blueprint: Env
-  identifier: lou-reed
-  title: lou-reed
+    using: captain-atom-service
+  team: Modern Times
+- blueprint: Service
+  identifier: batgirl-service
+  title: batgirl-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/e,w,c,8,4,7,j,p,s,7
+    latestVersion: 8.3.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batgirl-service
   relations:
-    deployedAt: mssabaha
-- blueprint: Env
-  identifier: brian-wilson
-  title: brian-wilson
+    using: deadpool-service
+  team: Casino
+- blueprint: Service
+  identifier: deadpool-service
+  title: deadpool-service
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/4,a,7,z,0,a,1,e,0,q
+    latestVersion: 9.3.4
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/deadpool-service
   relations:
-    deployedAt: briam
-- blueprint: Env
-  identifier: bonnie-raitt
-  title: bonnie-raitt
+    using: spider-man-service
+  team: Singin' in the Rain
+- blueprint: Service
+  identifier: gambit-service
+  title: gambit-service
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/4,2,a,n,d,k,9,j,z,4
+    latestVersion: 17.11.12
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/gambit-service
   relations:
-    deployedAt: bollo-limpio
-- blueprint: Env
-  identifier: roy-orbison
-  title: roy-orbison
+    using: null
+  team: The Godfather
+- blueprint: Service
+  identifier: ice-service
+  title: ice-service
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/1,b,9,x,6,6,2,1,1,k
+    latestVersion: 3.16.8
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/ice-service
   relations:
-    deployedAt: bollo-limpio
-- blueprint: Env
-  identifier: jerry-lee-lewis
-  title: jerry-lee-lewis
+    using: rogue-service
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: kitty-pryde-service
+  title: kitty-pryde-service
   properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/8,8,3,y,h,7,2,d,n,v
+    latestVersion: 2.11.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/kitty-pryde-service
   relations:
-    deployedAt: llunca-de-gallina
-- blueprint: Env
-  identifier: nina-simone
-  title: nina-simone
+    using: supergirl-service
+  team: Rashomon
+- blueprint: Service
+  identifier: the-flash-service
+  title: the-flash-service
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/e,o,7,1,r,x,k,p,7,8
+    latestVersion: 16.19.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-flash-service
   relations:
-    deployedAt: llunca-de-gallina
+    using: green-arrow-service
+  team: Casino

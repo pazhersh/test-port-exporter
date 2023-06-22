@@ -1,3906 +1,1505 @@
-- blueprint: PackageVersion
-  identifier: smart-focus@1-4-16
-  title: smart-focus@1-4-16
-  properties:
-    version: 1.4.16
-    publishDate: '2021-06-06T14:40:37.602Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@12-16-4
-  title: smart-focus@12-16-4
-  properties:
-    version: 12.16.4
-    publishDate: '2022-09-11T15:42:53.035Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@1-17-2
-  title: smart-focus@1-17-2
-  properties:
-    version: 1.17.2
-    publishDate: '2019-11-20T07:18:24.745Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@10-3-11
-  title: smart-focus@10-3-11
-  properties:
-    version: 10.3.11
-    publishDate: '2018-09-10T09:08:46.755Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@7-11-7
-  title: smart-focus@7-11-7
-  properties:
-    version: 7.11.7
-    publishDate: '2019-04-10T03:33:20.844Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@16-10-17
-  title: smart-focus@16-10-17
-  properties:
-    version: 16.10.17
-    publishDate: '2020-08-12T13:02:37.823Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@14-18-13
-  title: smart-focus@14-18-13
-  properties:
-    version: 14.18.13
-    publishDate: '2022-10-01T20:10:45.512Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@2-7-8
-  title: smart-focus@2-7-8
-  properties:
-    version: 2.7.8
-    publishDate: '2022-11-21T02:13:51.057Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@4-19-18
-  title: smart-focus@4-19-18
-  properties:
-    version: 4.19.18
-    publishDate: '2018-07-07T16:32:05.435Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@16-8-7
-  title: smart-focus@16-8-7
-  properties:
-    version: 16.8.7
-    publishDate: '2020-06-30T18:39:27.941Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@10-17-18
-  title: smart-focus@10-17-18
-  properties:
-    version: 10.17.18
-    publishDate: '2020-07-22T23:46:32.741Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@10-12-15
-  title: smart-focus@10-12-15
-  properties:
-    version: 10.12.15
-    publishDate: '2021-11-29T10:54:27.069Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@12-1-1
-  title: smart-focus@12-1-1
-  properties:
-    version: 12.1.1
-    publishDate: '2021-04-17T06:20:02.257Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@3-17-7
-  title: smart-focus@3-17-7
-  properties:
-    version: 3.17.7
-    publishDate: '2020-11-28T00:11:28.945Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@15-6-2
-  title: smart-focus@15-6-2
-  properties:
-    version: 15.6.2
-    publishDate: '2020-03-26T20:49:08.215Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@1-10-12
-  title: smart-focus@1-10-12
-  properties:
-    version: 1.10.12
-    publishDate: '2020-08-15T09:43:16.952Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@0-18-11
-  title: smart-focus@0-18-11
-  properties:
-    version: 0.18.11
-    publishDate: '2022-07-20T00:20:45.007Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@6-15-3
-  title: smart-focus@6-15-3
-  properties:
-    version: 6.15.3
-    publishDate: '2021-08-07T22:49:50.073Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@19-7-9
-  title: smart-focus@19-7-9
-  properties:
-    version: 19.7.9
-    publishDate: '2022-05-28T10:33:24.824Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@13-1-11
-  title: smart-focus@13-1-11
-  properties:
-    version: 13.1.11
-    publishDate: '2022-02-24T14:20:40.920Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@6-4-3
-  title: smart-focus@6-4-3
-  properties:
-    version: 6.4.3
-    publishDate: '2022-07-12T05:11:01.264Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@7-5-9
-  title: smart-focus@7-5-9
-  properties:
-    version: 7.5.9
-    publishDate: '2021-09-24T15:30:47.161Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@10-0-11
-  title: smart-focus@10-0-11
-  properties:
-    version: 10.0.11
-    publishDate: '2022-01-16T13:50:05.620Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@0-13-20
-  title: smart-focus@0-13-20
-  properties:
-    version: 0.13.20
-    publishDate: '2020-11-28T02:30:15.489Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@6-1-14
-  title: smart-focus@6-1-14
-  properties:
-    version: 6.1.14
-    publishDate: '2021-05-09T09:07:30.831Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@1-8-11
-  title: smart-focus@1-8-11
-  properties:
-    version: 1.8.11
-    publishDate: '2019-05-02T13:34:38.879Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@11-5-7
-  title: smart-focus@11-5-7
-  properties:
-    version: 11.5.7
-    publishDate: '2022-12-07T19:36:54.783Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@4-8-16
-  title: smart-focus@4-8-16
-  properties:
-    version: 4.8.16
-    publishDate: '2018-07-29T05:36:45.566Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@14-19-13
-  title: nissan-fiesta@14-19-13
-  properties:
-    version: 14.19.13
-    publishDate: '2022-07-26T21:27:21.581Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: smart-focus@12-14-7
-  title: smart-focus@12-14-7
-  properties:
-    version: 12.14.7
-    publishDate: '2020-05-16T14:03:34.407Z'
-  relations:
-    versionOf: smart-focus
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@7-6-2
-  title: nissan-fiesta@7-6-2
-  properties:
-    version: 7.6.2
-    publishDate: '2019-11-19T17:03:07.261Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@9-12-18
-  title: nissan-fiesta@9-12-18
-  properties:
-    version: 9.12.18
-    publishDate: '2019-01-14T17:41:26.672Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@1-10-19
-  title: nissan-fiesta@1-10-19
-  properties:
-    version: 1.10.19
-    publishDate: '2022-08-12T06:25:14.831Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@8-6-6
-  title: nissan-fiesta@8-6-6
-  properties:
-    version: 8.6.6
-    publishDate: '2023-02-23T03:48:11.267Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@3-12-8
-  title: nissan-fiesta@3-12-8
-  properties:
-    version: 3.12.8
-    publishDate: '2022-02-25T19:05:02.823Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@9-19-12
-  title: nissan-fiesta@9-19-12
-  properties:
-    version: 9.19.12
-    publishDate: '2021-03-08T05:40:45.081Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@19-17-0
-  title: nissan-fiesta@19-17-0
-  properties:
-    version: 19.17.0
-    publishDate: '2019-04-01T02:49:30.478Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@7-0-15
-  title: nissan-fiesta@7-0-15
-  properties:
-    version: 7.0.15
-    publishDate: '2021-03-18T07:53:49.625Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@18-16-7
-  title: nissan-fiesta@18-16-7
-  properties:
-    version: 18.16.7
-    publishDate: '2020-05-20T06:04:59.677Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@5-17-10
-  title: nissan-fiesta@5-17-10
-  properties:
-    version: 5.17.10
-    publishDate: '2018-10-10T14:49:58.948Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@1-13-15
-  title: nissan-fiesta@1-13-15
-  properties:
-    version: 1.13.15
-    publishDate: '2021-04-27T11:02:35.681Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-fiesta@6-1-12
-  title: nissan-fiesta@6-1-12
-  properties:
-    version: 6.1.12
-    publishDate: '2019-06-02T12:28:16.001Z'
-  relations:
-    versionOf: nissan-fiesta
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@4-9-13
-  title: hyundai-roadster@4-9-13
-  properties:
-    version: 4.9.13
-    publishDate: '2019-01-20T15:58:09.410Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@8-18-15
-  title: hyundai-roadster@8-18-15
-  properties:
-    version: 8.18.15
-    publishDate: '2021-08-06T05:37:56.443Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@4-12-19
-  title: hyundai-roadster@4-12-19
-  properties:
-    version: 4.12.19
-    publishDate: '2020-05-12T09:27:10.062Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@9-8-5
-  title: hyundai-roadster@9-8-5
-  properties:
-    version: 9.8.5
-    publishDate: '2021-04-25T18:37:33.103Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@13-11-8
-  title: hyundai-roadster@13-11-8
-  properties:
-    version: 13.11.8
-    publishDate: '2020-06-16T02:11:16.644Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@14-4-16
-  title: hyundai-roadster@14-4-16
-  properties:
-    version: 14.4.16
-    publishDate: '2020-08-06T20:30:11.913Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@5-14-14
-  title: hyundai-roadster@5-14-14
-  properties:
-    version: 5.14.14
-    publishDate: '2018-09-18T01:49:15.898Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@11-15-7
-  title: hyundai-roadster@11-15-7
-  properties:
-    version: 11.15.7
-    publishDate: '2022-01-03T19:07:36.263Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@20-19-13
-  title: hyundai-roadster@20-19-13
-  properties:
-    version: 20.19.13
-    publishDate: '2022-04-11T13:11:28.261Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@1-6-17
-  title: hyundai-roadster@1-6-17
-  properties:
-    version: 1.6.17
-    publishDate: '2021-12-09T17:50:38.332Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@7-4-16
-  title: hyundai-roadster@7-4-16
-  properties:
-    version: 7.4.16
-    publishDate: '2023-04-17T03:43:27.083Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@2-8-16
-  title: hyundai-roadster@2-8-16
-  properties:
-    version: 2.8.16
-    publishDate: '2023-05-25T07:26:51.744Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@15-0-3
-  title: hyundai-roadster@15-0-3
-  properties:
-    version: 15.0.3
-    publishDate: '2020-03-21T00:20:42.367Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@8-1-8
-  title: hyundai-roadster@8-1-8
-  properties:
-    version: 8.1.8
-    publishDate: '2021-11-13T03:09:27.588Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@19-15-12
-  title: hyundai-roadster@19-15-12
-  properties:
-    version: 19.15.12
-    publishDate: '2019-07-29T17:01:08.214Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@16-7-0
-  title: hyundai-roadster@16-7-0
-  properties:
-    version: 16.7.0
-    publishDate: '2018-11-07T20:02:10.523Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@1-8-17
-  title: hyundai-roadster@1-8-17
-  properties:
-    version: 1.8.17
-    publishDate: '2021-02-19T01:03:09.852Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@13-10-19
-  title: hyundai-roadster@13-10-19
-  properties:
-    version: 13.10.19
-    publishDate: '2022-10-30T22:37:44.400Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@17-5-2
-  title: hyundai-roadster@17-5-2
-  properties:
-    version: 17.5.2
-    publishDate: '2018-11-26T08:52:18.195Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@6-20-9
-  title: hyundai-roadster@6-20-9
-  properties:
-    version: 6.20.9
-    publishDate: '2020-05-26T21:14:33.310Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@15-6-14
-  title: hyundai-roadster@15-6-14
-  properties:
-    version: 15.6.14
-    publishDate: '2018-08-02T13:29:25.652Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@12-10-4
-  title: hyundai-roadster@12-10-4
-  properties:
-    version: 12.10.4
-    publishDate: '2022-03-30T16:25:25.430Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@18-2-6
-  title: hyundai-roadster@18-2-6
-  properties:
-    version: 18.2.6
-    publishDate: '2020-04-08T09:13:07.918Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@12-1-9
-  title: hyundai-roadster@12-1-9
-  properties:
-    version: 12.1.9
-    publishDate: '2021-04-04T11:01:21.639Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@15-7-19
-  title: hyundai-roadster@15-7-19
-  properties:
-    version: 15.7.19
-    publishDate: '2021-02-07T03:26:12.218Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@9-2-14
-  title: hyundai-roadster@9-2-14
-  properties:
-    version: 9.2.14
-    publishDate: '2020-03-24T09:56:14.837Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@20-18-10
-  title: hyundai-roadster@20-18-10
-  properties:
-    version: 20.18.10
-    publishDate: '2020-06-24T17:24:26.668Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@2-2-11
-  title: hyundai-roadster@2-2-11
-  properties:
-    version: 2.2.11
-    publishDate: '2019-08-26T11:27:41.406Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@10-5-6
-  title: hyundai-roadster@10-5-6
-  properties:
-    version: 10.5.6
-    publishDate: '2022-06-01T04:01:05.441Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@10-17-1
-  title: hyundai-roadster@10-17-1
-  properties:
-    version: 10.17.1
-    publishDate: '2019-09-24T15:52:58.437Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@4-8-1
-  title: hyundai-roadster@4-8-1
-  properties:
-    version: 4.8.1
-    publishDate: '2019-10-13T16:00:58.956Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@13-6-2
-  title: hyundai-roadster@13-6-2
-  properties:
-    version: 13.6.2
-    publishDate: '2021-02-11T05:15:39.511Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@0-4-7
-  title: hyundai-roadster@0-4-7
-  properties:
-    version: 0.4.7
-    publishDate: '2020-02-18T19:29:18.996Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@10-10-2
-  title: hyundai-roadster@10-10-2
-  properties:
-    version: 10.10.2
-    publishDate: '2023-04-24T04:28:05.604Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@5-4-10
-  title: hyundai-roadster@5-4-10
-  properties:
-    version: 5.4.10
-    publishDate: '2022-12-14T17:11:24.952Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@20-18-19
-  title: hyundai-roadster@20-18-19
-  properties:
-    version: 20.18.19
-    publishDate: '2022-01-28T15:03:03.121Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@17-8-13
-  title: hyundai-roadster@17-8-13
-  properties:
-    version: 17.8.13
-    publishDate: '2021-11-03T03:08:35.334Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@4-13-14
-  title: hyundai-roadster@4-13-14
-  properties:
-    version: 4.13.14
-    publishDate: '2022-10-28T03:19:53.035Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@3-10-14
-  title: hyundai-roadster@3-10-14
-  properties:
-    version: 3.10.14
-    publishDate: '2022-01-24T22:38:58.384Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@13-2-6
-  title: hyundai-roadster@13-2-6
-  properties:
-    version: 13.2.6
-    publishDate: '2021-09-08T01:37:37.331Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@13-1-2
-  title: hyundai-roadster@13-1-2
-  properties:
-    version: 13.1.2
-    publishDate: '2020-10-14T18:10:58.575Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@7-15-6
-  title: hyundai-roadster@7-15-6
-  properties:
-    version: 7.15.6
-    publishDate: '2022-09-07T07:45:54.567Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@12-3-5
-  title: hyundai-roadster@12-3-5
-  properties:
-    version: 12.3.5
-    publishDate: '2021-03-28T03:59:15.489Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@15-11-18
-  title: hyundai-roadster@15-11-18
-  properties:
-    version: 15.11.18
-    publishDate: '2019-06-10T02:09:01.241Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@4-18-15
-  title: hyundai-roadster@4-18-15
-  properties:
-    version: 4.18.15
-    publishDate: '2022-05-15T17:48:01.460Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@7-17-19
-  title: hyundai-roadster@7-17-19
-  properties:
-    version: 7.17.19
-    publishDate: '2021-09-23T03:47:39.855Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@9-14-15
-  title: hyundai-roadster@9-14-15
-  properties:
-    version: 9.14.15
-    publishDate: '2023-02-10T11:31:10.071Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@7-6-4
-  title: hyundai-roadster@7-6-4
-  properties:
-    version: 7.6.4
-    publishDate: '2019-11-24T15:27:14.308Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@6-2-5
-  title: mazda-challenger@6-2-5
-  properties:
-    version: 6.2.5
-    publishDate: '2019-05-07T11:27:43.594Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: hyundai-roadster@18-19-1
-  title: hyundai-roadster@18-19-1
-  properties:
-    version: 18.19.1
-    publishDate: '2021-04-29T19:07:52.672Z'
-  relations:
-    versionOf: hyundai-roadster
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@7-10-13
-  title: mazda-challenger@7-10-13
-  properties:
-    version: 7.10.13
-    publishDate: '2019-05-21T11:28:22.040Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@3-2-4
-  title: mazda-challenger@3-2-4
-  properties:
-    version: 3.2.4
-    publishDate: '2019-04-24T10:45:56.742Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@7-1-20
-  title: mazda-challenger@7-1-20
-  properties:
-    version: 7.1.20
-    publishDate: '2021-05-23T16:37:14.593Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@18-5-18
-  title: mazda-challenger@18-5-18
-  properties:
-    version: 18.5.18
-    publishDate: '2022-04-07T15:10:49.565Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@16-14-7
-  title: mazda-challenger@16-14-7
-  properties:
-    version: 16.14.7
-    publishDate: '2021-08-12T16:55:14.952Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@4-12-9
-  title: mazda-challenger@4-12-9
-  properties:
-    version: 4.12.9
-    publishDate: '2019-11-09T20:41:10.850Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@19-5-14
-  title: mazda-challenger@19-5-14
-  properties:
-    version: 19.5.14
-    publishDate: '2018-10-17T10:45:06.419Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@0-17-16
-  title: mazda-challenger@0-17-16
-  properties:
-    version: 0.17.16
-    publishDate: '2021-05-04T18:00:57.238Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@2-9-3
-  title: mazda-challenger@2-9-3
-  properties:
-    version: 2.9.3
-    publishDate: '2020-01-30T12:51:45.043Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@7-6-17
-  title: mazda-challenger@7-6-17
-  properties:
-    version: 7.6.17
-    publishDate: '2018-08-06T22:27:39.521Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@3-1-16
-  title: mazda-challenger@3-1-16
-  properties:
-    version: 3.1.16
-    publishDate: '2019-03-18T06:37:51.789Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@14-3-13
-  title: mazda-challenger@14-3-13
-  properties:
-    version: 14.3.13
-    publishDate: '2018-11-18T02:42:03.315Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@4-4-1
-  title: mazda-challenger@4-4-1
-  properties:
-    version: 4.4.1
-    publishDate: '2021-04-08T13:31:56.897Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@17-4-19
-  title: mazda-challenger@17-4-19
-  properties:
-    version: 17.4.19
-    publishDate: '2019-08-16T11:31:32.594Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@12-1-8
-  title: mazda-challenger@12-1-8
-  properties:
-    version: 12.1.8
-    publishDate: '2019-03-19T14:49:27.214Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@1-3-6
-  title: mazda-challenger@1-3-6
-  properties:
-    version: 1.3.6
-    publishDate: '2018-12-13T20:21:18.983Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@19-5-20
-  title: mazda-challenger@19-5-20
-  properties:
-    version: 19.5.20
-    publishDate: '2019-12-05T03:31:53.274Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@11-18-6
-  title: mazda-challenger@11-18-6
-  properties:
-    version: 11.18.6
-    publishDate: '2022-04-12T07:47:31.169Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@10-12-7
-  title: mazda-challenger@10-12-7
-  properties:
-    version: 10.12.7
-    publishDate: '2022-09-25T19:10:52.198Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@8-6-14
-  title: mazda-challenger@8-6-14
-  properties:
-    version: 8.6.14
-    publishDate: '2019-05-19T01:33:41.278Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@0-11-4
-  title: mazda-challenger@0-11-4
-  properties:
-    version: 0.11.4
-    publishDate: '2021-12-16T15:10:14.246Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@14-1-13
-  title: mazda-challenger@14-1-13
-  properties:
-    version: 14.1.13
-    publishDate: '2022-11-10T18:56:17.939Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@7-10-8
-  title: mazda-challenger@7-10-8
-  properties:
-    version: 7.10.8
-    publishDate: '2023-04-24T15:50:12.292Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@12-17-6
-  title: mazda-challenger@12-17-6
-  properties:
-    version: 12.17.6
-    publishDate: '2021-03-16T14:30:23.321Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@10-19-11
-  title: mazda-challenger@10-19-11
-  properties:
-    version: 10.19.11
-    publishDate: '2023-01-04T08:42:47.514Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@11-15-5
-  title: mazda-challenger@11-15-5
-  properties:
-    version: 11.15.5
-    publishDate: '2020-05-05T19:11:36.567Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@12-9-14
-  title: mazda-challenger@12-9-14
-  properties:
-    version: 12.9.14
-    publishDate: '2020-01-07T05:48:33.854Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@6-0-7
-  title: mazda-challenger@6-0-7
-  properties:
-    version: 6.0.7
-    publishDate: '2022-11-08T22:31:20.383Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@6-17-15
-  title: mazda-challenger@6-17-15
-  properties:
-    version: 6.17.15
-    publishDate: '2021-01-26T14:22:01.623Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: mazda-challenger@3-19-7
-  title: mazda-challenger@3-19-7
-  properties:
-    version: 3.19.7
-    publishDate: '2022-09-29T17:24:14.824Z'
-  relations:
-    versionOf: mazda-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@4-13-13
-  title: bugatti-corvette@4-13-13
-  properties:
-    version: 4.13.13
-    publishDate: '2019-04-02T02:27:50.525Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@16-5-9
-  title: bugatti-corvette@16-5-9
-  properties:
-    version: 16.5.9
-    publishDate: '2019-06-25T19:32:41.587Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@2-4-10
-  title: bugatti-corvette@2-4-10
-  properties:
-    version: 2.4.10
-    publishDate: '2021-10-18T05:53:45.412Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@12-8-3
-  title: bugatti-corvette@12-8-3
-  properties:
-    version: 12.8.3
-    publishDate: '2020-03-31T19:27:34.444Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@11-6-9
-  title: bugatti-corvette@11-6-9
-  properties:
-    version: 11.6.9
-    publishDate: '2020-04-17T16:23:06.290Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@5-10-19
-  title: bugatti-corvette@5-10-19
-  properties:
-    version: 5.10.19
-    publishDate: '2021-10-20T18:21:59.626Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@1-15-0
-  title: bugatti-corvette@1-15-0
-  properties:
-    version: 1.15.0
-    publishDate: '2020-02-16T07:48:56.754Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-challenger@5-11-4
-  title: toyota-challenger@5-11-4
-  properties:
-    version: 5.11.4
-    publishDate: '2023-02-26T07:40:27.343Z'
-  relations:
-    versionOf: toyota-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-corvette@9-12-18
-  title: bugatti-corvette@9-12-18
-  properties:
-    version: 9.12.18
-    publishDate: '2022-10-06T06:49:19.959Z'
-  relations:
-    versionOf: bugatti-corvette
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-challenger@4-13-8
-  title: toyota-challenger@4-13-8
-  properties:
-    version: 4.13.8
-    publishDate: '2022-10-23T08:48:14.224Z'
-  relations:
-    versionOf: toyota-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-challenger@0-14-3
-  title: toyota-challenger@0-14-3
-  properties:
-    version: 0.14.3
-    publishDate: '2019-01-16T16:51:38.429Z'
-  relations:
-    versionOf: toyota-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-challenger@15-0-1
-  title: toyota-challenger@15-0-1
-  properties:
-    version: 15.0.1
-    publishDate: '2020-10-10T08:08:56.177Z'
-  relations:
-    versionOf: toyota-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@3-2-0
-  title: kia-spyder@3-2-0
-  properties:
-    version: 3.2.0
-    publishDate: '2019-03-28T20:58:49.259Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-challenger@12-1-7
-  title: toyota-challenger@12-1-7
-  properties:
-    version: 12.1.7
-    publishDate: '2023-03-26T18:43:23.018Z'
-  relations:
-    versionOf: toyota-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-challenger@6-16-20
-  title: toyota-challenger@6-16-20
-  properties:
-    version: 6.16.20
-    publishDate: '2022-06-20T16:23:16.986Z'
-  relations:
-    versionOf: toyota-challenger
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@19-18-16
-  title: kia-spyder@19-18-16
-  properties:
-    version: 19.18.16
-    publishDate: '2021-07-29T22:37:59.017Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@20-7-8
-  title: kia-spyder@20-7-8
-  properties:
-    version: 20.7.8
-    publishDate: '2018-11-13T21:05:37.705Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@7-12-3
-  title: kia-spyder@7-12-3
-  properties:
-    version: 7.12.3
-    publishDate: '2020-09-19T21:25:13.178Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@11-11-11
-  title: kia-spyder@11-11-11
-  properties:
-    version: 11.11.11
-    publishDate: '2020-07-01T11:41:49.081Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@10-9-9
-  title: kia-spyder@10-9-9
-  properties:
-    version: 10.9.9
-    publishDate: '2023-06-14T21:55:28.892Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@4-8-14
-  title: kia-spyder@4-8-14
-  properties:
-    version: 4.8.14
-    publishDate: '2020-02-12T11:47:29.819Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@17-19-1
-  title: kia-spyder@17-19-1
-  properties:
-    version: 17.19.1
-    publishDate: '2019-08-02T15:03:59.446Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@6-1-16
-  title: kia-spyder@6-1-16
-  properties:
-    version: 6.1.16
-    publishDate: '2021-08-15T18:46:53.146Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@7-20-1
-  title: kia-spyder@7-20-1
-  properties:
-    version: 7.20.1
-    publishDate: '2021-12-22T12:54:20.212Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@12-11-5
-  title: kia-spyder@12-11-5
-  properties:
-    version: 12.11.5
-    publishDate: '2022-10-19T03:24:06.458Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@5-16-11
-  title: kia-spyder@5-16-11
-  properties:
-    version: 5.16.11
-    publishDate: '2019-08-19T09:22:16.309Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@2-6-11
-  title: kia-spyder@2-6-11
-  properties:
-    version: 2.6.11
-    publishDate: '2021-09-14T18:29:41.395Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@14-13-14
-  title: kia-spyder@14-13-14
-  properties:
-    version: 14.13.14
-    publishDate: '2021-06-03T14:35:23.022Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@5-8-3
-  title: kia-spyder@5-8-3
-  properties:
-    version: 5.8.3
-    publishDate: '2018-10-20T20:27:24.927Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@19-15-11
-  title: kia-spyder@19-15-11
-  properties:
-    version: 19.15.11
-    publishDate: '2020-11-17T12:51:56.446Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@2-17-13
-  title: kia-spyder@2-17-13
-  properties:
-    version: 2.17.13
-    publishDate: '2022-07-13T22:21:22.402Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@15-16-18
-  title: kia-spyder@15-16-18
-  properties:
-    version: 15.16.18
-    publishDate: '2020-07-23T18:53:20.308Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@9-8-6
-  title: kia-spyder@9-8-6
-  properties:
-    version: 9.8.6
-    publishDate: '2022-07-15T09:53:41.648Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@2-3-14
-  title: kia-spyder@2-3-14
-  properties:
-    version: 2.3.14
-    publishDate: '2018-11-22T17:20:25.612Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@13-3-3
-  title: kia-spyder@13-3-3
-  properties:
-    version: 13.3.3
-    publishDate: '2021-11-17T20:43:33.367Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@11-14-4
-  title: kia-spyder@11-14-4
-  properties:
-    version: 11.14.4
-    publishDate: '2019-11-09T02:15:55.481Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@16-4-13
-  title: kia-spyder@16-4-13
-  properties:
-    version: 16.4.13
-    publishDate: '2019-05-01T10:07:47.371Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: kia-spyder@9-7-9
-  title: kia-spyder@9-7-9
-  properties:
-    version: 9.7.9
-    publishDate: '2020-01-07T04:01:26.781Z'
-  relations:
-    versionOf: kia-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@3-4-17
-  title: chevrolet-malibu@3-4-17
-  properties:
-    version: 3.4.17
-    publishDate: '2018-09-25T14:55:30.170Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@1-14-12
-  title: chevrolet-malibu@1-14-12
-  properties:
-    version: 1.14.12
-    publishDate: '2020-07-28T21:40:26.081Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@3-17-13
-  title: chevrolet-malibu@3-17-13
-  properties:
-    version: 3.17.13
-    publishDate: '2018-08-18T04:34:14.223Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@16-6-11
-  title: chevrolet-malibu@16-6-11
-  properties:
-    version: 16.6.11
-    publishDate: '2018-11-27T00:58:36.092Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@20-2-4
-  title: chevrolet-malibu@20-2-4
-  properties:
-    version: 20.2.4
-    publishDate: '2021-06-22T09:10:12.505Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@10-2-11
-  title: chevrolet-malibu@10-2-11
-  properties:
-    version: 10.2.11
-    publishDate: '2021-06-24T19:26:01.665Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@15-7-19
-  title: chevrolet-malibu@15-7-19
-  properties:
-    version: 15.7.19
-    publishDate: '2018-09-02T09:48:48.338Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@8-2-11
-  title: chevrolet-malibu@8-2-11
-  properties:
-    version: 8.2.11
-    publishDate: '2020-12-29T00:55:13.315Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@16-19-9
-  title: chevrolet-malibu@16-19-9
-  properties:
-    version: 16.19.9
-    publishDate: '2020-09-12T06:58:50.299Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@1-13-9
-  title: chevrolet-malibu@1-13-9
-  properties:
-    version: 1.13.9
-    publishDate: '2019-06-05T02:28:06.252Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@7-11-16
-  title: chevrolet-malibu@7-11-16
-  properties:
-    version: 7.11.16
-    publishDate: '2019-05-09T09:18:10.037Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@1-3-14
-  title: chevrolet-malibu@1-3-14
-  properties:
-    version: 1.3.14
-    publishDate: '2022-02-28T10:41:19.495Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@7-19-15
-  title: chevrolet-malibu@7-19-15
-  properties:
-    version: 7.19.15
-    publishDate: '2022-04-03T08:41:57.073Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@20-10-15
-  title: chevrolet-malibu@20-10-15
-  properties:
-    version: 20.10.15
-    publishDate: '2023-03-12T12:20:25.027Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@16-9-4
-  title: chevrolet-malibu@16-9-4
-  properties:
-    version: 16.9.4
-    publishDate: '2020-11-08T11:51:56.365Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@6-20-19
-  title: chevrolet-malibu@6-20-19
-  properties:
-    version: 6.20.19
-    publishDate: '2023-04-01T01:30:31.849Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@18-13-14
-  title: chevrolet-malibu@18-13-14
-  properties:
-    version: 18.13.14
-    publishDate: '2023-01-15T06:31:42.116Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@2-15-14
-  title: chevrolet-malibu@2-15-14
-  properties:
-    version: 2.15.14
-    publishDate: '2020-09-01T20:04:33.496Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@10-2-19
-  title: chevrolet-malibu@10-2-19
-  properties:
-    version: 10.2.19
-    publishDate: '2021-03-26T20:45:03.569Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@18-10-6
-  title: chevrolet-malibu@18-10-6
-  properties:
-    version: 18.10.6
-    publishDate: '2022-11-18T22:24:38.854Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@3-5-17
-  title: chevrolet-malibu@3-5-17
-  properties:
-    version: 3.5.17
-    publishDate: '2020-07-08T11:41:33.298Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@16-17-18
-  title: chevrolet-malibu@16-17-18
-  properties:
-    version: 16.17.18
-    publishDate: '2020-04-08T11:22:30.445Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@15-18-18
-  title: chevrolet-malibu@15-18-18
-  properties:
-    version: 15.18.18
-    publishDate: '2021-05-27T02:20:51.608Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: chevrolet-malibu@2-9-3
-  title: chevrolet-malibu@2-9-3
-  properties:
-    version: 2.9.3
-    publishDate: '2020-04-11T15:45:47.544Z'
-  relations:
-    versionOf: chevrolet-malibu
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@14-5-3
-  title: mini-explorer@14-5-3
-  properties:
-    version: 14.5.3
-    publishDate: '2020-01-27T20:47:13.008Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@5-8-4
-  title: mini-explorer@5-8-4
-  properties:
-    version: 5.8.4
-    publishDate: '2021-12-15T16:59:19.495Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@17-8-18
-  title: mini-explorer@17-8-18
-  properties:
-    version: 17.8.18
-    publishDate: '2023-05-24T02:00:53.039Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@5-2-11
-  title: mini-explorer@5-2-11
-  properties:
-    version: 5.2.11
-    publishDate: '2022-08-25T00:54:08.497Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@6-20-8
-  title: mini-explorer@6-20-8
-  properties:
-    version: 6.20.8
-    publishDate: '2022-03-18T02:40:46.795Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@20-7-3
-  title: mini-explorer@20-7-3
-  properties:
-    version: 20.7.3
-    publishDate: '2018-09-05T02:40:29.937Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@7-18-5
-  title: mini-explorer@7-18-5
-  properties:
-    version: 7.18.5
-    publishDate: '2022-03-25T11:15:54.876Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@13-15-14
-  title: mini-explorer@13-15-14
-  properties:
-    version: 13.15.14
-    publishDate: '2022-09-15T11:27:04.483Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@16-3-4
-  title: mini-explorer@16-3-4
-  properties:
-    version: 16.3.4
-    publishDate: '2020-01-11T20:07:59.488Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@13-13-13
-  title: mini-explorer@13-13-13
-  properties:
-    version: 13.13.13
-    publishDate: '2022-01-24T07:20:24.861Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@20-11-17
-  title: mini-explorer@20-11-17
-  properties:
-    version: 20.11.17
-    publishDate: '2022-09-06T10:43:46.543Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@15-17-20
-  title: mini-explorer@15-17-20
-  properties:
-    version: 15.17.20
-    publishDate: '2022-01-29T23:51:17.752Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@3-6-18
-  title: mini-explorer@3-6-18
-  properties:
-    version: 3.6.18
-    publishDate: '2018-07-19T03:47:47.563Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@10-17-17
-  title: mini-explorer@10-17-17
-  properties:
-    version: 10.17.17
-    publishDate: '2018-07-19T20:32:59.987Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@19-16-9
-  title: mini-explorer@19-16-9
-  properties:
-    version: 19.16.9
-    publishDate: '2018-11-06T21:40:54.390Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@10-11-16
-  title: mini-explorer@10-11-16
-  properties:
-    version: 10.11.16
-    publishDate: '2020-04-27T08:11:57.910Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@10-18-15
-  title: mini-explorer@10-18-15
-  properties:
-    version: 10.18.15
-    publishDate: '2020-12-05T23:53:11.797Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@5-18-19
-  title: mini-explorer@5-18-19
-  properties:
-    version: 5.18.19
-    publishDate: '2022-11-19T14:31:04.640Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@12-11-3
-  title: mini-explorer@12-11-3
-  properties:
-    version: 12.11.3
-    publishDate: '2021-06-02T06:31:10.356Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@17-14-5
-  title: mini-explorer@17-14-5
-  properties:
-    version: 17.14.5
-    publishDate: '2019-02-28T21:29:04.465Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@0-8-7
-  title: mini-explorer@0-8-7
-  properties:
-    version: 0.8.7
-    publishDate: '2018-12-07T03:53:36.983Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@14-2-13
-  title: mini-explorer@14-2-13
-  properties:
-    version: 14.2.13
-    publishDate: '2023-05-17T10:21:50.438Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@17-7-11
-  title: mini-explorer@17-7-11
-  properties:
-    version: 17.7.11
-    publishDate: '2021-12-21T06:29:27.324Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@7-13-6
-  title: mini-explorer@7-13-6
-  properties:
-    version: 7.13.6
-    publishDate: '2020-03-26T14:27:33.046Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@5-20-1
-  title: mini-explorer@5-20-1
-  properties:
-    version: 5.20.1
-    publishDate: '2020-05-01T23:11:02.209Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@11-7-14
-  title: mini-explorer@11-7-14
-  properties:
-    version: 11.7.14
-    publishDate: '2020-11-08T19:51:18.820Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@1-18-13
-  title: mini-explorer@1-18-13
-  properties:
-    version: 1.18.13
-    publishDate: '2022-09-23T06:34:08.904Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@16-14-6
-  title: mini-explorer@16-14-6
-  properties:
-    version: 16.14.6
-    publishDate: '2023-06-02T20:51:07.540Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@13-11-11
-  title: mini-explorer@13-11-11
-  properties:
-    version: 13.11.11
-    publishDate: '2019-06-28T05:37:57.433Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@12-3-15
-  title: mini-explorer@12-3-15
-  properties:
-    version: 12.3.15
-    publishDate: '2022-07-04T06:40:14.359Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@5-4-13
-  title: mini-explorer@5-4-13
-  properties:
-    version: 5.4.13
-    publishDate: '2020-08-09T02:33:40.532Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@5-14-19
-  title: mini-explorer@5-14-19
-  properties:
-    version: 5.14.19
-    publishDate: '2022-08-23T04:33:50.460Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@7-18-16
-  title: mini-explorer@7-18-16
-  properties:
-    version: 7.18.16
-    publishDate: '2018-12-17T17:05:55.727Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@16-1-15
-  title: bugatti-1@16-1-15
-  properties:
-    version: 16.1.15
-    publishDate: '2022-09-19T13:49:32.021Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@15-11-9
-  title: bugatti-1@15-11-9
-  properties:
-    version: 15.11.9
-    publishDate: '2020-11-29T16:02:02.769Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: mini-explorer@17-2-8
-  title: mini-explorer@17-2-8
-  properties:
-    version: 17.2.8
-    publishDate: '2022-09-16T02:00:40.245Z'
-  relations:
-    versionOf: mini-explorer
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@12-16-18
-  title: bugatti-1@12-16-18
-  properties:
-    version: 12.16.18
-    publishDate: '2020-12-28T23:53:28.278Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@2-18-4
-  title: bugatti-1@2-18-4
-  properties:
-    version: 2.18.4
-    publishDate: '2019-12-17T13:49:09.030Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@12-6-10
-  title: bugatti-1@12-6-10
-  properties:
-    version: 12.6.10
-    publishDate: '2019-06-16T09:11:57.222Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@4-1-4
-  title: bugatti-1@4-1-4
-  properties:
-    version: 4.1.4
-    publishDate: '2020-01-13T04:36:39.684Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@8-12-5
-  title: bugatti-1@8-12-5
-  properties:
-    version: 8.12.5
-    publishDate: '2020-11-14T00:27:35.528Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@17-18-4
-  title: bugatti-1@17-18-4
-  properties:
-    version: 17.18.4
-    publishDate: '2023-05-05T10:34:51.891Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@18-4-19
-  title: bugatti-1@18-4-19
-  properties:
-    version: 18.4.19
-    publishDate: '2021-07-20T20:46:42.796Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@11-10-8
-  title: bugatti-1@11-10-8
-  properties:
-    version: 11.10.8
-    publishDate: '2018-09-06T23:17:12.694Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@14-20-3
-  title: bugatti-1@14-20-3
-  properties:
-    version: 14.20.3
-    publishDate: '2022-07-09T19:00:39.874Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@16-15-17
-  title: bugatti-1@16-15-17
-  properties:
-    version: 16.15.17
-    publishDate: '2021-12-30T01:57:03.823Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@10-17-0
-  title: bugatti-1@10-17-0
-  properties:
-    version: 10.17.0
-    publishDate: '2020-11-28T09:11:35.197Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@8-9-9
-  title: bugatti-1@8-9-9
-  properties:
-    version: 8.9.9
-    publishDate: '2023-01-28T19:13:19.702Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@15-12-8
-  title: bugatti-1@15-12-8
-  properties:
-    version: 15.12.8
-    publishDate: '2022-07-19T17:20:41.305Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@14-7-6
-  title: bugatti-1@14-7-6
-  properties:
-    version: 14.7.6
-    publishDate: '2020-02-29T18:27:27.968Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@2-6-0
-  title: bugatti-1@2-6-0
-  properties:
-    version: 2.6.0
-    publishDate: '2018-10-02T07:19:23.123Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@7-14-2
-  title: bugatti-1@7-14-2
-  properties:
-    version: 7.14.2
-    publishDate: '2021-02-12T21:20:20.189Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@4-10-18
-  title: bugatti-1@4-10-18
-  properties:
-    version: 4.10.18
-    publishDate: '2022-03-08T15:05:02.569Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@12-15-2
-  title: bugatti-1@12-15-2
-  properties:
-    version: 12.15.2
-    publishDate: '2019-10-18T00:13:22.775Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@8-5-20
-  title: bugatti-1@8-5-20
-  properties:
-    version: 8.5.20
-    publishDate: '2023-02-21T15:27:23.031Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@19-1-16
-  title: bugatti-1@19-1-16
-  properties:
-    version: 19.1.16
-    publishDate: '2022-08-10T17:48:47.601Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@20-20-1
-  title: bugatti-1@20-20-1
-  properties:
-    version: 20.20.1
-    publishDate: '2018-07-30T09:36:54.100Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@9-17-14
-  title: bugatti-1@9-17-14
-  properties:
-    version: 9.17.14
-    publishDate: '2022-08-27T23:22:48.302Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@18-15-8
-  title: bugatti-1@18-15-8
-  properties:
-    version: 18.15.8
-    publishDate: '2021-07-31T17:56:59.591Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@11-5-18
-  title: bugatti-1@11-5-18
-  properties:
-    version: 11.5.18
-    publishDate: '2022-11-17T21:33:03.057Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@14-13-18
-  title: bugatti-1@14-13-18
-  properties:
-    version: 14.13.18
-    publishDate: '2020-08-09T13:18:59.307Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@16-10-17
-  title: bugatti-1@16-10-17
-  properties:
-    version: 16.10.17
-    publishDate: '2022-01-29T15:49:12.089Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@17-19-16
-  title: bugatti-1@17-19-16
-  properties:
-    version: 17.19.16
-    publishDate: '2022-03-04T20:53:13.968Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@6-16-4
-  title: bugatti-1@6-16-4
-  properties:
-    version: 6.16.4
-    publishDate: '2020-07-18T07:00:56.684Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@6-14-4
-  title: bugatti-1@6-14-4
-  properties:
-    version: 6.14.4
-    publishDate: '2021-11-11T05:48:14.511Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@4-2-11
-  title: bugatti-1@4-2-11
-  properties:
-    version: 4.2.11
-    publishDate: '2022-04-10T05:52:13.372Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@17-12-3
-  title: bugatti-1@17-12-3
-  properties:
-    version: 17.12.3
-    publishDate: '2019-03-24T09:34:24.739Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@1-20-18
-  title: bugatti-1@1-20-18
-  properties:
-    version: 1.20.18
-    publishDate: '2019-06-30T22:50:43.002Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@18-15-3
-  title: bugatti-1@18-15-3
-  properties:
-    version: 18.15.3
-    publishDate: '2020-07-29T03:52:16.794Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@20-18-4
-  title: bugatti-1@20-18-4
-  properties:
-    version: 20.18.4
-    publishDate: '2023-02-14T08:52:10.083Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@17-19-4
-  title: bugatti-1@17-19-4
-  properties:
-    version: 17.19.4
-    publishDate: '2022-12-23T00:22:08.759Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@10-17-8
-  title: bugatti-1@10-17-8
-  properties:
-    version: 10.17.8
-    publishDate: '2018-09-19T12:41:15.286Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@17-4-10
-  title: bugatti-1@17-4-10
-  properties:
-    version: 17.4.10
-    publishDate: '2022-09-16T03:52:53.185Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@4-1-6
-  title: bugatti-1@4-1-6
-  properties:
-    version: 4.1.6
-    publishDate: '2022-10-18T14:45:25.423Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@7-19-14
-  title: bugatti-1@7-19-14
-  properties:
-    version: 7.19.14
-    publishDate: '2022-06-30T13:02:37.970Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: bugatti-1@10-1-13
-  title: bugatti-1@10-1-13
-  properties:
-    version: 10.1.13
-    publishDate: '2023-04-05T03:33:15.093Z'
-  relations:
-    versionOf: bugatti-1
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@7-2-19
-  title: ford-camry@7-2-19
-  properties:
-    version: 7.2.19
-    publishDate: '2020-04-10T00:56:25.109Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@12-13-19
-  title: ford-camry@12-13-19
-  properties:
-    version: 12.13.19
-    publishDate: '2022-05-18T05:50:35.520Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@3-4-10
-  title: ford-camry@3-4-10
-  properties:
-    version: 3.4.10
-    publishDate: '2022-10-19T00:14:41.394Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@14-3-6
-  title: ford-camry@14-3-6
-  properties:
-    version: 14.3.6
-    publishDate: '2022-11-23T03:04:04.977Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@9-9-0
-  title: ford-camry@9-9-0
-  properties:
-    version: 9.9.0
-    publishDate: '2019-01-22T18:27:09.870Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@6-14-11
-  title: ford-camry@6-14-11
-  properties:
-    version: 6.14.11
-    publishDate: '2022-09-03T03:07:02.792Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@0-8-3
-  title: ford-camry@0-8-3
-  properties:
-    version: 0.8.3
-    publishDate: '2021-03-30T03:12:46.335Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@9-11-1
-  title: ford-camry@9-11-1
-  properties:
-    version: 9.11.1
-    publishDate: '2021-04-12T18:19:46.044Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@17-11-20
-  title: ford-camry@17-11-20
-  properties:
-    version: 17.11.20
-    publishDate: '2019-07-21T17:05:40.004Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@17-11-16
-  title: ford-camry@17-11-16
-  properties:
-    version: 17.11.16
-    publishDate: '2022-05-30T15:06:14.432Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@19-4-15
-  title: ford-camry@19-4-15
-  properties:
-    version: 19.4.15
-    publishDate: '2022-03-17T04:55:54.626Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@8-3-17
-  title: ford-camry@8-3-17
-  properties:
-    version: 8.3.17
-    publishDate: '2019-09-30T14:31:01.173Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@8-8-19
-  title: ford-camry@8-8-19
-  properties:
-    version: 8.8.19
-    publishDate: '2020-06-21T18:17:35.161Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@9-3-13
-  title: ford-camry@9-3-13
-  properties:
-    version: 9.3.13
-    publishDate: '2018-11-28T23:02:27.510Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@8-12-18
-  title: ford-camry@8-12-18
-  properties:
-    version: 8.12.18
-    publishDate: '2021-01-29T22:00:19.181Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@16-19-13
-  title: ford-camry@16-19-13
-  properties:
-    version: 16.19.13
-    publishDate: '2022-05-14T21:05:27.494Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@8-10-1
-  title: ford-camry@8-10-1
-  properties:
-    version: 8.10.1
-    publishDate: '2021-04-02T00:35:14.374Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@1-19-13
-  title: ford-camry@1-19-13
-  properties:
-    version: 1.19.13
-    publishDate: '2020-09-24T07:42:27.084Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@17-20-3
-  title: ford-camry@17-20-3
-  properties:
-    version: 17.20.3
-    publishDate: '2023-03-01T10:38:17.055Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@17-10-10
-  title: ford-camry@17-10-10
-  properties:
-    version: 17.10.10
-    publishDate: '2019-07-12T23:59:41.371Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@6-3-10
-  title: ford-camry@6-3-10
-  properties:
-    version: 6.3.10
-    publishDate: '2022-07-13T20:44:34.421Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@16-3-2
-  title: ford-camry@16-3-2
-  properties:
-    version: 16.3.2
-    publishDate: '2023-03-04T23:20:58.919Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@17-3-13
-  title: ford-camry@17-3-13
-  properties:
-    version: 17.3.13
-    publishDate: '2022-05-18T02:27:04.471Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@6-4-3
-  title: ford-camry@6-4-3
-  properties:
-    version: 6.4.3
-    publishDate: '2020-02-08T12:05:00.590Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: ford-camry@17-11-2
-  title: ford-camry@17-11-2
-  properties:
-    version: 17.11.2
-    publishDate: '2020-02-20T15:56:50.722Z'
-  relations:
-    versionOf: ford-camry
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@3-19-7
-  title: nissan-spyder@3-19-7
-  properties:
-    version: 3.19.7
-    publishDate: '2020-10-09T09:32:24.749Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@6-16-18
-  title: nissan-spyder@6-16-18
-  properties:
-    version: 6.16.18
-    publishDate: '2021-09-17T12:55:43.348Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@12-2-7
-  title: nissan-spyder@12-2-7
-  properties:
-    version: 12.2.7
-    publishDate: '2021-10-07T23:49:57.541Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@16-14-17
-  title: nissan-spyder@16-14-17
-  properties:
-    version: 16.14.17
-    publishDate: '2021-07-19T04:34:06.398Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@11-18-4
-  title: nissan-spyder@11-18-4
-  properties:
-    version: 11.18.4
-    publishDate: '2019-02-05T06:02:41.962Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@6-16-0
-  title: nissan-spyder@6-16-0
-  properties:
-    version: 6.16.0
-    publishDate: '2020-10-29T02:43:31.298Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@10-15-1
-  title: nissan-spyder@10-15-1
-  properties:
-    version: 10.15.1
-    publishDate: '2019-09-03T15:29:23.614Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@13-12-16
-  title: nissan-spyder@13-12-16
-  properties:
-    version: 13.12.16
-    publishDate: '2022-10-02T04:20:31.637Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@8-8-17
-  title: nissan-spyder@8-8-17
-  properties:
-    version: 8.8.17
-    publishDate: '2020-01-23T01:57:21.888Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@12-9-19
-  title: nissan-spyder@12-9-19
-  properties:
-    version: 12.9.19
-    publishDate: '2018-12-19T08:24:05.323Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@8-8-11
-  title: nissan-spyder@8-8-11
-  properties:
-    version: 8.8.11
-    publishDate: '2020-05-25T01:42:56.863Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@13-15-3
-  title: nissan-spyder@13-15-3
-  properties:
-    version: 13.15.3
-    publishDate: '2020-01-15T02:13:30.222Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@9-16-19
-  title: nissan-spyder@9-16-19
-  properties:
-    version: 9.16.19
-    publishDate: '2023-03-04T20:37:15.273Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@17-19-18
-  title: nissan-spyder@17-19-18
-  properties:
-    version: 17.19.18
-    publishDate: '2021-09-05T01:10:30.522Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@17-8-19
-  title: nissan-spyder@17-8-19
-  properties:
-    version: 17.8.19
-    publishDate: '2021-08-29T19:48:11.061Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@16-11-10
-  title: nissan-spyder@16-11-10
-  properties:
-    version: 16.11.10
-    publishDate: '2019-01-21T22:23:05.103Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@13-1-19
-  title: nissan-spyder@13-1-19
-  properties:
-    version: 13.1.19
-    publishDate: '2020-02-10T03:49:11.737Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@12-19-10
-  title: nissan-spyder@12-19-10
-  properties:
-    version: 12.19.10
-    publishDate: '2022-08-04T01:00:43.865Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@14-17-1
-  title: nissan-spyder@14-17-1
-  properties:
-    version: 14.17.1
-    publishDate: '2022-04-12T07:15:43.371Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@7-16-16
-  title: nissan-spyder@7-16-16
-  properties:
-    version: 7.16.16
-    publishDate: '2019-05-14T00:45:06.231Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@4-11-5
-  title: nissan-spyder@4-11-5
-  properties:
-    version: 4.11.5
-    publishDate: '2022-09-23T12:33:14.007Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@16-4-14
-  title: nissan-spyder@16-4-14
-  properties:
-    version: 16.4.14
-    publishDate: '2021-12-16T22:26:01.565Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@15-9-0
-  title: nissan-spyder@15-9-0
-  properties:
-    version: 15.9.0
-    publishDate: '2019-04-05T08:24:33.067Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@7-17-15
-  title: nissan-spyder@7-17-15
-  properties:
-    version: 7.17.15
-    publishDate: '2019-07-29T00:21:34.381Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@12-13-10
-  title: nissan-spyder@12-13-10
-  properties:
-    version: 12.13.10
-    publishDate: '2019-11-06T22:52:20.715Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@13-6-19
-  title: nissan-spyder@13-6-19
-  properties:
-    version: 13.6.19
-    publishDate: '2022-08-05T07:57:26.430Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@15-14-18
-  title: nissan-spyder@15-14-18
-  properties:
-    version: 15.14.18
-    publishDate: '2018-12-25T08:19:44.505Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@6-6-7
-  title: nissan-spyder@6-6-7
-  properties:
-    version: 6.6.7
-    publishDate: '2018-08-11T01:15:42.415Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@10-6-9
-  title: nissan-spyder@10-6-9
-  properties:
-    version: 10.6.9
-    publishDate: '2021-07-08T10:19:42.739Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@6-15-8
-  title: nissan-spyder@6-15-8
-  properties:
-    version: 6.15.8
-    publishDate: '2020-09-01T21:55:33.103Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@13-12-8
-  title: nissan-spyder@13-12-8
-  properties:
-    version: 13.12.8
-    publishDate: '2019-05-19T18:04:44.653Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@7-12-6
-  title: nissan-spyder@7-12-6
-  properties:
-    version: 7.12.6
-    publishDate: '2018-11-27T06:09:40.688Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@3-3-12
-  title: nissan-spyder@3-3-12
-  properties:
-    version: 3.3.12
-    publishDate: '2022-08-29T03:45:35.296Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@12-7-7
-  title: nissan-spyder@12-7-7
-  properties:
-    version: 12.7.7
-    publishDate: '2021-06-18T14:41:39.543Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@7-11-10
-  title: nissan-spyder@7-11-10
-  properties:
-    version: 7.11.10
-    publishDate: '2018-07-04T06:05:57.815Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: nissan-spyder@7-17-17
-  title: nissan-spyder@7-17-17
-  properties:
-    version: 7.17.17
-    publishDate: '2018-07-05T13:39:07.048Z'
-  relations:
-    versionOf: nissan-spyder
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@11-10-6
-  title: toyota-volt@11-10-6
-  properties:
-    version: 11.10.6
-    publishDate: '2022-10-16T10:14:34.618Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@1-5-8
-  title: toyota-volt@1-5-8
-  properties:
-    version: 1.5.8
-    publishDate: '2021-01-27T02:00:52.944Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@19-6-2
-  title: toyota-volt@19-6-2
-  properties:
-    version: 19.6.2
-    publishDate: '2018-07-24T22:08:49.007Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@17-8-2
-  title: toyota-volt@17-8-2
-  properties:
-    version: 17.8.2
-    publishDate: '2023-04-06T16:12:44.486Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@8-7-18
-  title: toyota-volt@8-7-18
-  properties:
-    version: 8.7.18
-    publishDate: '2022-09-11T19:39:49.242Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@13-14-13
-  title: toyota-volt@13-14-13
-  properties:
-    version: 13.14.13
-    publishDate: '2022-07-08T08:24:57.264Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@5-1-10
-  title: toyota-volt@5-1-10
-  properties:
-    version: 5.1.10
-    publishDate: '2019-04-18T14:38:44.499Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@17-11-5
-  title: toyota-volt@17-11-5
-  properties:
-    version: 17.11.5
-    publishDate: '2019-05-12T17:21:42.598Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@16-14-10
-  title: toyota-volt@16-14-10
-  properties:
-    version: 16.14.10
-    publishDate: '2022-07-24T01:57:41.892Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@1-14-6
-  title: toyota-volt@1-14-6
-  properties:
-    version: 1.14.6
-    publishDate: '2021-05-25T06:01:22.073Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@2-11-19
-  title: toyota-volt@2-11-19
-  properties:
-    version: 2.11.19
-    publishDate: '2019-04-14T11:52:49.784Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@2-19-19
-  title: toyota-volt@2-19-19
-  properties:
-    version: 2.19.19
-    publishDate: '2020-07-10T01:47:28.967Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@15-12-18
-  title: toyota-volt@15-12-18
-  properties:
-    version: 15.12.18
-    publishDate: '2022-01-24T08:20:57.512Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@12-3-12
-  title: toyota-volt@12-3-12
-  properties:
-    version: 12.3.12
-    publishDate: '2019-09-26T12:26:54.723Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@2-4-14
-  title: toyota-volt@2-4-14
-  properties:
-    version: 2.4.14
-    publishDate: '2019-12-21T22:31:00.906Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@9-17-10
-  title: toyota-volt@9-17-10
-  properties:
-    version: 9.17.10
-    publishDate: '2023-03-20T10:04:10.692Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@12-8-3
-  title: toyota-volt@12-8-3
-  properties:
-    version: 12.8.3
-    publishDate: '2023-05-20T23:26:48.313Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@10-19-4
-  title: toyota-volt@10-19-4
-  properties:
-    version: 10.19.4
-    publishDate: '2019-03-24T05:26:17.662Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@13-8-3
-  title: toyota-volt@13-8-3
-  properties:
-    version: 13.8.3
-    publishDate: '2019-03-27T13:45:56.244Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@1-3-0
-  title: toyota-volt@1-3-0
-  properties:
-    version: 1.3.0
-    publishDate: '2021-09-30T18:20:01.751Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@19-1-8
-  title: toyota-volt@19-1-8
-  properties:
-    version: 19.1.8
-    publishDate: '2019-09-20T22:45:46.601Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@10-8-10
-  title: toyota-volt@10-8-10
-  properties:
-    version: 10.8.10
-    publishDate: '2022-01-15T20:06:14.499Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@4-0-2
-  title: toyota-volt@4-0-2
-  properties:
-    version: 4.0.2
-    publishDate: '2019-07-06T02:51:12.411Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@1-15-3
-  title: toyota-volt@1-15-3
-  properties:
-    version: 1.15.3
-    publishDate: '2022-08-28T16:33:06.175Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@15-19-12
-  title: toyota-volt@15-19-12
-  properties:
-    version: 15.19.12
-    publishDate: '2019-03-15T22:53:10.964Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@13-12-13
-  title: toyota-volt@13-12-13
-  properties:
-    version: 13.12.13
-    publishDate: '2022-01-12T09:51:26.134Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@15-2-8
-  title: toyota-volt@15-2-8
-  properties:
-    version: 15.2.8
-    publishDate: '2021-08-21T22:06:43.884Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@9-17-16
-  title: toyota-volt@9-17-16
-  properties:
-    version: 9.17.16
-    publishDate: '2021-09-23T18:22:59.156Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@5-8-9
-  title: toyota-volt@5-8-9
-  properties:
-    version: 5.8.9
-    publishDate: '2022-01-26T18:18:48.457Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@1-6-11
-  title: toyota-volt@1-6-11
-  properties:
-    version: 1.6.11
-    publishDate: '2023-02-13T13:59:25.407Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@3-6-5
-  title: toyota-volt@3-6-5
-  properties:
-    version: 3.6.5
-    publishDate: '2021-06-18T00:10:10.995Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@7-14-5
-  title: toyota-volt@7-14-5
-  properties:
-    version: 7.14.5
-    publishDate: '2023-04-01T03:31:25.526Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@10-4-9
-  title: toyota-volt@10-4-9
-  properties:
-    version: 10.4.9
-    publishDate: '2018-09-14T23:27:00.633Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@15-14-3
-  title: toyota-volt@15-14-3
-  properties:
-    version: 15.14.3
-    publishDate: '2021-11-23T08:12:55.413Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@1-2-9
-  title: toyota-volt@1-2-9
-  properties:
-    version: 1.2.9
-    publishDate: '2021-09-01T03:52:55.904Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@14-9-11
-  title: toyota-volt@14-9-11
-  properties:
-    version: 14.9.11
-    publishDate: '2018-12-15T15:24:43.247Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@18-2-16
-  title: toyota-volt@18-2-16
-  properties:
-    version: 18.2.16
-    publishDate: '2023-05-06T11:54:00.812Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@14-8-12
-  title: toyota-volt@14-8-12
-  properties:
-    version: 14.8.12
-    publishDate: '2018-09-07T23:43:58.237Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@4-5-14
-  title: toyota-volt@4-5-14
-  properties:
-    version: 4.5.14
-    publishDate: '2023-02-27T22:39:52.532Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@15-18-3
-  title: toyota-volt@15-18-3
-  properties:
-    version: 15.18.3
-    publishDate: '2019-02-21T01:42:36.776Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@6-7-15
-  title: toyota-volt@6-7-15
-  properties:
-    version: 6.7.15
-    publishDate: '2018-11-15T18:18:42.980Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@6-8-3
-  title: toyota-volt@6-8-3
-  properties:
-    version: 6.8.3
-    publishDate: '2019-06-28T16:36:54.740Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@15-13-8
-  title: toyota-volt@15-13-8
-  properties:
-    version: 15.13.8
-    publishDate: '2020-05-05T01:05:27.072Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@6-19-0
-  title: toyota-volt@6-19-0
-  properties:
-    version: 6.19.0
-    publishDate: '2021-11-09T23:40:06.991Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@19-16-9
-  title: toyota-volt@19-16-9
-  properties:
-    version: 19.16.9
-    publishDate: '2021-06-07T09:22:43.907Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: toyota-volt@17-9-7
-  title: toyota-volt@17-9-7
-  properties:
-    version: 17.9.7
-    publishDate: '2021-06-04T03:44:40.040Z'
-  relations:
-    versionOf: toyota-volt
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@17-5-4
-  title: lamborghini-prius@17-5-4
-  properties:
-    version: 17.5.4
-    publishDate: '2021-07-12T11:21:14.082Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@9-18-8
-  title: lamborghini-prius@9-18-8
-  properties:
-    version: 9.18.8
-    publishDate: '2018-10-23T22:23:37.709Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@16-10-8
-  title: lamborghini-prius@16-10-8
-  properties:
-    version: 16.10.8
-    publishDate: '2019-03-07T15:57:28.609Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@6-11-10
-  title: lamborghini-prius@6-11-10
-  properties:
-    version: 6.11.10
-    publishDate: '2019-02-26T08:39:31.835Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@3-16-19
-  title: lamborghini-prius@3-16-19
-  properties:
-    version: 3.16.19
-    publishDate: '2019-07-14T05:52:31.811Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@11-3-3
-  title: lamborghini-prius@11-3-3
-  properties:
-    version: 11.3.3
-    publishDate: '2021-09-18T17:31:15.123Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@6-4-13
-  title: lamborghini-prius@6-4-13
-  properties:
-    version: 6.4.13
-    publishDate: '2019-06-29T12:47:57.131Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@12-7-11
-  title: lamborghini-prius@12-7-11
-  properties:
-    version: 12.7.11
-    publishDate: '2021-11-30T01:04:12.188Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@13-17-5
-  title: lamborghini-prius@13-17-5
-  properties:
-    version: 13.17.5
-    publishDate: '2021-03-17T10:25:33.811Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@4-10-20
-  title: lamborghini-prius@4-10-20
-  properties:
-    version: 4.10.20
-    publishDate: '2022-11-21T01:17:57.965Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@18-7-17
-  title: lamborghini-prius@18-7-17
-  properties:
-    version: 18.7.17
-    publishDate: '2023-04-04T19:00:13.887Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@12-16-8
-  title: lamborghini-prius@12-16-8
-  properties:
-    version: 12.16.8
-    publishDate: '2020-02-19T20:30:46.638Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@14-13-15
-  title: lamborghini-prius@14-13-15
-  properties:
-    version: 14.13.15
-    publishDate: '2023-03-15T14:41:05.083Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@12-8-7
-  title: lamborghini-prius@12-8-7
-  properties:
-    version: 12.8.7
-    publishDate: '2018-10-01T22:53:40.328Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@10-18-14
-  title: lamborghini-prius@10-18-14
-  properties:
-    version: 10.18.14
-    publishDate: '2021-02-13T18:15:46.956Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@9-18-17
-  title: lamborghini-prius@9-18-17
-  properties:
-    version: 9.18.17
-    publishDate: '2019-03-12T14:59:42.952Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@3-9-15
-  title: lamborghini-prius@3-9-15
-  properties:
-    version: 3.9.15
-    publishDate: '2021-12-12T20:53:21.767Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@18-15-13
-  title: lamborghini-prius@18-15-13
-  properties:
-    version: 18.15.13
-    publishDate: '2021-02-18T08:14:50.550Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@6-17-17
-  title: lamborghini-prius@6-17-17
-  properties:
-    version: 6.17.17
-    publishDate: '2020-08-13T18:54:18.756Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@20-10-20
-  title: lamborghini-prius@20-10-20
-  properties:
-    version: 20.10.20
-    publishDate: '2020-06-05T19:29:01.554Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@4-19-12
-  title: lamborghini-prius@4-19-12
-  properties:
-    version: 4.19.12
-    publishDate: '2019-04-04T14:31:41.609Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: lamborghini-prius@0-15-19
-  title: lamborghini-prius@0-15-19
-  properties:
-    version: 0.15.19
-    publishDate: '2021-09-25T14:00:52.542Z'
-  relations:
-    versionOf: lamborghini-prius
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@16-1-9
-  title: rolls-royce-xc-90@16-1-9
-  properties:
-    version: 16.1.9
-    publishDate: '2022-04-16T05:15:56.835Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@2-7-16
-  title: rolls-royce-xc-90@2-7-16
-  properties:
-    version: 2.7.16
-    publishDate: '2021-01-11T07:27:36.836Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@9-17-6
-  title: rolls-royce-xc-90@9-17-6
-  properties:
-    version: 9.17.6
-    publishDate: '2019-03-11T03:41:38.593Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@11-4-4
-  title: rolls-royce-xc-90@11-4-4
-  properties:
-    version: 11.4.4
-    publishDate: '2021-12-10T11:20:12.427Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@8-6-20
-  title: rolls-royce-xc-90@8-6-20
-  properties:
-    version: 8.6.20
-    publishDate: '2021-06-18T11:35:28.793Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@15-12-2
-  title: rolls-royce-xc-90@15-12-2
-  properties:
-    version: 15.12.2
-    publishDate: '2018-10-21T01:44:38.067Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@15-13-3
-  title: rolls-royce-xc-90@15-13-3
-  properties:
-    version: 15.13.3
-    publishDate: '2018-11-18T15:34:44.433Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@9-10-3
-  title: rolls-royce-xc-90@9-10-3
-  properties:
-    version: 9.10.3
-    publishDate: '2023-04-11T17:52:46.879Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@18-15-4
-  title: rolls-royce-xc-90@18-15-4
-  properties:
-    version: 18.15.4
-    publishDate: '2022-06-10T03:50:06.568Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@4-7-2
-  title: rolls-royce-xc-90@4-7-2
-  properties:
-    version: 4.7.2
-    publishDate: '2019-10-01T14:55:47.755Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@4-0-2
-  title: rolls-royce-xc-90@4-0-2
-  properties:
-    version: 4.0.2
-    publishDate: '2018-10-18T17:40:42.311Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@0-3-9
-  title: rolls-royce-xc-90@0-3-9
-  properties:
-    version: 0.3.9
-    publishDate: '2022-06-04T06:33:29.300Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@15-5-10
-  title: rolls-royce-xc-90@15-5-10
-  properties:
-    version: 15.5.10
-    publishDate: '2021-06-06T05:58:55.297Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@6-14-1
-  title: rolls-royce-xc-90@6-14-1
-  properties:
-    version: 6.14.1
-    publishDate: '2022-10-26T10:57:29.169Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@17-20-5
-  title: rolls-royce-xc-90@17-20-5
-  properties:
-    version: 17.20.5
-    publishDate: '2020-01-22T03:18:43.596Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@2-12-1
-  title: rolls-royce-xc-90@2-12-1
-  properties:
-    version: 2.12.1
-    publishDate: '2020-04-05T02:39:07.085Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@2-11-17
-  title: rolls-royce-xc-90@2-11-17
-  properties:
-    version: 2.11.17
-    publishDate: '2019-06-27T15:13:55.393Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@1-6-12
-  title: rolls-royce-xc-90@1-6-12
-  properties:
-    version: 1.6.12
-    publishDate: '2021-06-07T15:30:42.321Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@13-9-18
-  title: rolls-royce-xc-90@13-9-18
-  properties:
-    version: 13.9.18
-    publishDate: '2020-09-23T20:59:50.956Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@7-13-14
-  title: rolls-royce-xc-90@7-13-14
-  properties:
-    version: 7.13.14
-    publishDate: '2020-07-08T14:16:17.679Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@5-9-1
-  title: rolls-royce-xc-90@5-9-1
-  properties:
-    version: 5.9.1
-    publishDate: '2022-08-23T01:04:25.649Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@15-14-20
-  title: rolls-royce-xc-90@15-14-20
-  properties:
-    version: 15.14.20
-    publishDate: '2022-01-02T17:06:38.522Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@18-9-2
-  title: rolls-royce-xc-90@18-9-2
-  properties:
-    version: 18.9.2
-    publishDate: '2023-01-01T18:00:45.916Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@10-14-13
-  title: rolls-royce-xc-90@10-14-13
-  properties:
-    version: 10.14.13
-    publishDate: '2022-10-01T15:10:03.319Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@8-18-5
-  title: rolls-royce-xc-90@8-18-5
-  properties:
-    version: 8.18.5
-    publishDate: '2021-07-14T18:18:13.764Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@0-15-8
-  title: rolls-royce-xc-90@0-15-8
-  properties:
-    version: 0.15.8
-    publishDate: '2019-08-25T15:30:03.558Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@0-17-7
-  title: rolls-royce-xc-90@0-17-7
-  properties:
-    version: 0.17.7
-    publishDate: '2019-04-09T12:28:32.124Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@16-6-6
-  title: rolls-royce-xc-90@16-6-6
-  properties:
-    version: 16.6.6
-    publishDate: '2019-02-23T09:57:24.004Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@6-19-4
-  title: rolls-royce-xc-90@6-19-4
-  properties:
-    version: 6.19.4
-    publishDate: '2022-04-06T10:37:27.656Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@7-1-20
-  title: rolls-royce-xc-90@7-1-20
-  properties:
-    version: 7.1.20
-    publishDate: '2022-05-23T20:14:42.616Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@9-17-3
-  title: rolls-royce-xc-90@9-17-3
-  properties:
-    version: 9.17.3
-    publishDate: '2021-01-30T23:50:13.357Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@10-6-6
-  title: rolls-royce-xc-90@10-6-6
-  properties:
-    version: 10.6.6
-    publishDate: '2023-01-16T20:57:51.341Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@16-13-9
-  title: rolls-royce-xc-90@16-13-9
-  properties:
-    version: 16.13.9
-    publishDate: '2020-07-02T23:01:26.149Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@8-15-9
-  title: rolls-royce-xc-90@8-15-9
-  properties:
-    version: 8.15.9
-    publishDate: '2019-08-20T05:08:43.297Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@8-8-20
-  title: rolls-royce-xc-90@8-8-20
-  properties:
-    version: 8.8.20
-    publishDate: '2018-08-30T11:54:21.812Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@12-10-9
-  title: rolls-royce-xc-90@12-10-9
-  properties:
-    version: 12.10.9
-    publishDate: '2021-06-25T17:33:00.098Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@15-5-1
-  title: rolls-royce-xc-90@15-5-1
-  properties:
-    version: 15.5.1
-    publishDate: '2018-10-30T21:09:32.536Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@4-17-9
-  title: rolls-royce-xc-90@4-17-9
-  properties:
-    version: 4.17.9
-    publishDate: '2019-05-22T03:15:06.534Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@18-7-9
-  title: rolls-royce-xc-90@18-7-9
-  properties:
-    version: 18.7.9
-    publishDate: '2018-12-10T20:50:09.298Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@2-19-4
-  title: rolls-royce-xc-90@2-19-4
-  properties:
-    version: 2.19.4
-    publishDate: '2022-03-26T21:45:09.471Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@2-13-4
-  title: rolls-royce-xc-90@2-13-4
-  properties:
-    version: 2.13.4
-    publishDate: '2022-04-27T22:09:49.952Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@18-1-19
-  title: rolls-royce-xc-90@18-1-19
-  properties:
-    version: 18.1.19
-    publishDate: '2018-07-20T11:05:46.089Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@3-13-18
-  title: rolls-royce-xc-90@3-13-18
-  properties:
-    version: 3.13.18
-    publishDate: '2019-03-02T12:01:18.075Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@12-19-2
-  title: rolls-royce-xc-90@12-19-2
-  properties:
-    version: 12.19.2
-    publishDate: '2022-02-01T23:39:32.137Z'
-  relations:
-    versionOf: rolls-royce-xc-90
-  team: []
-- blueprint: PackageVersion
-  identifier: rolls-royce-xc-90@5-7-18
-  title: rolls-royce-xc-90@5-7-18
-  properties:
-    version: 5.7.18
-    publishDate: '2021-09-06T06:37:34.951Z'
-  relations:
-    versionOf: rolls-royce-xc-90
+- blueprint: Service
+  identifier: scarlet-witch-service
+  title: scarlet-witch-service
+  properties:
+    latestVersion: 17.8.5
+    language: Python
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/scarlet-witch-service
+  relations:
+    using: null
+  team:
+    - The Lion King
+- blueprint: Service
+  identifier: spider-man-service
+  title: spider-man-service
+  properties:
+    latestVersion: 18.6.8
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/spider-man-service
+  relations:
+    using: wasp-service
+  team:
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: supergirl-service
+  title: supergirl-service
+  properties:
+    latestVersion: 2.12.9
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/supergirl-service
+  relations:
+    using: frog-thor-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+- blueprint: Service
+  identifier: black-canary-service
+  title: black-canary-service
+  properties:
+    latestVersion: 7.5.14
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-canary-service
+  relations:
+    using: null
+  team:
+    - Once Upon a Time in the West
+    - The Apartment
+    - Django Unchained
+    - The Lion King
+- blueprint: Service
+  identifier: green-arrow-service
+  title: green-arrow-service
+  properties:
+    latestVersion: 18.8.15
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/green-arrow-service
+  relations:
+    using: storm-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+- blueprint: Service
+  identifier: batgirl-service
+  title: batgirl-service
+  properties:
+    latestVersion: 5.17.14
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batgirl-service
+  relations:
+    using: carol-danvers-service
+  team:
+    - There Will Be Blood
+- blueprint: Service
+  identifier: storm-service
+  title: storm-service
+  properties:
+    latestVersion: 18.10.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/storm-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: Service
+  identifier: captain-atom-service
+  title: captain-atom-service
+  properties:
+    latestVersion: 10.10.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/captain-atom-service
+  relations:
+    using: black-widow-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: Service
+  identifier: thor-service
+  title: thor-service
+  properties:
+    latestVersion: 12.12.1
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/thor-service
+  relations:
+    using: elektra-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: captain-america-service
+  title: captain-america-service
+  properties:
+    latestVersion: 15.10.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-america-service
+  relations:
+    using: null
+  team:
+    - Django Unchained
+    - There Will Be Blood
+    - The Lion King
+    - The Apartment
+- blueprint: Service
+  identifier: power-girl-service
+  title: power-girl-service
+  properties:
+    latestVersion: 16.11.8
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/power-girl-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: Service
+  identifier: invisible-woman-service
+  title: invisible-woman-service
+  properties:
+    latestVersion: 9.6.6
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/invisible-woman-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: green-lantern-service
+  title: green-lantern-service
+  properties:
+    latestVersion: 15.12.20
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/green-lantern-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: Service
+  identifier: wolverine-service
+  title: wolverine-service
+  properties:
+    latestVersion: 19.12.16
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/wolverine-service
+  relations:
+    using: supergirl-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: carol-danvers-service
+  title: carol-danvers-service
+  properties:
+    latestVersion: 18.17.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/carol-danvers-service
+  relations:
+    using: black-widow-service
+  team:
+    - There Will Be Blood
+    - 12 Years a Slave
+    - The Lion King
+    - Paths of Glory
+- blueprint: Service
+  identifier: batman-service
+  title: batman-service
+  properties:
+    latestVersion: 12.8.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batman-service
+  relations:
+    using: hawk-service
+  team:
+    - Unforgiven
+    - The Sound of Music
+    - The Lion King
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: kitty-pryde-service
+  title: kitty-pryde-service
+  properties:
+    latestVersion: 7.12.16
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/kitty-pryde-service
+  relations:
+    using: moon-knight-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: Service
+  identifier: elektra-service
+  title: elektra-service
+  properties:
+    latestVersion: 2.13.1
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/elektra-service
+  relations:
+    using: frog-thor-service
+  team:
+    - The Lion King
+    - Once Upon a Time in the West
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: black-lightning-service
+  title: black-lightning-service
+  properties:
+    latestVersion: 17.12.18
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/black-lightning-service
+  relations:
+    using: the-atom-service
+  team:
+    - The Apartment
+    - The Lion King
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: Service
+  identifier: deadpool-service
+  title: deadpool-service
+  properties:
+    latestVersion: 17.18.19
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/deadpool-service
+  relations:
+    using: elektra-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+    - There Will Be Blood
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: daredevil-service
+  title: daredevil-service
+  properties:
+    latestVersion: 4.6.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/daredevil-service
+  relations:
+    using: punisher-service
+  team:
+    - Once Upon a Time in the West
+    - Django Unchained
+    - Unforgiven
+- blueprint: Service
+  identifier: gamora-service
+  title: gamora-service
+  properties:
+    latestVersion: 2.19.13
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/gamora-service
+  relations:
+    using: iron-man-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: hawkgirl-service
+  title: hawkgirl-service
+  properties:
+    latestVersion: 3.12.4
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/hawkgirl-service
+  relations:
+    using: jade-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: Service
+  identifier: iron-man-service
+  title: iron-man-service
+  properties:
+    latestVersion: 13.19.19
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/iron-man-service
+  relations:
+    using: storm-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Lion King
+    - The Apartment
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: ice-service
+  title: ice-service
+  properties:
+    latestVersion: 14.14.6
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/ice-service
+  relations:
+    using: null
+  team:
+    - The Lion King
+    - Paths of Glory
+- blueprint: Service
+  identifier: the-flash-service
+  title: the-flash-service
+  properties:
+    latestVersion: 15.14.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-flash-service
+  relations:
+    using: null
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: she-hulk-service
+  title: she-hulk-service
+  properties:
+    latestVersion: 4.11.6
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/she-hulk-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: silver-sable-service
+  title: silver-sable-service
+  properties:
+    latestVersion: 8.19.0
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/silver-sable-service
+  relations:
+    using: spider-man-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: rogue-service
+  title: rogue-service
+  properties:
+    latestVersion: 10.14.0
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/rogue-service
+  relations:
+    using: x-23-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: the-atom-service
+  title: the-atom-service
+  properties:
+    latestVersion: 12.15.17
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/the-atom-service
+  relations:
+    using: gambit-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: frog-thor-service
+  title: frog-thor-service
+  properties:
+    latestVersion: 10.20.20
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/frog-thor-service
+  relations:
+    using: spider-man-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: Service
+  identifier: wonder-woman-service
+  title: wonder-woman-service
+  properties:
+    latestVersion: 7.14.4
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/wonder-woman-service
+  relations:
+    using: null
+  team:
+    - Unforgiven
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: hawkman-service
+  title: hawkman-service
+  properties:
+    latestVersion: 9.9.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawkman-service
+  relations:
+    using: iron-man-service
+  team:
+    - 12 Years a Slave
+    - The Sound of Music
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: doctor-strange-service
+  title: doctor-strange-service
+  properties:
+    latestVersion: 10.4.12
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/doctor-strange-service
+  relations:
+    using: wolverine-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - There Will Be Blood
+- blueprint: Service
+  identifier: black-widow-service
+  title: black-widow-service
+  properties:
+    latestVersion: 12.3.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/black-widow-service
+  relations:
+    using: silver-sable-service
+  team:
+    - Full Metal Jacket
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: Service
+  identifier: hawk-service
+  title: hawk-service
+  properties:
+    latestVersion: 11.2.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawk-service
+  relations:
+    using: captain-atom-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: huntress-service
+  title: huntress-service
+  properties:
+    latestVersion: 17.13.4
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/huntress-service
+  relations:
+    using: null
+  team:
+    - Unforgiven
+    - Django Unchained
+    - The Sound of Music
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: superman-service
+  title: superman-service
+  properties:
+    latestVersion: 9.4.12
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/superman-service
+  relations:
+    using: iron-man-service
+  team:
+    - Django Unchained
+    - Unforgiven
+    - The Lion King
+    - 12 Years a Slave
+- blueprint: Service
+  identifier: black-panther-service
+  title: black-panther-service
+  properties:
+    latestVersion: 4.19.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-panther-service
+  relations:
+    using: the-flash-service
+  team:
+    - The Sound of Music
+    - There Will Be Blood
+    - The Apartment
+- blueprint: Service
+  identifier: wasp-service
+  title: wasp-service
+  properties:
+    latestVersion: 11.14.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/wasp-service
+  relations:
+    using: frog-thor-service
+  team:
+    - Unforgiven
+    - The Sound of Music
+- blueprint: Service
+  identifier: lady-blackhawk-service
+  title: lady-blackhawk-service
+  properties:
+    latestVersion: 12.3.2
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/lady-blackhawk-service
+  relations:
+    using: wonder-woman-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - Unforgiven
+- blueprint: Service
+  identifier: martian-manhunter-service
+  title: martian-manhunter-service
+  properties:
+    latestVersion: 12.12.14
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/martian-manhunter-service
+  relations:
+    using: thor-service
+  team:
+    - Full Metal Jacket
+    - Unforgiven
+    - Django Unchained
+    - The Lion King
+- blueprint: Service
+  identifier: x-23-service
+  title: x-23-service
+  properties:
+    latestVersion: 17.20.2
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/x-23-service
+  relations:
+    using: hawk-service
+  team:
+    - 12 Years a Slave
+    - The Lion King
+    - The Sound of Music
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: moon-knight-service
+  title: moon-knight-service
+  properties:
+    latestVersion: 18.19.9
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/moon-knight-service
+  relations:
+    using: superman-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: jade-service
+  title: jade-service
+  properties:
+    latestVersion: 4.18.14
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/jade-service
+  relations:
+    using: daredevil-service
+  team:
+    - There Will Be Blood
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: Service
+  identifier: punisher-service
+  title: punisher-service
+  properties:
+    latestVersion: 9.2.20
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/punisher-service
+  relations:
+    using: jade-service
+  team:
+    - The Lion King
+    - Paths of Glory
+    - Unforgiven
+    - The Sound of Music
+- blueprint: Service
+  identifier: aquaman-service
+  title: aquaman-service
+  properties:
+    latestVersion: 19.10.1
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/aquaman-service
+  relations:
+    using: doctor-strange-service
+  team:
+    - Django Unchained
+    - The Lion King
+- blueprint: Service
+  identifier: cypher-service
+  title: cypher-service
+  properties:
+    latestVersion: 6.12.12
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/cypher-service
+  relations:
+    using: elektra-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: gambit-service
+  title: gambit-service
+  properties:
+    latestVersion: 11.13.19
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/gambit-service
+  relations:
+    using: superman-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: Service
+  identifier: blink-service
+  title: blink-service
+  properties:
+    latestVersion: 10.19.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/blink-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - Full Metal Jacket
+    - There Will Be Blood
+    - Paths of Glory
+    - The Sound of Music
+- blueprint: Cluster
+  identifier: llunca-de-gallina
+  title: llunca-de-gallina
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/2760,235285,809611,255326,841529,467089,137930,577523,54734,392633
+    studio: Giant Schnauzer
+    kconfig: Affenpinscher
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: boquerones-al-vinagre
+  title: boquerones-al-vinagre
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/624150,445218,535209,137757,230096,481957,166211,148004,723086,140049
+    studio: Garafian Shepherd
+    kconfig: Denmark Feist
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: edamame
+  title: edamame
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/199984,487857,280003,814256,740490,348297,892518,373326,226366,582128
+    studio: Hygen Hound
+    kconfig: Boykin Spaniel
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: milanesas
+  title: milanesas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/339079,458783,296064,48515,904713,408150,896207,774873,506342,415041
+    studio: English Toy Terrier
+    kconfig: Denmark Feist
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: bocadillo-de-calamares
+  title: bocadillo-de-calamares
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/24355,580303,331088,459973,899997,989887,656178,300813,125535,185242
+    studio: Hygen Hound
+    kconfig: Doberman Pinscher
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: caraotas-negras
+  title: caraotas-negras
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/551210,814404,95946,858698,600490,20031,624245,682293,174152,930247
+    studio: Giant Schnauzer
+    kconfig: Kishu
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: bondiola
+  title: bondiola
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/687927,68119,169768,66424,701319,806466,155890,909127,389364,950077
+    studio: Affenpinscher
+    kconfig: Basset Fauve de Bretagne
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: patacones
+  title: patacones
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/457139,429817,191504,679395,891168,725839,643545,225900,510046,27476
+    studio: Golden Retriever
+    kconfig: Golden Retriever
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: donburi
+  title: donburi
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/12532,651674,834797,781008,339505,99104,164802,485371,991277,896437
+    studio: Basset Fauve de Bretagne
+    kconfig: French Poodle
+  relations: {}
+  team: []
+- blueprint: Cluster
+  identifier: sopa-de-patas
+  title: sopa-de-patas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/785170,735296,421637,684702,118343,635635,359366,340407,343709,903368
+    studio: Garafian Shepherd
+    kconfig: Jack Russell Terrier
+  relations: {}
+  team: []
+- blueprint: Env
+  identifier: roy-orbison
+  title: roy-orbison
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,n,0,q,6,7,7,w,w,y
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: elvis-presley
+  title: elvis-presley
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/r,9,2,5,z,s,4,7,j,h
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: mavis-staples
+  title: mavis-staples
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/h,r,w,5,h,r,z,t,4,8
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: art-garfunkel
+  title: art-garfunkel
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/w,2,v,u,w,b,y,7,s,n
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: morrissey
+  title: morrissey
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,4,k,d,3,1,6,b,u,z
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: van-morrison
+  title: van-morrison
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/l,l,8,b,7,6,3,5,i,e
+  relations:
+    deployedAt: patacones
+  team: []
+- blueprint: Env
+  identifier: mick-jagger
+  title: mick-jagger
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/6,k,w,p,j,3,l,i,y,q
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: david-bowie
+  title: david-bowie
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/w,m,5,l,1,4,7,8,g,7
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: john-lee-hooker
+  title: john-lee-hooker
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/z,3,2,s,8,q,7,k,5,0
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: sam-moore
+  title: sam-moore
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/g,3,z,v,l,z,5,2,9,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: levon-helm
+  title: levon-helm
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,w,1,8,7,4,9,3,v,d
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: dusty-springfield
+  title: dusty-springfield
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,4,t,3,8,0,7,q,n,3
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: neil-young
+  title: neil-young
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,t,7,6,d,9,p,2,2,q
+  relations:
+    deployedAt: bocadillo-de-calamares
+  team: []
+- blueprint: Env
+  identifier: roger-daltrey
+  title: roger-daltrey
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,7,g,5,y,2,5,2,4,2
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: christina-aguilera
+  title: christina-aguilera
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/s,5,7,y,d,5,4,1,n,1
+  relations:
+    deployedAt: patacones
+  team: []
+- blueprint: Env
+  identifier: donny-hathaway
+  title: donny-hathaway
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,g,9,6,f,5,3,f,5,5
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: kurt-cobain
+  title: kurt-cobain
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,m,i,a,6,h,2,c,0,4
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: frankie-valli
+  title: frankie-valli
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,l,o,m,2,5,r,1,w,s
+  relations:
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: bob-marley
+  title: bob-marley
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/i,r,x,a,t,v,f,s,6,s
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: marvin-gaye
+  title: marvin-gaye
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,7,1,1,1,5,h,8,8,7
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: bobby-blue-bland
+  title: bobby-blue-bland
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/5,l,k,7,7,3,j,5,d,1
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: patsy-cline
+  title: patsy-cline
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,0,i,e,f,a,3,5,3,1
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: bjork
+  title: bjork
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/w,2,4,k,k,7,q,2,4,1
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: bono
+  title: bono
+  properties:
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,c,5,6,l,e,r,d,t,5
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: don-henley
+  title: don-henley
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/e,2,7,7,c,1,9,a,e,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: buddy-holly
+  title: buddy-holly
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/s,p,g,c,q,j,7,g,e,6
+  relations:
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: chuck-berry
+  title: chuck-berry
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/2,7,1,v,5,u,w,f,w,q
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: michael-jackson
+  title: michael-jackson
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/b,5,o,7,5,1,9,0,8,9
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: patti-la-belle
+  title: patti-la-belle
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,b,s,x,x,h,8,0,0,4
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: dolly-parton
+  title: dolly-parton
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/g,1,v,1,1,o,q,p,i,p
+  relations:
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: al-green
+  title: al-green
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,8,6,2,5,g,s,1,o,4
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: prince
+  title: prince
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,b,k,g,o,3,r,8,f,q
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: iggy-pop
+  title: iggy-pop
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/0,n,5,6,2,5,t,7,3,2
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: curtis-mayfield
+  title: curtis-mayfield
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/k,6,7,z,3,s,8,7,e,4
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: toots-hibbert
+  title: toots-hibbert
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,3,n,5,5,l,1,8,2,3
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: paul-rodgers
+  title: paul-rodgers
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,7,n,8,g,0,d,z,3,6
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: karen-carpenter
+  title: karen-carpenter
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,n,1,1,k,4,t,u,2,9
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: bonnie-raitt
+  title: bonnie-raitt
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,k,8,a,1,4,0,4,u,b
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: little-richard
+  title: little-richard
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/2,r,5,s,h,1,4,v,m,l
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: john-fogerty
+  title: john-fogerty
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/5,8,6,9,g,q,k,w,7,8
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: muddy-waters
+  title: muddy-waters
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/7,t,3,z,d,5,4,h,7,j
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: sly-stone
+  title: sly-stone
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,3,o,2,6,p,d,e,f,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: patti-smith
+  title: patti-smith
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,b,x,w,l,4,g,h,8,y
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: wilson-pickett
+  title: wilson-pickett
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/4,z,4,h,v,6,i,6,t,l
+  relations:
+    deployedAt: bocadillo-de-calamares
+  team: []
+- blueprint: Env
+  identifier: mariah-carey
+  title: mariah-carey
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,6,3,d,w,9,6,j,b,6
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: robert-plant
+  title: robert-plant
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/6,r,2,s,0,3,z,0,q,4
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: lou-reed
+  title: lou-reed
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,2,q,q,q,t,2,5,l,2
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: howlin-wolf
+  title: howlin-wolf
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/y,q,n,3,4,a,d,9,u,9
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: thom-yorke
+  title: thom-yorke
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/n,7,4,a,7,3,4,5,h,j
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: jackie-wilson
+  title: jackie-wilson
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/h,o,3,b,5,c,f,7,6,c
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Package
+  identifier: smart-focus
+  properties:
+    docsUrl: https://et.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-fiesta
+  properties:
+    docsUrl: https://labore.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mazda-challenger
+  properties:
+    docsUrl: http://labore.io
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: hyundai-roadster
+  properties:
+    docsUrl: http://asperiores.info
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-1
+  properties:
+    docsUrl: http://aliquid.com
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-challenger
+  properties:
+    docsUrl: http://rerum.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: kia-spyder
+  properties:
+    docsUrl: https://sit.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mini-explorer
+  properties:
+    docsUrl: https://sunt.biz
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-corvette
+  properties:
+    docsUrl: https://id.dev
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: chevrolet-malibu
+  properties:
+    docsUrl: https://sequi.name
+    packageManager: PIP
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: ford-camry
+  properties:
+    docsUrl: http://doloribus.org
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-spyder
+  properties:
+    docsUrl: https://id.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-volt
+  properties:
+    docsUrl: https://labore.dev
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: lamborghini-prius
+  properties:
+    docsUrl: http://beatae.org
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: rolls-royce-xc-90
+  properties:
+    docsUrl: https://ducimus.biz
+    packageManager: Maven
+  relations: {}
   team: []

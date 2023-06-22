@@ -1,295 +1,146 @@
 - blueprint: Service
-  identifier: iron-man-service
-  title: iron-man-service
+  identifier: scarlet-witch-service
+  title: scarlet-witch-service
   properties:
-    latestVersion: 2.12.17
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/iron-man-service
-  relations:
-    using: null
-  team:
-    - The Truman Show
-    - The Terminator
-    - Three Billboards Outside Ebbing, Missouri
-- blueprint: Service
-  identifier: elektra-service
-  title: elektra-service
-  properties:
-    latestVersion: 14.1.17
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/elektra-service
-  relations:
-    using: power-girl-service
-  team:
-    - The Intouchables
-    - The Truman Show
-    - Full Metal Jacket
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: wolverine-service
-  title: wolverine-service
-  properties:
-    latestVersion: 5.11.5
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/wolverine-service
-  relations:
-    using: green-lantern-service
-  team:
-    - Full Metal Jacket
-    - Sunset Blvd.
-    - 'The Godfather: Part II'
-- blueprint: Service
-  identifier: green-lantern-service
-  title: green-lantern-service
-  properties:
-    latestVersion: 3.19.7
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/green-lantern-service
-  relations:
-    using: null
-  team:
-    - The Terminator
-    - The Elephant Man
-    - Sunset Blvd.
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-- blueprint: Service
-  identifier: power-girl-service
-  title: power-girl-service
-  properties:
-    latestVersion: 11.18.19
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/power-girl-service
-  relations:
-    using: null
-  team:
-    - The Terminator
-- blueprint: Service
-  identifier: ice-service
-  title: ice-service
-  properties:
-    latestVersion: 15.14.17
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/ice-service
-  relations:
-    using: carol-danvers-service
-  team:
-    - Three Billboards Outside Ebbing, Missouri
-    - The Intouchables
-- blueprint: Service
-  identifier: frog-thor-service
-  title: frog-thor-service
-  properties:
-    latestVersion: 14.7.7
+    latestVersion: 17.8.5
     language: Python
     code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/frog-thor-service
-  relations:
-    using: hawkman-service
-  team:
-    - Prisoners
-    - The Terminator
-    - Three Billboards Outside Ebbing, Missouri
-- blueprint: Service
-  identifier: hawkgirl-service
-  title: hawkgirl-service
-  properties:
-    latestVersion: 7.11.6
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/hawkgirl-service
-  relations:
-    using: gambit-service
-  team:
-    - Full Metal Jacket
-    - The Intouchables
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-- blueprint: Service
-  identifier: doctor-strange-service
-  title: doctor-strange-service
-  properties:
-    latestVersion: 15.11.7
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/doctor-strange-service
-  relations:
-    using: carol-danvers-service
-  team:
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: batgirl-service
-  title: batgirl-service
-  properties:
-    latestVersion: 13.12.4
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Ruby
+    one_hop_service_language: null
     two_hops_service_language: null
-    repo: https://github.com/port-labs/batgirl-service
+    repo: https://github.com/port-labs/scarlet-witch-service
   relations:
-    using: spider-man-service
+    using: null
   team:
-    - Prisoners
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - 'The Godfather: Part II'
+    - The Lion King
 - blueprint: Service
-  identifier: gambit-service
-  title: gambit-service
+  identifier: spider-man-service
+  title: spider-man-service
   properties:
-    latestVersion: 10.4.6
+    latestVersion: 18.6.8
     language: Python
     code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/gambit-service
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/spider-man-service
   relations:
-    using: gamora-service
+    using: wasp-service
   team:
-    - Three Billboards Outside Ebbing, Missouri
-    - The Truman Show
-    - Sunset Blvd.
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - 'The Godfather: Part II'
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: supergirl-service
+  title: supergirl-service
+  properties:
+    latestVersion: 2.12.9
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/supergirl-service
+  relations:
+    using: frog-thor-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
 - blueprint: Service
   identifier: black-canary-service
   title: black-canary-service
   properties:
-    latestVersion: 18.13.4
-    language: Python
+    latestVersion: 7.5.14
+    language: JavaScript
     code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
+    one_hop_service_language: null
+    two_hops_service_language: null
     repo: https://github.com/port-labs/black-canary-service
   relations:
-    using: black-lightning-service
+    using: null
   team:
-    - Three Billboards Outside Ebbing, Missouri
-    - Full Metal Jacket
-    - The Terminator
-- blueprint: Service
-  identifier: cypher-service
-  title: cypher-service
-  properties:
-    latestVersion: 18.9.5
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/cypher-service
-  relations:
-    using: jade-service
-  team:
-    - Prisoners
-- blueprint: Service
-  identifier: gamora-service
-  title: gamora-service
-  properties:
-    latestVersion: 13.1.20
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/gamora-service
-  relations:
-    using: lady-blackhawk-service
-  team:
-    - The Truman Show
-    - The Intouchables
-    - Three Billboards Outside Ebbing, Missouri
-    - Prisoners
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: black-widow-service
-  title: black-widow-service
-  properties:
-    latestVersion: 0.1.11
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/black-widow-service
-  relations:
-    using: the-flash-service
-  team:
-    - The Intouchables
-    - The Truman Show
-    - Sunset Blvd.
+    - Once Upon a Time in the West
+    - The Apartment
+    - Django Unchained
+    - The Lion King
 - blueprint: Service
   identifier: green-arrow-service
   title: green-arrow-service
   properties:
-    latestVersion: 5.13.0
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/green-arrow-service
-  relations:
-    using: cypher-service
-  team:
-    - The Intouchables
-    - The Truman Show
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-- blueprint: Service
-  identifier: blink-service
-  title: blink-service
-  properties:
-    latestVersion: 0.9.15
+    latestVersion: 18.8.15
     language: JavaScript
     code-owners: null
     one_hop_service_language: Ruby
     two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/blink-service
+    repo: https://github.com/port-labs/green-arrow-service
   relations:
-    using: hawkman-service
+    using: storm-service
   team:
-    - The Truman Show
-    - The Elephant Man
-    - Prisoners
-    - Three Billboards Outside Ebbing, Missouri
+    - Once Upon a Time in the West
+    - Unforgiven
 - blueprint: Service
-  identifier: martian-manhunter-service
-  title: martian-manhunter-service
+  identifier: batgirl-service
+  title: batgirl-service
   properties:
-    latestVersion: 8.14.17
-    language: JavaScript
+    latestVersion: 5.17.14
+    language: Ruby
     code-owners: null
-    one_hop_service_language: Python
+    one_hop_service_language: JavaScript
     two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/martian-manhunter-service
+    repo: https://github.com/port-labs/batgirl-service
   relations:
-    using: frog-thor-service
+    using: carol-danvers-service
   team:
-    - The Truman Show
+    - There Will Be Blood
+- blueprint: Service
+  identifier: storm-service
+  title: storm-service
+  properties:
+    latestVersion: 18.10.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/storm-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - Paths of Glory
+- blueprint: Service
+  identifier: captain-atom-service
+  title: captain-atom-service
+  properties:
+    latestVersion: 10.10.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/captain-atom-service
+  relations:
+    using: black-widow-service
+  team:
+    - Unforgiven
+    - There Will Be Blood
+    - Paths of Glory
+- blueprint: Service
+  identifier: thor-service
+  title: thor-service
+  properties:
+    latestVersion: 12.12.1
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/thor-service
+  relations:
+    using: elektra-service
+  team:
+    - Full Metal Jacket
+    - The Sound of Music
+    - The Apartment
 - blueprint: Service
   identifier: captain-america-service
   title: captain-america-service
   properties:
-    latestVersion: 14.18.5
-    language: Python
+    latestVersion: 15.10.5
+    language: TypeScript
     code-owners: null
     one_hop_service_language: null
     two_hops_service_language: null
@@ -297,27 +148,263 @@
   relations:
     using: null
   team:
-    - Three Billboards Outside Ebbing, Missouri
+    - Django Unchained
+    - There Will Be Blood
+    - The Lion King
+    - The Apartment
 - blueprint: Service
-  identifier: scarlet-witch-service
-  title: scarlet-witch-service
+  identifier: power-girl-service
+  title: power-girl-service
   properties:
-    latestVersion: 18.2.10
-    language: JavaScript
+    latestVersion: 16.11.8
+    language: Ruby
     code-owners: null
     one_hop_service_language: Python
     two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/scarlet-witch-service
+    repo: https://github.com/port-labs/power-girl-service
   relations:
-    using: superman-service
+    using: lady-blackhawk-service
+  team:
+    - 12 Years a Slave
+    - There Will Be Blood
+- blueprint: Service
+  identifier: invisible-woman-service
+  title: invisible-woman-service
+  properties:
+    latestVersion: 9.6.6
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/invisible-woman-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: green-lantern-service
+  title: green-lantern-service
+  properties:
+    latestVersion: 15.12.20
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/green-lantern-service
+  relations:
+    using: green-arrow-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - The Apartment
+- blueprint: Service
+  identifier: wolverine-service
+  title: wolverine-service
+  properties:
+    latestVersion: 19.12.16
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/wolverine-service
+  relations:
+    using: supergirl-service
+  team:
+    - Once Upon a Time in the West
+    - Unforgiven
+    - The Sound of Music
+    - There Will Be Blood
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: carol-danvers-service
+  title: carol-danvers-service
+  properties:
+    latestVersion: 18.17.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/carol-danvers-service
+  relations:
+    using: black-widow-service
+  team:
+    - There Will Be Blood
+    - 12 Years a Slave
+    - The Lion King
+    - Paths of Glory
+- blueprint: Service
+  identifier: batman-service
+  title: batman-service
+  properties:
+    latestVersion: 12.8.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batman-service
+  relations:
+    using: hawk-service
+  team:
+    - Unforgiven
+    - The Sound of Music
+    - The Lion King
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: kitty-pryde-service
+  title: kitty-pryde-service
+  properties:
+    latestVersion: 7.12.16
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/kitty-pryde-service
+  relations:
+    using: moon-knight-service
   team:
     - Full Metal Jacket
+    - The Sound of Music
+    - The Lion King
+- blueprint: Service
+  identifier: elektra-service
+  title: elektra-service
+  properties:
+    latestVersion: 2.13.1
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/elektra-service
+  relations:
+    using: frog-thor-service
+  team:
+    - The Lion King
+    - Once Upon a Time in the West
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: black-lightning-service
+  title: black-lightning-service
+  properties:
+    latestVersion: 17.12.18
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/black-lightning-service
+  relations:
+    using: the-atom-service
+  team:
+    - The Apartment
+    - The Lion King
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: Service
+  identifier: deadpool-service
+  title: deadpool-service
+  properties:
+    latestVersion: 17.18.19
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/deadpool-service
+  relations:
+    using: elektra-service
+  team:
+    - 12 Years a Slave
+    - Unforgiven
+    - There Will Be Blood
+    - The Apartment
+    - Paths of Glory
+- blueprint: Service
+  identifier: daredevil-service
+  title: daredevil-service
+  properties:
+    latestVersion: 4.6.9
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/daredevil-service
+  relations:
+    using: punisher-service
+  team:
+    - Once Upon a Time in the West
+    - Django Unchained
+    - Unforgiven
+- blueprint: Service
+  identifier: gamora-service
+  title: gamora-service
+  properties:
+    latestVersion: 2.19.13
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/gamora-service
+  relations:
+    using: iron-man-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: hawkgirl-service
+  title: hawkgirl-service
+  properties:
+    latestVersion: 3.12.4
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/hawkgirl-service
+  relations:
+    using: jade-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - The Apartment
+- blueprint: Service
+  identifier: iron-man-service
+  title: iron-man-service
+  properties:
+    latestVersion: 13.19.19
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/iron-man-service
+  relations:
+    using: storm-service
+  team:
+    - Paths of Glory
+    - The Sound of Music
+    - The Lion King
+    - The Apartment
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: ice-service
+  title: ice-service
+  properties:
+    latestVersion: 14.14.6
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/ice-service
+  relations:
+    using: null
+  team:
+    - The Lion King
+    - Paths of Glory
 - blueprint: Service
   identifier: the-flash-service
   title: the-flash-service
   properties:
-    latestVersion: 19.13.9
-    language: JavaScript
+    latestVersion: 15.14.10
+    language: Ruby
     code-owners: null
     one_hop_service_language: null
     two_hops_service_language: null
@@ -325,474 +412,389 @@
   relations:
     using: null
   team:
-    - Three Billboards Outside Ebbing, Missouri
-    - 'The Godfather: Part II'
+    - The Apartment
+    - There Will Be Blood
 - blueprint: Service
-  identifier: carol-danvers-service
-  title: carol-danvers-service
+  identifier: she-hulk-service
+  title: she-hulk-service
   properties:
-    latestVersion: 1.13.13
-    language: TypeScript
+    latestVersion: 4.11.6
+    language: Python
     code-owners: null
-    one_hop_service_language: JavaScript
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/she-hulk-service
+  relations:
+    using: lady-blackhawk-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: silver-sable-service
+  title: silver-sable-service
+  properties:
+    latestVersion: 8.19.0
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/silver-sable-service
+  relations:
+    using: spider-man-service
+  team:
+    - The Sound of Music
+- blueprint: Service
+  identifier: rogue-service
+  title: rogue-service
+  properties:
+    latestVersion: 10.14.0
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
     two_hops_service_language: Python
-    repo: https://github.com/port-labs/carol-danvers-service
+    repo: https://github.com/port-labs/rogue-service
   relations:
     using: x-23-service
   team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: the-atom-service
+  title: the-atom-service
+  properties:
+    latestVersion: 12.15.17
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/the-atom-service
+  relations:
+    using: gambit-service
+  team:
+    - The Apartment
+    - There Will Be Blood
+- blueprint: Service
+  identifier: frog-thor-service
+  title: frog-thor-service
+  properties:
+    latestVersion: 10.20.20
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/frog-thor-service
+  relations:
+    using: spider-man-service
+  team:
+    - Paths of Glory
+    - There Will Be Blood
+    - Unforgiven
+    - Once Upon a Time in the West
+    - Django Unchained
+- blueprint: Service
+  identifier: wonder-woman-service
+  title: wonder-woman-service
+  properties:
+    latestVersion: 7.14.4
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/wonder-woman-service
+  relations:
+    using: null
+  team:
+    - Unforgiven
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: hawkman-service
+  title: hawkman-service
+  properties:
+    latestVersion: 9.9.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawkman-service
+  relations:
+    using: iron-man-service
+  team:
+    - 12 Years a Slave
+    - The Sound of Music
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: doctor-strange-service
+  title: doctor-strange-service
+  properties:
+    latestVersion: 10.4.12
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/doctor-strange-service
+  relations:
+    using: wolverine-service
+  team:
+    - Unforgiven
+    - Django Unchained
+    - There Will Be Blood
+- blueprint: Service
+  identifier: black-widow-service
+  title: black-widow-service
+  properties:
+    latestVersion: 12.3.16
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/black-widow-service
+  relations:
+    using: silver-sable-service
+  team:
     - Full Metal Jacket
-    - Sunset Blvd.
+    - 12 Years a Slave
+    - The Lion King
+- blueprint: Service
+  identifier: hawk-service
+  title: hawk-service
+  properties:
+    latestVersion: 11.2.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawk-service
+  relations:
+    using: captain-atom-service
+  team:
+    - There Will Be Blood
+    - Paths of Glory
+    - Once Upon a Time in the West
+- blueprint: Service
+  identifier: huntress-service
+  title: huntress-service
+  properties:
+    latestVersion: 17.13.4
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/huntress-service
+  relations:
+    using: null
+  team:
+    - Unforgiven
+    - Django Unchained
+    - The Sound of Music
+    - Full Metal Jacket
+- blueprint: Service
+  identifier: superman-service
+  title: superman-service
+  properties:
+    latestVersion: 9.4.12
+    language: Python
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/superman-service
+  relations:
+    using: iron-man-service
+  team:
+    - Django Unchained
+    - Unforgiven
+    - The Lion King
+    - 12 Years a Slave
+- blueprint: Service
+  identifier: black-panther-service
+  title: black-panther-service
+  properties:
+    latestVersion: 4.19.10
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-panther-service
+  relations:
+    using: the-flash-service
+  team:
+    - The Sound of Music
+    - There Will Be Blood
+    - The Apartment
+- blueprint: Service
+  identifier: wasp-service
+  title: wasp-service
+  properties:
+    latestVersion: 11.14.18
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/wasp-service
+  relations:
+    using: frog-thor-service
+  team:
+    - Unforgiven
+    - The Sound of Music
+- blueprint: Service
+  identifier: lady-blackhawk-service
+  title: lady-blackhawk-service
+  properties:
+    latestVersion: 12.3.2
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/lady-blackhawk-service
+  relations:
+    using: wonder-woman-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+    - Unforgiven
+- blueprint: Service
+  identifier: martian-manhunter-service
+  title: martian-manhunter-service
+  properties:
+    latestVersion: 12.12.14
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/martian-manhunter-service
+  relations:
+    using: thor-service
+  team:
+    - Full Metal Jacket
+    - Unforgiven
+    - Django Unchained
+    - The Lion King
 - blueprint: Service
   identifier: x-23-service
   title: x-23-service
   properties:
-    latestVersion: 0.18.5
-    language: JavaScript
+    latestVersion: 17.20.2
+    language: TypeScript
     code-owners: null
     one_hop_service_language: Python
     two_hops_service_language: Ruby
     repo: https://github.com/port-labs/x-23-service
   relations:
-    using: rogue-service
+    using: hawk-service
   team:
-    - The Truman Show
-    - Three Billboards Outside Ebbing, Missouri
-    - 'The Godfather: Part II'
-    - Full Metal Jacket
-    - The Intouchables
-- blueprint: Service
-  identifier: invisible-woman-service
-  title: invisible-woman-service
-  properties:
-    latestVersion: 15.14.7
-    language: Python
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/invisible-woman-service
-  relations:
-    using: ice-service
-  team:
-    - Full Metal Jacket
-    - 'The Godfather: Part II'
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-- blueprint: Service
-  identifier: thor-service
-  title: thor-service
-  properties:
-    latestVersion: 9.4.8
-    language: Python
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/thor-service
-  relations:
-    using: lady-blackhawk-service
-  team:
-    - The Terminator
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: wasp-service
-  title: wasp-service
-  properties:
-    latestVersion: 5.2.14
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/wasp-service
-  relations:
-    using: null
-  team:
-    - 'The Godfather: Part II'
-    - Sunset Blvd.
-    - The Truman Show
-- blueprint: Service
-  identifier: captain-atom-service
-  title: captain-atom-service
-  properties:
-    latestVersion: 11.15.18
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/captain-atom-service
-  relations:
-    using: null
-  team:
-    - Full Metal Jacket
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - The Terminator
+    - 12 Years a Slave
+    - The Lion King
+    - The Sound of Music
+    - The Apartment
+    - Paths of Glory
 - blueprint: Service
   identifier: moon-knight-service
   title: moon-knight-service
   properties:
-    latestVersion: 4.18.17
-    language: JavaScript
+    latestVersion: 18.19.9
+    language: Python
     code-owners: null
     one_hop_service_language: Python
-    two_hops_service_language: JavaScript
+    two_hops_service_language: Python
     repo: https://github.com/port-labs/moon-knight-service
   relations:
     using: superman-service
   team:
-    - Full Metal Jacket
-    - The Elephant Man
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+    - The Sound of Music
+- blueprint: Service
+  identifier: jade-service
+  title: jade-service
+  properties:
+    latestVersion: 4.18.14
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/jade-service
+  relations:
+    using: daredevil-service
+  team:
+    - There Will Be Blood
+    - 12 Years a Slave
+    - The Lion King
 - blueprint: Service
   identifier: punisher-service
   title: punisher-service
   properties:
-    latestVersion: 18.3.8
+    latestVersion: 9.2.20
     language: Python
     code-owners: null
     one_hop_service_language: Ruby
     two_hops_service_language: JavaScript
     repo: https://github.com/port-labs/punisher-service
   relations:
-    using: green-arrow-service
-  team:
-    - The Terminator
-    - The Truman Show
-    - Full Metal Jacket
-- blueprint: Service
-  identifier: black-panther-service
-  title: black-panther-service
-  properties:
-    latestVersion: 9.7.12
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/black-panther-service
-  relations:
-    using: x-23-service
-  team:
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - Full Metal Jacket
-    - The Elephant Man
-- blueprint: Service
-  identifier: storm-service
-  title: storm-service
-  properties:
-    latestVersion: 10.19.15
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/storm-service
-  relations:
-    using: hawkgirl-service
-  team:
-    - Prisoners
-    - The Terminator
-- blueprint: Service
-  identifier: wonder-woman-service
-  title: wonder-woman-service
-  properties:
-    latestVersion: 9.17.18
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/wonder-woman-service
-  relations:
-    using: invisible-woman-service
-  team:
-    - 'The Godfather: Part II'
-    - Three Billboards Outside Ebbing, Missouri
-    - The Intouchables
-- blueprint: Service
-  identifier: rogue-service
-  title: rogue-service
-  properties:
-    latestVersion: 15.6.17
-    language: Python
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/rogue-service
-  relations:
-    using: supergirl-service
-  team:
-    - Full Metal Jacket
-    - Sunset Blvd.
-    - 'The Godfather: Part II'
-- blueprint: Service
-  identifier: spider-man-service
-  title: spider-man-service
-  properties:
-    latestVersion: 15.1.5
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/spider-man-service
-  relations:
-    using: null
-  team:
-    - Prisoners
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - 'The Godfather: Part II'
-    - The Intouchables
-    - The Elephant Man
-- blueprint: Service
-  identifier: hawk-service
-  title: hawk-service
-  properties:
-    latestVersion: 7.6.19
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/hawk-service
-  relations:
-    using: wonder-woman-service
-  team:
-    - 'The Godfather: Part II'
-    - The Terminator
-    - The Truman Show
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - The Elephant Man
-- blueprint: Service
-  identifier: supergirl-service
-  title: supergirl-service
-  properties:
-    latestVersion: 13.17.11
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/supergirl-service
-  relations:
-    using: green-lantern-service
-  team:
-    - 'The Godfather: Part II'
-    - Sunset Blvd.
-    - Three Billboards Outside Ebbing, Missouri
-    - The Truman Show
-- blueprint: Service
-  identifier: black-lightning-service
-  title: black-lightning-service
-  properties:
-    latestVersion: 13.10.13
-    language: Python
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/black-lightning-service
-  relations:
-    using: daredevil-service
-  team:
-    - The Terminator
-    - The Elephant Man
-- blueprint: Service
-  identifier: silver-sable-service
-  title: silver-sable-service
-  properties:
-    latestVersion: 0.13.19
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/silver-sable-service
-  relations:
-    using: gambit-service
-  team:
-    - The Terminator
-    - The Truman Show
-    - The Intouchables
-    - Three Billboards Outside Ebbing, Missouri
-- blueprint: Service
-  identifier: superman-service
-  title: superman-service
-  properties:
-    latestVersion: 17.11.8
-    language: Python
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/superman-service
-  relations:
-    using: deadpool-service
-  team:
-    - The Truman Show
-    - Sunset Blvd.
-    - Prisoners
-- blueprint: Service
-  identifier: huntress-service
-  title: huntress-service
-  properties:
-    latestVersion: 10.3.2
-    language: Python
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/huntress-service
-  relations:
-    using: hawk-service
-  team:
-    - The Elephant Man
-    - Three Billboards Outside Ebbing, Missouri
-    - Full Metal Jacket
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: deadpool-service
-  title: deadpool-service
-  properties:
-    latestVersion: 6.15.4
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/deadpool-service
-  relations:
-    using: null
-  team:
-    - Three Billboards Outside Ebbing, Missouri
-    - The Intouchables
-    - The Terminator
-- blueprint: Service
-  identifier: kitty-pryde-service
-  title: kitty-pryde-service
-  properties:
-    latestVersion: 1.2.2
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/kitty-pryde-service
-  relations:
-    using: hawkman-service
-  team:
-    - Sunset Blvd.
-    - The Truman Show
-    - The Terminator
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-    - Three Billboards Outside Ebbing, Missouri
-- blueprint: Service
-  identifier: batman-service
-  title: batman-service
-  properties:
-    latestVersion: 7.2.4
-    language: Python
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/batman-service
-  relations:
-    using: superman-service
-  team:
-    - Full Metal Jacket
-- blueprint: Service
-  identifier: she-hulk-service
-  title: she-hulk-service
-  properties:
-    latestVersion: 5.8.16
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/she-hulk-service
-  relations:
-    using: captain-america-service
-  team:
-    - The Truman Show
-    - The Terminator
-    - 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
-- blueprint: Service
-  identifier: jade-service
-  title: jade-service
-  properties:
-    latestVersion: 18.12.1
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/jade-service
-  relations:
     using: jade-service
   team:
-    - The Intouchables
-    - The Truman Show
+    - The Lion King
+    - Paths of Glory
+    - Unforgiven
+    - The Sound of Music
 - blueprint: Service
   identifier: aquaman-service
   title: aquaman-service
   properties:
-    latestVersion: 18.17.15
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/aquaman-service
-  relations:
-    using: wolverine-service
-  team:
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: lady-blackhawk-service
-  title: lady-blackhawk-service
-  properties:
-    latestVersion: 20.1.11
+    latestVersion: 19.10.1
     language: TypeScript
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/lady-blackhawk-service
-  relations:
-    using: hawk-service
-  team:
-    - The Intouchables
-    - Full Metal Jacket
-- blueprint: Service
-  identifier: daredevil-service
-  title: daredevil-service
-  properties:
-    latestVersion: 5.3.5
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/daredevil-service
-  relations:
-    using: hawkman-service
-  team:
-    - The Elephant Man
-    - Three Billboards Outside Ebbing, Missouri
-    - The Intouchables
-    - Sunset Blvd.
-- blueprint: Service
-  identifier: hawkman-service
-  title: hawkman-service
-  properties:
-    latestVersion: 16.7.17
-    language: Ruby
     code-owners: null
     one_hop_service_language: JavaScript
     two_hops_service_language: Python
-    repo: https://github.com/port-labs/hawkman-service
+    repo: https://github.com/port-labs/aquaman-service
   relations:
-    using: scarlet-witch-service
+    using: doctor-strange-service
   team:
-    - The Terminator
-    - The Truman Show
-    - The Intouchables
-    - Prisoners
+    - Django Unchained
+    - The Lion King
 - blueprint: Service
-  identifier: the-atom-service
-  title: the-atom-service
+  identifier: cypher-service
+  title: cypher-service
   properties:
-    latestVersion: 10.14.17
+    latestVersion: 6.12.12
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/cypher-service
+  relations:
+    using: elektra-service
+  team:
+    - 12 Years a Slave
+    - Once Upon a Time in the West
+    - The Sound of Music
+    - The Apartment
+- blueprint: Service
+  identifier: gambit-service
+  title: gambit-service
+  properties:
+    latestVersion: 11.13.19
     language: TypeScript
     code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/the-atom-service
+    one_hop_service_language: Python
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/gambit-service
   relations:
-    using: blink-service
+    using: superman-service
+  team:
+    - Once Upon a Time in the West
+    - Paths of Glory
+- blueprint: Service
+  identifier: blink-service
+  title: blink-service
+  properties:
+    latestVersion: 10.19.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/blink-service
+  relations:
+    using: lady-blackhawk-service
   team:
     - Full Metal Jacket
-    - The Intouchables
-    - The Elephant Man
-    - 'The Godfather: Part II'
-    - The Terminator
+    - There Will Be Blood
+    - Paths of Glory
+    - The Sound of Music

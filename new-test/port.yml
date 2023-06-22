@@ -19,6 +19,7 @@
   relations: {}
   team: []
 - blueprint: Cluster
+
   identifier: chicken-madras
   title: chicken-madras
   properties:

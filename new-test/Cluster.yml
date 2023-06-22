@@ -1,0 +1,122 @@
+- blueprint: Cluster
+  identifier: foul-mdammas
+  title: foul-mdammas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/247248,578084,628331,514797,197021,180577,690848,169334,184335,678725
+    studio: Maltese
+    kconfig: Giant Schnauzer
+  relations: {}
+- blueprint: Cluster
+  identifier: empanadas
+  title: empanadas
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/198831,491896,729938,735707,912606,864332,465117,789412,701018,137534
+    studio: Beauceron
+    kconfig: Beauceron
+  relations: {}
+- blueprint: Cluster
+  identifier: llunca-de-gallina
+  title: llunca-de-gallina
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/60295,195737,67756,858473,719700,975312,2154,198119,963405,170532
+    studio: Beauceron
+    kconfig: Basset Fauve de Bretagne
+  relations: {}
+- blueprint: Cluster
+  identifier: briam
+  title: briam
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/851414,496666,53988,893848,331162,118700,460576,653342,503778,895281
+    studio: Croatian Sheepdog
+    kconfig: Boykin Spaniel
+  relations: {}
+- blueprint: Cluster
+  identifier: vegetable-spring-rolls
+  title: vegetable-spring-rolls
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/59739,438013,506541,120328,850616,581332,647487,253117,868188,231598
+    studio: French Poodle
+    kconfig: Denmark Feist
+  relations: {}
+- blueprint: Cluster
+  identifier: mssabaha
+  title: mssabaha
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/393113,274079,74615,74318,217801,670793,976791,944443,178860,857186
+    studio: Alaskan Malamute
+    kconfig: Hygen Hound
+  relations: {}
+- blueprint: Cluster
+  identifier: khao-soi
+  title: khao-soi
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/569396,257190,251324,3588,984395,422209,720168,877402,684392,49974
+    studio: Nova Scotia Duck Tolling Retriever
+    kconfig: Beauceron
+  relations: {}
+- blueprint: Cluster
+  identifier: aiseki-ryori
+  title: aiseki-ryori
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/264442,153376,491314,656792,728777,625518,378182,539851,571798,668004
+    studio: Nova Scotia Duck Tolling Retriever
+    kconfig: English Mastiff
+  relations: {}
+- blueprint: Cluster
+  identifier: bollo-limpio
+  title: bollo-limpio
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/254172,105335,954215,37494,458912,84181,620848,202151,851178,420772
+    studio: Maltese
+    kconfig: Boykin Spaniel
+  relations: {}
+- blueprint: Cluster
+  identifier: cachapa
+  title: cachapa
+  properties:
+    prometheus_url: >-
+      https://prometheus.com/767002,160699,749649,86700,747496,377831,989380,914908,607407,594801
+    studio: English Mastiff
+    kconfig: Nova Scotia Duck Tolling Retriever
+  relations: {}
+- blueprint: Cluster
+  identifier: e_GTYjtv8pvbPnE9lQ
+  title: string
+  properties:
+    prometheus_url: null
+    studio: null
+    kconfig: konfig
+  relations: {}
+- blueprint: Cluster
+  identifier: e_w0CnOmQYRScUZ566
+  title: string
+  properties:
+    prometheus_url: null
+    studio: null
+    kconfig: konfig
+  relations: {}
+- blueprint: Cluster
+  identifier: e_7uupaVEdEPgQHFwO
+  title: string
+  properties:
+    prometheus_url: null
+    studio: null
+    kconfig: konfig
+  relations: {}
+- blueprint: Cluster
+  identifier: e_cHoqJiw4pIOkxGUh
+  title: string
+  properties:
+    prometheus_url: null
+    studio: null
+    kconfig: konfig
+  relations: {}

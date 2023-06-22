@@ -1,0 +1,3328 @@
+- blueprint: PackageVersion
+  identifier: mini-explorer@10-7-10
+  title: mini-explorer@10-7-10
+  properties:
+    version: 10.7.10
+    publishDate: '2018-10-14T14:44:49.996Z'
+  relations:
+    versionOf: mini-explorer
+- blueprint: PackageVersion
+  identifier: mini-explorer@7-19-9
+  title: mini-explorer@7-19-9
+  properties:
+    version: 7.19.9
+    publishDate: '2018-09-10T20:55:31.073Z'
+  relations:
+    versionOf: mini-explorer
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@1-15-6
+  title: bugatti-corvette@1-15-6
+  properties:
+    version: 1.15.6
+    publishDate: '2020-12-26T04:38:13.819Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@3-15-15
+  title: bugatti-corvette@3-15-15
+  properties:
+    version: 3.15.15
+    publishDate: '2019-06-10T12:25:39.136Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@2-7-11
+  title: bugatti-corvette@2-7-11
+  properties:
+    version: 2.7.11
+    publishDate: '2020-05-15T02:35:14.289Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@12-17-15
+  title: bugatti-corvette@12-17-15
+  properties:
+    version: 12.17.15
+    publishDate: '2021-02-17T01:27:16.900Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@11-1-12
+  title: bugatti-corvette@11-1-12
+  properties:
+    version: 11.1.12
+    publishDate: '2022-03-05T01:24:40.673Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@20-17-14
+  title: bugatti-corvette@20-17-14
+  properties:
+    version: 20.17.14
+    publishDate: '2023-02-18T23:16:07.845Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@18-2-0
+  title: bugatti-corvette@18-2-0
+  properties:
+    version: 18.2.0
+    publishDate: '2018-10-02T09:09:23.101Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@15-1-15
+  title: bugatti-corvette@15-1-15
+  properties:
+    version: 15.1.15
+    publishDate: '2022-03-21T12:59:55.198Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@10-12-14
+  title: bugatti-corvette@10-12-14
+  properties:
+    version: 10.12.14
+    publishDate: '2019-01-19T21:57:19.554Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@16-20-18
+  title: bugatti-corvette@16-20-18
+  properties:
+    version: 16.20.18
+    publishDate: '2018-12-15T14:58:38.984Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@8-18-15
+  title: bugatti-corvette@8-18-15
+  properties:
+    version: 8.18.15
+    publishDate: '2019-02-13T16:18:28.322Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@19-8-10
+  title: bugatti-corvette@19-8-10
+  properties:
+    version: 19.8.10
+    publishDate: '2020-07-16T23:20:29.923Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@1-17-9
+  title: bugatti-corvette@1-17-9
+  properties:
+    version: 1.17.9
+    publishDate: '2021-09-05T09:39:43.312Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@2-4-15
+  title: bugatti-corvette@2-4-15
+  properties:
+    version: 2.4.15
+    publishDate: '2023-04-22T08:32:50.522Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@18-13-6
+  title: bugatti-corvette@18-13-6
+  properties:
+    version: 18.13.6
+    publishDate: '2021-03-05T15:26:30.179Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@9-14-2
+  title: bugatti-corvette@9-14-2
+  properties:
+    version: 9.14.2
+    publishDate: '2020-12-17T13:02:27.291Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@3-2-7
+  title: bugatti-corvette@3-2-7
+  properties:
+    version: 3.2.7
+    publishDate: '2021-10-12T05:20:14.636Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@7-6-1
+  title: bugatti-corvette@7-6-1
+  properties:
+    version: 7.6.1
+    publishDate: '2018-07-04T08:17:50.714Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@7-15-16
+  title: bugatti-corvette@7-15-16
+  properties:
+    version: 7.15.16
+    publishDate: '2018-10-21T05:43:17.997Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@17-8-14
+  title: bugatti-corvette@17-8-14
+  properties:
+    version: 17.8.14
+    publishDate: '2022-03-10T23:18:24.295Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@9-16-6
+  title: bugatti-corvette@9-16-6
+  properties:
+    version: 9.16.6
+    publishDate: '2023-03-26T14:34:11.274Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@12-17-14
+  title: bugatti-corvette@12-17-14
+  properties:
+    version: 12.17.14
+    publishDate: '2021-06-01T10:00:10.029Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@1-13-8
+  title: bugatti-corvette@1-13-8
+  properties:
+    version: 1.13.8
+    publishDate: '2019-01-07T20:27:58.117Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@17-7-14
+  title: bugatti-corvette@17-7-14
+  properties:
+    version: 17.7.14
+    publishDate: '2020-02-03T09:26:28.062Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@17-20-12
+  title: bugatti-corvette@17-20-12
+  properties:
+    version: 17.20.12
+    publishDate: '2020-11-01T04:33:41.336Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: bugatti-corvette@16-6-18
+  title: bugatti-corvette@16-6-18
+  properties:
+    version: 16.6.18
+    publishDate: '2021-04-03T23:35:05.435Z'
+  relations:
+    versionOf: bugatti-corvette
+- blueprint: PackageVersion
+  identifier: ford-camry@4-10-14
+  title: ford-camry@4-10-14
+  properties:
+    version: 4.10.14
+    publishDate: '2019-08-26T22:50:17.405Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@11-8-11
+  title: ford-camry@11-8-11
+  properties:
+    version: 11.8.11
+    publishDate: '2021-11-30T18:30:35.966Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@9-14-4
+  title: ford-camry@9-14-4
+  properties:
+    version: 9.14.4
+    publishDate: '2022-05-05T08:59:37.365Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@15-17-7
+  title: ford-camry@15-17-7
+  properties:
+    version: 15.17.7
+    publishDate: '2019-07-31T00:35:08.891Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@4-19-6
+  title: ford-camry@4-19-6
+  properties:
+    version: 4.19.6
+    publishDate: '2022-10-12T12:12:54.557Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@8-1-19
+  title: ford-camry@8-1-19
+  properties:
+    version: 8.1.19
+    publishDate: '2021-06-05T17:42:03.632Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@6-11-8
+  title: ford-camry@6-11-8
+  properties:
+    version: 6.11.8
+    publishDate: '2020-12-23T16:41:38.930Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@4-2-3
+  title: ford-camry@4-2-3
+  properties:
+    version: 4.2.3
+    publishDate: '2023-01-22T18:25:59.126Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@8-6-14
+  title: ford-camry@8-6-14
+  properties:
+    version: 8.6.14
+    publishDate: '2021-02-06T01:11:14.922Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@10-9-2
+  title: ford-camry@10-9-2
+  properties:
+    version: 10.9.2
+    publishDate: '2019-09-02T16:45:51.829Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@1-11-17
+  title: ford-camry@1-11-17
+  properties:
+    version: 1.11.17
+    publishDate: '2019-09-23T09:34:28.070Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@17-4-14
+  title: ford-camry@17-4-14
+  properties:
+    version: 17.4.14
+    publishDate: '2023-02-15T14:24:09.355Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@17-6-7
+  title: ford-camry@17-6-7
+  properties:
+    version: 17.6.7
+    publishDate: '2020-11-04T21:04:08.017Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@14-3-19
+  title: ford-camry@14-3-19
+  properties:
+    version: 14.3.19
+    publishDate: '2022-11-14T21:41:11.573Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@15-11-2
+  title: ford-camry@15-11-2
+  properties:
+    version: 15.11.2
+    publishDate: '2019-01-31T09:43:31.415Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@9-6-20
+  title: ford-camry@9-6-20
+  properties:
+    version: 9.6.20
+    publishDate: '2023-03-02T02:51:48.461Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@1-2-4
+  title: ford-camry@1-2-4
+  properties:
+    version: 1.2.4
+    publishDate: '2020-09-01T08:19:55.051Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@14-15-5
+  title: ford-camry@14-15-5
+  properties:
+    version: 14.15.5
+    publishDate: '2018-12-05T02:16:07.415Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@8-13-11
+  title: ford-camry@8-13-11
+  properties:
+    version: 8.13.11
+    publishDate: '2022-09-17T01:48:00.725Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@18-17-1
+  title: ford-camry@18-17-1
+  properties:
+    version: 18.17.1
+    publishDate: '2019-03-07T13:33:52.192Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@14-4-5
+  title: ford-camry@14-4-5
+  properties:
+    version: 14.4.5
+    publishDate: '2020-07-18T05:59:57.727Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@18-11-13
+  title: ford-camry@18-11-13
+  properties:
+    version: 18.11.13
+    publishDate: '2022-01-23T07:18:32.463Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@16-11-0
+  title: ford-camry@16-11-0
+  properties:
+    version: 16.11.0
+    publishDate: '2018-07-18T08:52:35.928Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@13-20-18
+  title: ford-camry@13-20-18
+  properties:
+    version: 13.20.18
+    publishDate: '2020-02-23T19:49:15.575Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@10-5-9
+  title: ford-camry@10-5-9
+  properties:
+    version: 10.5.9
+    publishDate: '2019-03-05T20:03:48.534Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@18-19-7
+  title: ford-camry@18-19-7
+  properties:
+    version: 18.19.7
+    publishDate: '2020-03-15T18:57:47.231Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@2-10-9
+  title: ford-camry@2-10-9
+  properties:
+    version: 2.10.9
+    publishDate: '2021-12-09T05:17:15.385Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: ford-camry@6-16-13
+  title: ford-camry@6-16-13
+  properties:
+    version: 6.16.13
+    publishDate: '2021-03-11T01:11:47.514Z'
+  relations:
+    versionOf: ford-camry
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@7-5-13
+  title: mercedes-benz-a-4@7-5-13
+  properties:
+    version: 7.5.13
+    publishDate: '2022-01-29T03:43:12.897Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@10-8-19
+  title: mercedes-benz-a-4@10-8-19
+  properties:
+    version: 10.8.19
+    publishDate: '2020-08-20T00:59:01.547Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@15-0-19
+  title: mercedes-benz-a-4@15-0-19
+  properties:
+    version: 15.0.19
+    publishDate: '2021-06-20T14:47:26.971Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@2-15-20
+  title: mercedes-benz-a-4@2-15-20
+  properties:
+    version: 2.15.20
+    publishDate: '2021-05-03T07:33:44.932Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@13-15-17
+  title: mercedes-benz-a-4@13-15-17
+  properties:
+    version: 13.15.17
+    publishDate: '2021-04-01T11:26:13.127Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@7-1-10
+  title: mercedes-benz-a-4@7-1-10
+  properties:
+    version: 7.1.10
+    publishDate: '2019-11-04T05:05:18.924Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@6-13-19
+  title: mercedes-benz-a-4@6-13-19
+  properties:
+    version: 6.13.19
+    publishDate: '2021-05-12T00:44:33.846Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@6-13-8
+  title: mercedes-benz-a-4@6-13-8
+  properties:
+    version: 6.13.8
+    publishDate: '2020-03-17T07:11:10.281Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@9-5-12
+  title: mercedes-benz-a-4@9-5-12
+  properties:
+    version: 9.5.12
+    publishDate: '2019-10-08T22:11:02.958Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@12-12-15
+  title: mercedes-benz-a-4@12-12-15
+  properties:
+    version: 12.12.15
+    publishDate: '2023-02-12T14:43:32.465Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@10-12-18
+  title: mercedes-benz-a-4@10-12-18
+  properties:
+    version: 10.12.18
+    publishDate: '2023-04-03T12:31:03.803Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@11-12-6
+  title: mercedes-benz-a-4@11-12-6
+  properties:
+    version: 11.12.6
+    publishDate: '2020-04-20T15:54:29.690Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@14-11-15
+  title: mercedes-benz-a-4@14-11-15
+  properties:
+    version: 14.11.15
+    publishDate: '2020-05-28T08:08:07.336Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@17-9-4
+  title: mercedes-benz-a-4@17-9-4
+  properties:
+    version: 17.9.4
+    publishDate: '2018-08-05T16:01:10.094Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@16-7-15
+  title: mercedes-benz-a-4@16-7-15
+  properties:
+    version: 16.7.15
+    publishDate: '2020-04-18T04:37:43.364Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@5-5-14
+  title: mercedes-benz-a-4@5-5-14
+  properties:
+    version: 5.5.14
+    publishDate: '2023-02-12T04:47:54.308Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@1-14-11
+  title: mercedes-benz-a-4@1-14-11
+  properties:
+    version: 1.14.11
+    publishDate: '2023-04-03T19:26:30.327Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@9-7-8
+  title: mercedes-benz-a-4@9-7-8
+  properties:
+    version: 9.7.8
+    publishDate: '2020-08-27T06:07:26.543Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@11-3-7
+  title: mercedes-benz-a-4@11-3-7
+  properties:
+    version: 11.3.7
+    publishDate: '2018-11-27T00:23:58.750Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@10-4-10
+  title: mercedes-benz-a-4@10-4-10
+  properties:
+    version: 10.4.10
+    publishDate: '2019-12-15T08:10:16.442Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@15-18-1
+  title: mercedes-benz-a-4@15-18-1
+  properties:
+    version: 15.18.1
+    publishDate: '2019-09-18T01:25:31.296Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@17-11-4
+  title: mercedes-benz-a-4@17-11-4
+  properties:
+    version: 17.11.4
+    publishDate: '2023-04-22T04:21:48.218Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@6-9-17
+  title: mercedes-benz-a-4@6-9-17
+  properties:
+    version: 6.9.17
+    publishDate: '2019-06-02T06:43:19.423Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@8-9-16
+  title: mercedes-benz-a-4@8-9-16
+  properties:
+    version: 8.9.16
+    publishDate: '2019-11-16T00:50:31.392Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@2-18-19
+  title: mercedes-benz-a-4@2-18-19
+  properties:
+    version: 2.18.19
+    publishDate: '2021-09-28T20:14:40.979Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@4-13-12
+  title: mercedes-benz-a-4@4-13-12
+  properties:
+    version: 4.13.12
+    publishDate: '2019-07-25T16:44:20.540Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@7-6-17
+  title: mercedes-benz-a-4@7-6-17
+  properties:
+    version: 7.6.17
+    publishDate: '2021-10-17T00:59:28.556Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@20-8-7
+  title: mercedes-benz-a-4@20-8-7
+  properties:
+    version: 20.8.7
+    publishDate: '2020-10-31T12:14:06.124Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@2-17-14
+  title: mercedes-benz-a-4@2-17-14
+  properties:
+    version: 2.17.14
+    publishDate: '2018-12-29T01:20:55.898Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@19-10-5
+  title: mercedes-benz-a-4@19-10-5
+  properties:
+    version: 19.10.5
+    publishDate: '2018-11-03T05:16:09.645Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@9-4-11
+  title: mercedes-benz-a-4@9-4-11
+  properties:
+    version: 9.4.11
+    publishDate: '2019-06-16T20:22:01.034Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@2-15-13
+  title: mercedes-benz-a-4@2-15-13
+  properties:
+    version: 2.15.13
+    publishDate: '2021-11-20T14:38:52.578Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@5-8-7
+  title: mercedes-benz-a-4@5-8-7
+  properties:
+    version: 5.8.7
+    publishDate: '2019-12-09T00:56:29.825Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: mercedes-benz-a-4@7-15-20
+  title: mercedes-benz-a-4@7-15-20
+  properties:
+    version: 7.15.20
+    publishDate: '2022-09-02T09:40:51.891Z'
+  relations:
+    versionOf: mercedes-benz-a-4
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@1-13-7
+  title: hyundai-roadster@1-13-7
+  properties:
+    version: 1.13.7
+    publishDate: '2022-02-16T07:12:07.690Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@12-3-6
+  title: hyundai-roadster@12-3-6
+  properties:
+    version: 12.3.6
+    publishDate: '2018-12-30T01:59:03.442Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@13-8-13
+  title: hyundai-roadster@13-8-13
+  properties:
+    version: 13.8.13
+    publishDate: '2022-12-02T13:31:29.183Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@5-13-3
+  title: hyundai-roadster@5-13-3
+  properties:
+    version: 5.13.3
+    publishDate: '2018-10-19T12:37:09.443Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@7-12-8
+  title: hyundai-roadster@7-12-8
+  properties:
+    version: 7.12.8
+    publishDate: '2019-08-06T19:18:12.223Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@4-7-12
+  title: hyundai-roadster@4-7-12
+  properties:
+    version: 4.7.12
+    publishDate: '2020-09-28T08:52:58.982Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@1-3-5
+  title: hyundai-roadster@1-3-5
+  properties:
+    version: 1.3.5
+    publishDate: '2023-05-20T15:22:53.338Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@2-10-6
+  title: hyundai-roadster@2-10-6
+  properties:
+    version: 2.10.6
+    publishDate: '2018-10-13T04:05:15.445Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@14-5-8
+  title: hyundai-roadster@14-5-8
+  properties:
+    version: 14.5.8
+    publishDate: '2021-02-13T12:57:01.450Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@18-19-10
+  title: hyundai-roadster@18-19-10
+  properties:
+    version: 18.19.10
+    publishDate: '2020-03-25T21:47:03.778Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@12-15-4
+  title: hyundai-roadster@12-15-4
+  properties:
+    version: 12.15.4
+    publishDate: '2023-01-24T13:57:12.815Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@15-5-1
+  title: hyundai-roadster@15-5-1
+  properties:
+    version: 15.5.1
+    publishDate: '2022-07-09T08:08:05.302Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@8-17-11
+  title: hyundai-roadster@8-17-11
+  properties:
+    version: 8.17.11
+    publishDate: '2022-10-22T15:19:49.328Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@6-18-4
+  title: hyundai-roadster@6-18-4
+  properties:
+    version: 6.18.4
+    publishDate: '2019-09-17T09:46:41.159Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@7-2-16
+  title: hyundai-roadster@7-2-16
+  properties:
+    version: 7.2.16
+    publishDate: '2020-01-29T19:03:35.619Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@17-18-12
+  title: hyundai-roadster@17-18-12
+  properties:
+    version: 17.18.12
+    publishDate: '2019-04-14T22:01:32.650Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@0-19-3
+  title: hyundai-roadster@0-19-3
+  properties:
+    version: 0.19.3
+    publishDate: '2022-05-30T07:48:42.943Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@12-7-13
+  title: hyundai-roadster@12-7-13
+  properties:
+    version: 12.7.13
+    publishDate: '2021-11-11T20:06:45.978Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@5-16-14
+  title: hyundai-roadster@5-16-14
+  properties:
+    version: 5.16.14
+    publishDate: '2020-09-12T22:03:05.139Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@13-11-1
+  title: hyundai-roadster@13-11-1
+  properties:
+    version: 13.11.1
+    publishDate: '2020-02-26T09:37:30.838Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@15-8-6
+  title: hyundai-roadster@15-8-6
+  properties:
+    version: 15.8.6
+    publishDate: '2019-12-30T18:32:49.315Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@2-10-17
+  title: hyundai-roadster@2-10-17
+  properties:
+    version: 2.10.17
+    publishDate: '2019-12-26T21:58:49.401Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@8-12-10
+  title: hyundai-roadster@8-12-10
+  properties:
+    version: 8.12.10
+    publishDate: '2020-03-04T00:37:18.741Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@12-17-3
+  title: hyundai-roadster@12-17-3
+  properties:
+    version: 12.17.3
+    publishDate: '2020-10-05T21:56:45.897Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@13-9-10
+  title: hyundai-roadster@13-9-10
+  properties:
+    version: 13.9.10
+    publishDate: '2021-09-06T17:14:20.527Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@2-15-20
+  title: hyundai-roadster@2-15-20
+  properties:
+    version: 2.15.20
+    publishDate: '2023-04-03T13:31:32.041Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@6-4-6
+  title: hyundai-roadster@6-4-6
+  properties:
+    version: 6.4.6
+    publishDate: '2021-01-31T03:26:29.795Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@14-14-8
+  title: hyundai-roadster@14-14-8
+  properties:
+    version: 14.14.8
+    publishDate: '2021-03-17T13:50:43.842Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@1-19-16
+  title: hyundai-roadster@1-19-16
+  properties:
+    version: 1.19.16
+    publishDate: '2020-10-26T23:15:19.548Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@17-15-1
+  title: hyundai-roadster@17-15-1
+  properties:
+    version: 17.15.1
+    publishDate: '2019-06-20T03:17:54.549Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@12-6-20
+  title: hyundai-roadster@12-6-20
+  properties:
+    version: 12.6.20
+    publishDate: '2023-03-15T21:12:36.340Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@19-7-15
+  title: hyundai-roadster@19-7-15
+  properties:
+    version: 19.7.15
+    publishDate: '2021-02-12T12:57:48.481Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@0-9-8
+  title: hyundai-roadster@0-9-8
+  properties:
+    version: 0.9.8
+    publishDate: '2020-04-21T01:35:09.160Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@18-10-8
+  title: hyundai-roadster@18-10-8
+  properties:
+    version: 18.10.8
+    publishDate: '2021-08-14T02:33:19.020Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@3-2-14
+  title: hyundai-roadster@3-2-14
+  properties:
+    version: 3.2.14
+    publishDate: '2018-09-07T17:02:12.470Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@14-0-18
+  title: hyundai-roadster@14-0-18
+  properties:
+    version: 14.0.18
+    publishDate: '2023-06-07T01:47:08.407Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@19-5-20
+  title: hyundai-roadster@19-5-20
+  properties:
+    version: 19.5.20
+    publishDate: '2022-12-07T00:35:28.158Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@6-3-4
+  title: hyundai-roadster@6-3-4
+  properties:
+    version: 6.3.4
+    publishDate: '2021-09-19T16:39:26.523Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@19-14-10
+  title: hyundai-roadster@19-14-10
+  properties:
+    version: 19.14.10
+    publishDate: '2019-04-27T11:15:33.071Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@13-7-15
+  title: hyundai-roadster@13-7-15
+  properties:
+    version: 13.7.15
+    publishDate: '2022-08-03T04:20:26.854Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@19-0-15
+  title: hyundai-roadster@19-0-15
+  properties:
+    version: 19.0.15
+    publishDate: '2022-01-14T02:16:16.956Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@18-12-5
+  title: hyundai-roadster@18-12-5
+  properties:
+    version: 18.12.5
+    publishDate: '2022-03-05T01:51:07.237Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@12-10-18
+  title: hyundai-roadster@12-10-18
+  properties:
+    version: 12.10.18
+    publishDate: '2021-04-06T08:55:30.568Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: hyundai-roadster@14-13-14
+  title: hyundai-roadster@14-13-14
+  properties:
+    version: 14.13.14
+    publishDate: '2021-10-04T09:51:47.127Z'
+  relations:
+    versionOf: hyundai-roadster
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@8-6-2
+  title: nissan-fiesta@8-6-2
+  properties:
+    version: 8.6.2
+    publishDate: '2022-09-29T20:23:14.138Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@13-5-1
+  title: nissan-fiesta@13-5-1
+  properties:
+    version: 13.5.1
+    publishDate: '2020-03-14T13:57:39.836Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@9-4-9
+  title: nissan-fiesta@9-4-9
+  properties:
+    version: 9.4.9
+    publishDate: '2019-11-30T23:31:56.599Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@11-8-20
+  title: nissan-fiesta@11-8-20
+  properties:
+    version: 11.8.20
+    publishDate: '2020-07-21T09:46:42.834Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@6-10-10
+  title: nissan-fiesta@6-10-10
+  properties:
+    version: 6.10.10
+    publishDate: '2022-04-11T10:26:50.727Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@16-13-6
+  title: nissan-fiesta@16-13-6
+  properties:
+    version: 16.13.6
+    publishDate: '2021-07-07T07:05:46.619Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@18-1-19
+  title: nissan-fiesta@18-1-19
+  properties:
+    version: 18.1.19
+    publishDate: '2019-05-16T23:55:18.009Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@16-10-19
+  title: nissan-fiesta@16-10-19
+  properties:
+    version: 16.10.19
+    publishDate: '2023-06-18T21:33:10.385Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@14-18-17
+  title: nissan-fiesta@14-18-17
+  properties:
+    version: 14.18.17
+    publishDate: '2020-08-11T00:14:32.947Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@5-19-18
+  title: nissan-fiesta@5-19-18
+  properties:
+    version: 5.19.18
+    publishDate: '2022-06-19T09:52:01.717Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@14-6-2
+  title: nissan-fiesta@14-6-2
+  properties:
+    version: 14.6.2
+    publishDate: '2019-05-01T12:05:43.241Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@6-2-12
+  title: nissan-fiesta@6-2-12
+  properties:
+    version: 6.2.12
+    publishDate: '2022-04-05T20:06:51.634Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@2-9-11
+  title: nissan-fiesta@2-9-11
+  properties:
+    version: 2.9.11
+    publishDate: '2021-09-30T23:39:08.533Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@14-5-7
+  title: nissan-fiesta@14-5-7
+  properties:
+    version: 14.5.7
+    publishDate: '2022-06-17T02:59:12.623Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@1-6-14
+  title: nissan-fiesta@1-6-14
+  properties:
+    version: 1.6.14
+    publishDate: '2021-05-01T07:25:37.639Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@9-8-4
+  title: nissan-fiesta@9-8-4
+  properties:
+    version: 9.8.4
+    publishDate: '2021-08-06T20:03:38.676Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@11-10-19
+  title: nissan-fiesta@11-10-19
+  properties:
+    version: 11.10.19
+    publishDate: '2023-05-12T21:11:34.056Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@4-5-13
+  title: nissan-fiesta@4-5-13
+  properties:
+    version: 4.5.13
+    publishDate: '2023-03-21T19:29:18.046Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@19-13-15
+  title: nissan-fiesta@19-13-15
+  properties:
+    version: 19.13.15
+    publishDate: '2021-03-03T13:30:47.532Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@10-16-6
+  title: nissan-fiesta@10-16-6
+  properties:
+    version: 10.16.6
+    publishDate: '2022-08-03T17:09:48.614Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@16-1-10
+  title: nissan-fiesta@16-1-10
+  properties:
+    version: 16.1.10
+    publishDate: '2019-05-03T23:26:23.557Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@17-9-17
+  title: nissan-fiesta@17-9-17
+  properties:
+    version: 17.9.17
+    publishDate: '2018-09-08T08:45:09.906Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@9-12-18
+  title: nissan-fiesta@9-12-18
+  properties:
+    version: 9.12.18
+    publishDate: '2020-08-25T02:19:02.206Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@20-10-12
+  title: nissan-fiesta@20-10-12
+  properties:
+    version: 20.10.12
+    publishDate: '2021-06-27T00:23:31.861Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@17-18-14
+  title: nissan-fiesta@17-18-14
+  properties:
+    version: 17.18.14
+    publishDate: '2020-05-18T19:36:20.011Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@19-8-10
+  title: nissan-fiesta@19-8-10
+  properties:
+    version: 19.8.10
+    publishDate: '2023-03-07T07:05:27.507Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@10-18-18
+  title: nissan-fiesta@10-18-18
+  properties:
+    version: 10.18.18
+    publishDate: '2021-10-21T21:05:27.418Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@19-1-9
+  title: nissan-fiesta@19-1-9
+  properties:
+    version: 19.1.9
+    publishDate: '2018-12-23T00:30:20.389Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@10-14-1
+  title: nissan-fiesta@10-14-1
+  properties:
+    version: 10.14.1
+    publishDate: '2022-03-20T03:21:27.280Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@1-6-17
+  title: nissan-fiesta@1-6-17
+  properties:
+    version: 1.6.17
+    publishDate: '2018-10-18T22:38:58.296Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@12-2-20
+  title: nissan-fiesta@12-2-20
+  properties:
+    version: 12.2.20
+    publishDate: '2023-02-26T04:33:34.080Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: nissan-fiesta@17-0-15
+  title: nissan-fiesta@17-0-15
+  properties:
+    version: 17.0.15
+    publishDate: '2023-04-27T10:08:03.049Z'
+  relations:
+    versionOf: nissan-fiesta
+- blueprint: PackageVersion
+  identifier: toyota-a-4@3-20-18
+  title: toyota-a-4@3-20-18
+  properties:
+    version: 3.20.18
+    publishDate: '2020-09-26T10:19:19.306Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@16-4-8
+  title: toyota-a-4@16-4-8
+  properties:
+    version: 16.4.8
+    publishDate: '2022-10-10T02:04:08.789Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@4-11-4
+  title: toyota-a-4@4-11-4
+  properties:
+    version: 4.11.4
+    publishDate: '2018-12-21T05:15:40.404Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@15-17-19
+  title: toyota-a-4@15-17-19
+  properties:
+    version: 15.17.19
+    publishDate: '2021-07-31T14:43:10.244Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@9-5-12
+  title: toyota-a-4@9-5-12
+  properties:
+    version: 9.5.12
+    publishDate: '2022-08-26T00:21:21.314Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@3-9-19
+  title: toyota-a-4@3-9-19
+  properties:
+    version: 3.9.19
+    publishDate: '2021-12-13T11:25:27.968Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@11-6-5
+  title: toyota-a-4@11-6-5
+  properties:
+    version: 11.6.5
+    publishDate: '2022-03-09T14:11:16.682Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@8-17-16
+  title: toyota-a-4@8-17-16
+  properties:
+    version: 8.17.16
+    publishDate: '2021-12-26T08:59:31.736Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@2-2-8
+  title: toyota-a-4@2-2-8
+  properties:
+    version: 2.2.8
+    publishDate: '2021-03-08T23:33:47.500Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@19-15-11
+  title: toyota-a-4@19-15-11
+  properties:
+    version: 19.15.11
+    publishDate: '2022-05-16T14:42:03.538Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@7-13-8
+  title: toyota-a-4@7-13-8
+  properties:
+    version: 7.13.8
+    publishDate: '2018-10-27T06:35:22.535Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@6-11-13
+  title: toyota-a-4@6-11-13
+  properties:
+    version: 6.11.13
+    publishDate: '2019-03-01T20:40:27.279Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@2-8-1
+  title: toyota-a-4@2-8-1
+  properties:
+    version: 2.8.1
+    publishDate: '2018-12-26T19:00:11.622Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@7-14-14
+  title: toyota-a-4@7-14-14
+  properties:
+    version: 7.14.14
+    publishDate: '2020-01-24T16:23:14.209Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@17-4-9
+  title: toyota-a-4@17-4-9
+  properties:
+    version: 17.4.9
+    publishDate: '2021-09-06T09:08:38.447Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@15-8-5
+  title: toyota-a-4@15-8-5
+  properties:
+    version: 15.8.5
+    publishDate: '2019-07-01T16:03:59.005Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@8-14-19
+  title: toyota-a-4@8-14-19
+  properties:
+    version: 8.14.19
+    publishDate: '2020-07-26T20:40:17.134Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@20-11-19
+  title: toyota-a-4@20-11-19
+  properties:
+    version: 20.11.19
+    publishDate: '2020-04-20T07:56:13.962Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@3-8-5
+  title: toyota-a-4@3-8-5
+  properties:
+    version: 3.8.5
+    publishDate: '2021-03-31T11:51:00.390Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@3-7-14
+  title: toyota-a-4@3-7-14
+  properties:
+    version: 3.7.14
+    publishDate: '2018-07-10T08:28:38.336Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@17-2-14
+  title: toyota-a-4@17-2-14
+  properties:
+    version: 17.2.14
+    publishDate: '2022-01-03T13:18:33.106Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@2-16-15
+  title: toyota-a-4@2-16-15
+  properties:
+    version: 2.16.15
+    publishDate: '2022-11-20T22:01:37.065Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@16-14-19
+  title: toyota-a-4@16-14-19
+  properties:
+    version: 16.14.19
+    publishDate: '2019-09-29T20:35:42.755Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@16-13-14
+  title: toyota-a-4@16-13-14
+  properties:
+    version: 16.13.14
+    publishDate: '2023-03-20T06:16:16.783Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@6-10-15
+  title: toyota-a-4@6-10-15
+  properties:
+    version: 6.10.15
+    publishDate: '2023-03-01T07:54:44.423Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@11-11-1
+  title: toyota-a-4@11-11-1
+  properties:
+    version: 11.11.1
+    publishDate: '2023-04-13T07:18:31.232Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@3-7-9
+  title: toyota-a-4@3-7-9
+  properties:
+    version: 3.7.9
+    publishDate: '2021-04-07T05:06:59.314Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@19-12-4
+  title: toyota-a-4@19-12-4
+  properties:
+    version: 19.12.4
+    publishDate: '2020-11-07T13:25:13.499Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@6-5-18
+  title: toyota-a-4@6-5-18
+  properties:
+    version: 6.5.18
+    publishDate: '2019-11-14T06:42:54.282Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@16-4-15
+  title: toyota-a-4@16-4-15
+  properties:
+    version: 16.4.15
+    publishDate: '2020-07-11T10:18:43.835Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@17-11-16
+  title: toyota-a-4@17-11-16
+  properties:
+    version: 17.11.16
+    publishDate: '2021-03-26T14:08:14.042Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@6-16-15
+  title: toyota-a-4@6-16-15
+  properties:
+    version: 6.16.15
+    publishDate: '2020-09-19T00:51:48.203Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-a-4@5-16-7
+  title: toyota-a-4@5-16-7
+  properties:
+    version: 5.16.7
+    publishDate: '2019-06-26T10:16:52.704Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-challenger@7-7-6
+  title: toyota-challenger@7-7-6
+  properties:
+    version: 7.7.6
+    publishDate: '2022-07-16T19:21:35.697Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-a-4@12-10-8
+  title: toyota-a-4@12-10-8
+  properties:
+    version: 12.10.8
+    publishDate: '2020-05-10T15:55:30.084Z'
+  relations:
+    versionOf: toyota-a-4
+- blueprint: PackageVersion
+  identifier: toyota-challenger@9-12-18
+  title: toyota-challenger@9-12-18
+  properties:
+    version: 9.12.18
+    publishDate: '2021-06-11T04:09:52.673Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@19-1-5
+  title: toyota-challenger@19-1-5
+  properties:
+    version: 19.1.5
+    publishDate: '2020-12-23T03:31:45.581Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@3-7-13
+  title: toyota-challenger@3-7-13
+  properties:
+    version: 3.7.13
+    publishDate: '2022-10-04T21:15:40.227Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@2-9-18
+  title: toyota-challenger@2-9-18
+  properties:
+    version: 2.9.18
+    publishDate: '2019-10-08T18:24:43.647Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@16-13-19
+  title: toyota-challenger@16-13-19
+  properties:
+    version: 16.13.19
+    publishDate: '2020-10-14T09:23:20.545Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@9-3-0
+  title: toyota-challenger@9-3-0
+  properties:
+    version: 9.3.0
+    publishDate: '2022-09-15T19:49:12.980Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@10-20-13
+  title: toyota-challenger@10-20-13
+  properties:
+    version: 10.20.13
+    publishDate: '2023-04-28T09:43:39.447Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@15-15-17
+  title: toyota-challenger@15-15-17
+  properties:
+    version: 15.15.17
+    publishDate: '2019-09-29T02:31:22.719Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@17-4-10
+  title: toyota-challenger@17-4-10
+  properties:
+    version: 17.4.10
+    publishDate: '2022-02-04T14:41:27.594Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@7-8-3
+  title: toyota-challenger@7-8-3
+  properties:
+    version: 7.8.3
+    publishDate: '2021-06-03T23:12:28.820Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@2-9-13
+  title: toyota-challenger@2-9-13
+  properties:
+    version: 2.9.13
+    publishDate: '2019-10-16T12:41:12.534Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@7-5-16
+  title: toyota-challenger@7-5-16
+  properties:
+    version: 7.5.16
+    publishDate: '2019-04-25T09:52:51.314Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@3-12-11
+  title: toyota-challenger@3-12-11
+  properties:
+    version: 3.12.11
+    publishDate: '2018-09-28T12:44:03.110Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@10-10-18
+  title: toyota-challenger@10-10-18
+  properties:
+    version: 10.10.18
+    publishDate: '2019-12-07T20:32:14.847Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@0-3-9
+  title: toyota-challenger@0-3-9
+  properties:
+    version: 0.3.9
+    publishDate: '2022-12-02T18:44:27.049Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@19-6-14
+  title: toyota-challenger@19-6-14
+  properties:
+    version: 19.6.14
+    publishDate: '2022-06-27T01:23:42.692Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@11-17-13
+  title: toyota-challenger@11-17-13
+  properties:
+    version: 11.17.13
+    publishDate: '2023-06-09T06:41:12.038Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@4-1-5
+  title: toyota-challenger@4-1-5
+  properties:
+    version: 4.1.5
+    publishDate: '2021-11-18T16:25:34.891Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@5-7-12
+  title: toyota-challenger@5-7-12
+  properties:
+    version: 5.7.12
+    publishDate: '2022-03-26T16:17:18.711Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@1-13-2
+  title: toyota-challenger@1-13-2
+  properties:
+    version: 1.13.2
+    publishDate: '2022-07-01T01:55:13.350Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@10-14-10
+  title: toyota-challenger@10-14-10
+  properties:
+    version: 10.14.10
+    publishDate: '2022-12-03T09:58:38.509Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@14-8-12
+  title: toyota-challenger@14-8-12
+  properties:
+    version: 14.8.12
+    publishDate: '2021-11-10T18:35:16.598Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@10-3-16
+  title: toyota-challenger@10-3-16
+  properties:
+    version: 10.3.16
+    publishDate: '2020-01-16T14:29:51.083Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@2-12-4
+  title: toyota-challenger@2-12-4
+  properties:
+    version: 2.12.4
+    publishDate: '2023-03-24T04:16:54.657Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@10-10-3
+  title: toyota-challenger@10-10-3
+  properties:
+    version: 10.10.3
+    publishDate: '2019-03-06T23:09:14.666Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@9-5-13
+  title: toyota-challenger@9-5-13
+  properties:
+    version: 9.5.13
+    publishDate: '2019-10-26T09:00:53.599Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@5-4-9
+  title: toyota-challenger@5-4-9
+  properties:
+    version: 5.4.9
+    publishDate: '2019-04-04T06:44:21.834Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@8-14-0
+  title: toyota-challenger@8-14-0
+  properties:
+    version: 8.14.0
+    publishDate: '2022-02-03T11:31:02.156Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@18-14-17
+  title: toyota-challenger@18-14-17
+  properties:
+    version: 18.14.17
+    publishDate: '2018-11-11T13:48:35.649Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@8-0-14
+  title: toyota-challenger@8-0-14
+  properties:
+    version: 8.0.14
+    publishDate: '2022-02-25T03:25:59.727Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@18-15-15
+  title: toyota-challenger@18-15-15
+  properties:
+    version: 18.15.15
+    publishDate: '2020-10-21T21:30:24.479Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@9-13-13
+  title: toyota-challenger@9-13-13
+  properties:
+    version: 9.13.13
+    publishDate: '2022-08-30T16:11:20.089Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@2-6-11
+  title: toyota-challenger@2-6-11
+  properties:
+    version: 2.6.11
+    publishDate: '2021-04-08T01:03:01.028Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@16-8-15
+  title: toyota-challenger@16-8-15
+  properties:
+    version: 16.8.15
+    publishDate: '2021-08-25T20:19:43.562Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@11-5-17
+  title: toyota-challenger@11-5-17
+  properties:
+    version: 11.5.17
+    publishDate: '2020-12-29T18:12:47.343Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@4-12-18
+  title: toyota-challenger@4-12-18
+  properties:
+    version: 4.12.18
+    publishDate: '2020-11-13T00:50:01.051Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@11-14-4
+  title: toyota-challenger@11-14-4
+  properties:
+    version: 11.14.4
+    publishDate: '2021-07-16T09:21:22.795Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@3-11-7
+  title: toyota-challenger@3-11-7
+  properties:
+    version: 3.11.7
+    publishDate: '2019-10-20T09:53:10.009Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@14-9-19
+  title: toyota-challenger@14-9-19
+  properties:
+    version: 14.9.19
+    publishDate: '2021-02-06T00:55:53.990Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@13-7-0
+  title: toyota-challenger@13-7-0
+  properties:
+    version: 13.7.0
+    publishDate: '2022-09-02T10:37:20.767Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@3-1-9
+  title: toyota-challenger@3-1-9
+  properties:
+    version: 3.1.9
+    publishDate: '2021-08-29T20:01:07.349Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@12-14-12
+  title: toyota-challenger@12-14-12
+  properties:
+    version: 12.14.12
+    publishDate: '2020-11-28T09:15:39.331Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@11-16-0
+  title: toyota-challenger@11-16-0
+  properties:
+    version: 11.16.0
+    publishDate: '2021-05-28T00:23:51.258Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@19-6-16
+  title: toyota-challenger@19-6-16
+  properties:
+    version: 19.6.16
+    publishDate: '2018-12-29T05:10:23.681Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@4-2-3
+  title: toyota-challenger@4-2-3
+  properties:
+    version: 4.2.3
+    publishDate: '2020-08-07T04:52:47.600Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@14-11-3
+  title: toyota-challenger@14-11-3
+  properties:
+    version: 14.11.3
+    publishDate: '2020-08-17T14:50:59.584Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: toyota-challenger@11-1-3
+  title: toyota-challenger@11-1-3
+  properties:
+    version: 11.1.3
+    publishDate: '2019-11-07T14:39:25.852Z'
+  relations:
+    versionOf: toyota-challenger
+- blueprint: PackageVersion
+  identifier: smart-focus@19-4-6
+  title: smart-focus@19-4-6
+  properties:
+    version: 19.4.6
+    publishDate: '2022-07-23T21:59:22.155Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@1-2-7
+  title: smart-focus@1-2-7
+  properties:
+    version: 1.2.7
+    publishDate: '2020-07-23T09:36:59.943Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@10-2-18
+  title: smart-focus@10-2-18
+  properties:
+    version: 10.2.18
+    publishDate: '2023-05-25T20:59:30.487Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@8-17-16
+  title: smart-focus@8-17-16
+  properties:
+    version: 8.17.16
+    publishDate: '2021-03-31T00:51:47.811Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@13-14-14
+  title: smart-focus@13-14-14
+  properties:
+    version: 13.14.14
+    publishDate: '2020-03-03T17:58:55.818Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@7-12-9
+  title: smart-focus@7-12-9
+  properties:
+    version: 7.12.9
+    publishDate: '2019-10-15T18:17:00.606Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@4-3-17
+  title: smart-focus@4-3-17
+  properties:
+    version: 4.3.17
+    publishDate: '2022-07-03T05:28:11.938Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@13-8-7
+  title: smart-focus@13-8-7
+  properties:
+    version: 13.8.7
+    publishDate: '2020-09-04T23:06:10.252Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@16-5-0
+  title: smart-focus@16-5-0
+  properties:
+    version: 16.5.0
+    publishDate: '2019-06-13T13:47:34.672Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@8-20-11
+  title: smart-focus@8-20-11
+  properties:
+    version: 8.20.11
+    publishDate: '2019-09-29T23:43:47.397Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@4-6-18
+  title: smart-focus@4-6-18
+  properties:
+    version: 4.6.18
+    publishDate: '2019-10-02T15:47:05.626Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@8-3-13
+  title: smart-focus@8-3-13
+  properties:
+    version: 8.3.13
+    publishDate: '2022-10-20T09:44:08.066Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: smart-focus@11-2-16
+  title: smart-focus@11-2-16
+  properties:
+    version: 11.2.16
+    publishDate: '2020-05-26T01:09:40.766Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: mazda-challenger@6-10-14
+  title: mazda-challenger@6-10-14
+  properties:
+    version: 6.10.14
+    publishDate: '2018-11-25T00:10:56.730Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: smart-focus@15-19-4
+  title: smart-focus@15-19-4
+  properties:
+    version: 15.19.4
+    publishDate: '2019-01-18T15:05:22.599Z'
+  relations:
+    versionOf: smart-focus
+- blueprint: PackageVersion
+  identifier: mazda-challenger@5-5-6
+  title: mazda-challenger@5-5-6
+  properties:
+    version: 5.5.6
+    publishDate: '2019-04-26T00:02:42.574Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@14-16-3
+  title: mazda-challenger@14-16-3
+  properties:
+    version: 14.16.3
+    publishDate: '2022-03-15T11:04:54.737Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@12-20-12
+  title: mazda-challenger@12-20-12
+  properties:
+    version: 12.20.12
+    publishDate: '2021-08-28T23:59:45.961Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@19-0-11
+  title: mazda-challenger@19-0-11
+  properties:
+    version: 19.0.11
+    publishDate: '2023-01-07T14:55:28.237Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@16-3-5
+  title: mazda-challenger@16-3-5
+  properties:
+    version: 16.3.5
+    publishDate: '2022-04-14T20:23:24.793Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@20-7-4
+  title: mazda-challenger@20-7-4
+  properties:
+    version: 20.7.4
+    publishDate: '2021-04-18T18:06:03.711Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@9-3-11
+  title: mazda-challenger@9-3-11
+  properties:
+    version: 9.3.11
+    publishDate: '2022-01-18T20:47:42.508Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@7-9-0
+  title: mazda-challenger@7-9-0
+  properties:
+    version: 7.9.0
+    publishDate: '2020-04-10T22:58:11.903Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@4-8-10
+  title: mazda-challenger@4-8-10
+  properties:
+    version: 4.8.10
+    publishDate: '2018-07-02T06:20:22.886Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@18-16-17
+  title: mazda-challenger@18-16-17
+  properties:
+    version: 18.16.17
+    publishDate: '2019-08-23T07:26:08.704Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@6-13-17
+  title: mazda-challenger@6-13-17
+  properties:
+    version: 6.13.17
+    publishDate: '2018-08-20T02:43:06.051Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@20-19-17
+  title: mazda-challenger@20-19-17
+  properties:
+    version: 20.19.17
+    publishDate: '2018-06-26T00:02:00.389Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@9-20-10
+  title: mazda-challenger@9-20-10
+  properties:
+    version: 9.20.10
+    publishDate: '2020-05-17T12:26:23.299Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@6-15-2
+  title: mazda-challenger@6-15-2
+  properties:
+    version: 6.15.2
+    publishDate: '2020-04-23T06:45:38.993Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@12-1-9
+  title: mazda-challenger@12-1-9
+  properties:
+    version: 12.1.9
+    publishDate: '2022-01-27T03:42:41.244Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@5-16-14
+  title: mazda-challenger@5-16-14
+  properties:
+    version: 5.16.14
+    publishDate: '2021-02-22T07:05:21.375Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@14-13-19
+  title: mazda-challenger@14-13-19
+  properties:
+    version: 14.13.19
+    publishDate: '2019-02-04T14:25:19.976Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@3-11-20
+  title: mazda-challenger@3-11-20
+  properties:
+    version: 3.11.20
+    publishDate: '2018-09-15T14:30:42.659Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@16-4-3
+  title: mazda-challenger@16-4-3
+  properties:
+    version: 16.4.3
+    publishDate: '2021-04-18T19:11:31.225Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@9-8-2
+  title: mazda-challenger@9-8-2
+  properties:
+    version: 9.8.2
+    publishDate: '2023-03-10T17:46:46.969Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@2-9-13
+  title: mazda-challenger@2-9-13
+  properties:
+    version: 2.9.13
+    publishDate: '2018-06-25T19:36:09.011Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@12-2-15
+  title: mazda-challenger@12-2-15
+  properties:
+    version: 12.2.15
+    publishDate: '2022-02-07T21:02:04.999Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@7-0-20
+  title: mazda-challenger@7-0-20
+  properties:
+    version: 7.0.20
+    publishDate: '2021-12-17T05:37:01.874Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@15-6-15
+  title: mazda-challenger@15-6-15
+  properties:
+    version: 15.6.15
+    publishDate: '2023-04-15T14:15:28.308Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@20-14-9
+  title: mazda-challenger@20-14-9
+  properties:
+    version: 20.14.9
+    publishDate: '2021-07-03T04:58:38.754Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@14-13-3
+  title: mazda-challenger@14-13-3
+  properties:
+    version: 14.13.3
+    publishDate: '2022-04-03T09:30:17.873Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@2-6-13
+  title: mazda-challenger@2-6-13
+  properties:
+    version: 2.6.13
+    publishDate: '2019-09-19T22:01:46.197Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@3-8-7
+  title: mazda-challenger@3-8-7
+  properties:
+    version: 3.8.7
+    publishDate: '2021-11-14T22:56:53.987Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@13-0-12
+  title: mazda-challenger@13-0-12
+  properties:
+    version: 13.0.12
+    publishDate: '2021-01-03T08:16:32.303Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@19-10-8
+  title: mazda-challenger@19-10-8
+  properties:
+    version: 19.10.8
+    publishDate: '2020-03-30T05:37:23.126Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@12-19-19
+  title: mazda-challenger@12-19-19
+  properties:
+    version: 12.19.19
+    publishDate: '2019-03-19T04:39:24.938Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@16-14-10
+  title: mazda-challenger@16-14-10
+  properties:
+    version: 16.14.10
+    publishDate: '2023-04-22T16:37:54.386Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@12-8-5
+  title: mazda-challenger@12-8-5
+  properties:
+    version: 12.8.5
+    publishDate: '2021-07-14T16:33:47.115Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@1-9-14
+  title: mazda-challenger@1-9-14
+  properties:
+    version: 1.9.14
+    publishDate: '2021-01-17T00:25:29.858Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@0-11-19
+  title: mazda-challenger@0-11-19
+  properties:
+    version: 0.11.19
+    publishDate: '2020-07-16T10:52:37.370Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@19-16-5
+  title: mazda-challenger@19-16-5
+  properties:
+    version: 19.16.5
+    publishDate: '2023-03-05T18:48:15.650Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@11-6-20
+  title: mazda-challenger@11-6-20
+  properties:
+    version: 11.6.20
+    publishDate: '2023-05-25T11:45:34.755Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@20-9-14
+  title: mazda-challenger@20-9-14
+  properties:
+    version: 20.9.14
+    publishDate: '2021-04-06T00:10:06.167Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@6-4-6
+  title: mazda-challenger@6-4-6
+  properties:
+    version: 6.4.6
+    publishDate: '2022-04-08T09:13:38.158Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@9-6-4
+  title: mazda-challenger@9-6-4
+  properties:
+    version: 9.6.4
+    publishDate: '2020-04-28T19:05:11.730Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@11-15-18
+  title: mazda-challenger@11-15-18
+  properties:
+    version: 11.15.18
+    publishDate: '2019-09-17T11:28:50.440Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@11-5-7
+  title: mazda-challenger@11-5-7
+  properties:
+    version: 11.5.7
+    publishDate: '2020-08-22T16:56:08.405Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@19-2-7
+  title: mazda-challenger@19-2-7
+  properties:
+    version: 19.2.7
+    publishDate: '2022-10-11T04:02:34.090Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: mazda-challenger@11-14-16
+  title: mazda-challenger@11-14-16
+  properties:
+    version: 11.14.16
+    publishDate: '2020-05-19T23:42:23.135Z'
+  relations:
+    versionOf: mazda-challenger
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@18-16-19
+  title: lamborghini-f-150@18-16-19
+  properties:
+    version: 18.16.19
+    publishDate: '2019-11-18T17:02:44.842Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@10-9-10
+  title: lamborghini-f-150@10-9-10
+  properties:
+    version: 10.9.10
+    publishDate: '2023-04-23T18:58:17.624Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@14-7-16
+  title: lamborghini-f-150@14-7-16
+  properties:
+    version: 14.7.16
+    publishDate: '2018-09-21T08:43:48.872Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@13-10-13
+  title: lamborghini-f-150@13-10-13
+  properties:
+    version: 13.10.13
+    publishDate: '2022-01-21T12:00:13.767Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@10-1-12
+  title: lamborghini-f-150@10-1-12
+  properties:
+    version: 10.1.12
+    publishDate: '2021-12-13T04:10:38.266Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@10-11-13
+  title: lamborghini-f-150@10-11-13
+  properties:
+    version: 10.11.13
+    publishDate: '2020-02-22T21:15:22.174Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@14-8-5
+  title: lamborghini-f-150@14-8-5
+  properties:
+    version: 14.8.5
+    publishDate: '2022-09-18T12:47:04.776Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@8-9-4
+  title: lamborghini-f-150@8-9-4
+  properties:
+    version: 8.9.4
+    publishDate: '2019-09-24T16:39:32.883Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@19-0-18
+  title: lamborghini-f-150@19-0-18
+  properties:
+    version: 19.0.18
+    publishDate: '2021-04-13T02:38:29.566Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@3-1-7
+  title: lamborghini-f-150@3-1-7
+  properties:
+    version: 3.1.7
+    publishDate: '2019-04-07T03:06:33.213Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@17-14-13
+  title: lamborghini-f-150@17-14-13
+  properties:
+    version: 17.14.13
+    publishDate: '2022-07-26T18:11:36.954Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@11-18-13
+  title: lamborghini-f-150@11-18-13
+  properties:
+    version: 11.18.13
+    publishDate: '2019-11-25T02:19:31.607Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@13-16-7
+  title: lamborghini-f-150@13-16-7
+  properties:
+    version: 13.16.7
+    publishDate: '2019-05-26T00:11:10.813Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@3-1-17
+  title: lamborghini-f-150@3-1-17
+  properties:
+    version: 3.1.17
+    publishDate: '2022-07-25T01:23:50.644Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@8-19-12
+  title: lamborghini-f-150@8-19-12
+  properties:
+    version: 8.19.12
+    publishDate: '2022-04-07T04:56:40.605Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: nissan-spyder@14-7-18
+  title: nissan-spyder@14-7-18
+  properties:
+    version: 14.7.18
+    publishDate: '2019-01-08T08:19:47.017Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: lamborghini-f-150@6-17-10
+  title: lamborghini-f-150@6-17-10
+  properties:
+    version: 6.17.10
+    publishDate: '2022-07-10T13:43:03.510Z'
+  relations:
+    versionOf: lamborghini-f-150
+- blueprint: PackageVersion
+  identifier: nissan-spyder@17-10-11
+  title: nissan-spyder@17-10-11
+  properties:
+    version: 17.10.11
+    publishDate: '2022-06-13T21:53:01.572Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@16-5-5
+  title: nissan-spyder@16-5-5
+  properties:
+    version: 16.5.5
+    publishDate: '2023-05-14T14:49:29.350Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@18-9-12
+  title: nissan-spyder@18-9-12
+  properties:
+    version: 18.9.12
+    publishDate: '2020-02-29T09:17:22.271Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@12-4-3
+  title: nissan-spyder@12-4-3
+  properties:
+    version: 12.4.3
+    publishDate: '2019-08-30T07:37:46.440Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@18-15-3
+  title: nissan-spyder@18-15-3
+  properties:
+    version: 18.15.3
+    publishDate: '2018-06-30T06:58:02.147Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@7-20-7
+  title: nissan-spyder@7-20-7
+  properties:
+    version: 7.20.7
+    publishDate: '2023-06-09T19:28:39.074Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@0-17-10
+  title: nissan-spyder@0-17-10
+  properties:
+    version: 0.17.10
+    publishDate: '2020-12-21T03:14:22.935Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@14-9-18
+  title: nissan-spyder@14-9-18
+  properties:
+    version: 14.9.18
+    publishDate: '2020-01-11T02:55:03.742Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@12-16-19
+  title: nissan-spyder@12-16-19
+  properties:
+    version: 12.16.19
+    publishDate: '2019-06-15T12:05:20.012Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@18-3-10
+  title: nissan-spyder@18-3-10
+  properties:
+    version: 18.3.10
+    publishDate: '2023-01-23T18:46:06.557Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@19-17-5
+  title: nissan-spyder@19-17-5
+  properties:
+    version: 19.17.5
+    publishDate: '2019-07-27T02:23:55.081Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@13-4-12
+  title: nissan-spyder@13-4-12
+  properties:
+    version: 13.4.12
+    publishDate: '2021-12-27T17:52:11.769Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@7-12-7
+  title: nissan-spyder@7-12-7
+  properties:
+    version: 7.12.7
+    publishDate: '2021-03-23T12:59:15.621Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@13-4-14
+  title: nissan-spyder@13-4-14
+  properties:
+    version: 13.4.14
+    publishDate: '2021-02-25T12:30:46.444Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: nissan-spyder@16-10-10
+  title: nissan-spyder@16-10-10
+  properties:
+    version: 16.10.10
+    publishDate: '2019-04-30T21:27:22.963Z'
+  relations:
+    versionOf: nissan-spyder
+- blueprint: PackageVersion
+  identifier: toyota-volt@15-19-8
+  title: toyota-volt@15-19-8
+  properties:
+    version: 15.19.8
+    publishDate: '2018-10-17T16:42:19.252Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@6-7-10
+  title: toyota-volt@6-7-10
+  properties:
+    version: 6.7.10
+    publishDate: '2019-02-27T11:15:02.437Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@5-18-17
+  title: toyota-volt@5-18-17
+  properties:
+    version: 5.18.17
+    publishDate: '2022-04-23T02:01:37.258Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@16-17-16
+  title: toyota-volt@16-17-16
+  properties:
+    version: 16.17.16
+    publishDate: '2023-01-12T05:26:49.187Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@19-1-15
+  title: toyota-volt@19-1-15
+  properties:
+    version: 19.1.15
+    publishDate: '2020-03-16T01:44:46.831Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@1-18-17
+  title: toyota-volt@1-18-17
+  properties:
+    version: 1.18.17
+    publishDate: '2019-11-11T14:34:50.658Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@2-4-2
+  title: toyota-volt@2-4-2
+  properties:
+    version: 2.4.2
+    publishDate: '2022-09-27T06:09:15.294Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@6-8-8
+  title: toyota-volt@6-8-8
+  properties:
+    version: 6.8.8
+    publishDate: '2020-07-04T01:43:51.347Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: toyota-volt@1-5-17
+  title: toyota-volt@1-5-17
+  properties:
+    version: 1.5.17
+    publishDate: '2020-06-11T03:27:26.639Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: bugatti-1@20-0-1
+  title: bugatti-1@20-0-1
+  properties:
+    version: 20.0.1
+    publishDate: '2022-07-04T02:40:56.496Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: toyota-volt@9-18-11
+  title: toyota-volt@9-18-11
+  properties:
+    version: 9.18.11
+    publishDate: '2022-06-13T00:38:38.670Z'
+  relations:
+    versionOf: toyota-volt
+- blueprint: PackageVersion
+  identifier: bugatti-1@6-17-5
+  title: bugatti-1@6-17-5
+  properties:
+    version: 6.17.5
+    publishDate: '2022-07-07T12:32:43.125Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@4-12-8
+  title: bugatti-1@4-12-8
+  properties:
+    version: 4.12.8
+    publishDate: '2019-09-18T22:05:01.208Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@6-4-3
+  title: bugatti-1@6-4-3
+  properties:
+    version: 6.4.3
+    publishDate: '2023-02-07T04:23:22.053Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@4-13-5
+  title: bugatti-1@4-13-5
+  properties:
+    version: 4.13.5
+    publishDate: '2022-12-28T06:25:40.048Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@17-12-19
+  title: bugatti-1@17-12-19
+  properties:
+    version: 17.12.19
+    publishDate: '2021-01-26T17:42:16.900Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@15-2-11
+  title: bugatti-1@15-2-11
+  properties:
+    version: 15.2.11
+    publishDate: '2021-09-28T18:05:58.806Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@1-6-7
+  title: bugatti-1@1-6-7
+  properties:
+    version: 1.6.7
+    publishDate: '2023-06-19T09:42:48.696Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@3-11-8
+  title: bugatti-1@3-11-8
+  properties:
+    version: 3.11.8
+    publishDate: '2022-09-07T12:11:59.564Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@11-19-12
+  title: bugatti-1@11-19-12
+  properties:
+    version: 11.19.12
+    publishDate: '2020-02-18T00:15:05.404Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@18-14-18
+  title: bugatti-1@18-14-18
+  properties:
+    version: 18.14.18
+    publishDate: '2019-11-05T03:02:48.877Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@18-6-12
+  title: bugatti-1@18-6-12
+  properties:
+    version: 18.6.12
+    publishDate: '2019-01-03T10:42:39.176Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@11-8-19
+  title: bugatti-1@11-8-19
+  properties:
+    version: 11.8.19
+    publishDate: '2020-08-30T23:11:07.434Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@18-20-11
+  title: bugatti-1@18-20-11
+  properties:
+    version: 18.20.11
+    publishDate: '2021-10-02T05:08:51.000Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@9-20-9
+  title: bugatti-1@9-20-9
+  properties:
+    version: 9.20.9
+    publishDate: '2018-09-02T15:29:31.089Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@3-15-1
+  title: bugatti-1@3-15-1
+  properties:
+    version: 3.15.1
+    publishDate: '2021-09-07T12:59:02.028Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@11-3-8
+  title: bugatti-1@11-3-8
+  properties:
+    version: 11.3.8
+    publishDate: '2022-02-12T07:08:01.172Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@13-7-9
+  title: bugatti-1@13-7-9
+  properties:
+    version: 13.7.9
+    publishDate: '2021-01-08T06:55:19.391Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@18-2-6
+  title: bugatti-1@18-2-6
+  properties:
+    version: 18.2.6
+    publishDate: '2020-02-04T00:05:44.187Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@3-15-12
+  title: bugatti-1@3-15-12
+  properties:
+    version: 3.15.12
+    publishDate: '2019-06-24T12:59:59.711Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@15-13-20
+  title: bugatti-1@15-13-20
+  properties:
+    version: 15.13.20
+    publishDate: '2018-07-29T12:00:19.273Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@15-18-3
+  title: bugatti-1@15-18-3
+  properties:
+    version: 15.18.3
+    publishDate: '2022-08-09T15:20:52.354Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@9-1-2
+  title: bugatti-1@9-1-2
+  properties:
+    version: 9.1.2
+    publishDate: '2022-07-22T02:31:10.648Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@10-17-20
+  title: bugatti-1@10-17-20
+  properties:
+    version: 10.17.20
+    publishDate: '2022-12-31T05:54:53.902Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@0-7-16
+  title: bugatti-1@0-7-16
+  properties:
+    version: 0.7.16
+    publishDate: '2019-04-24T07:47:57.974Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@5-13-6
+  title: bugatti-1@5-13-6
+  properties:
+    version: 5.13.6
+    publishDate: '2019-01-01T10:42:13.690Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@7-17-12
+  title: bugatti-1@7-17-12
+  properties:
+    version: 7.17.12
+    publishDate: '2019-01-14T01:08:47.906Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@10-12-13
+  title: bugatti-1@10-12-13
+  properties:
+    version: 10.12.13
+    publishDate: '2019-04-19T16:12:51.177Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@1-8-12
+  title: bugatti-1@1-8-12
+  properties:
+    version: 1.8.12
+    publishDate: '2023-04-10T17:51:27.749Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@4-18-11
+  title: bugatti-1@4-18-11
+  properties:
+    version: 4.18.11
+    publishDate: '2022-08-31T21:46:07.306Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@0-15-8
+  title: bugatti-1@0-15-8
+  properties:
+    version: 0.15.8
+    publishDate: '2019-02-02T20:09:56.448Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@4-5-7
+  title: bugatti-1@4-5-7
+  properties:
+    version: 4.5.7
+    publishDate: '2018-10-21T22:10:17.246Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@6-13-10
+  title: bugatti-1@6-13-10
+  properties:
+    version: 6.13.10
+    publishDate: '2020-04-14T19:45:22.584Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@7-9-12
+  title: bugatti-1@7-9-12
+  properties:
+    version: 7.9.12
+    publishDate: '2020-08-01T11:07:08.192Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@15-17-19
+  title: bugatti-1@15-17-19
+  properties:
+    version: 15.17.19
+    publishDate: '2019-06-10T21:11:52.618Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@4-13-8
+  title: bugatti-1@4-13-8
+  properties:
+    version: 4.13.8
+    publishDate: '2022-11-04T21:53:47.127Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@10-17-8
+  title: bugatti-1@10-17-8
+  properties:
+    version: 10.17.8
+    publishDate: '2019-05-07T15:31:18.692Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@18-9-13
+  title: bugatti-1@18-9-13
+  properties:
+    version: 18.9.13
+    publishDate: '2023-05-30T12:28:11.065Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@15-16-10
+  title: bugatti-1@15-16-10
+  properties:
+    version: 15.16.10
+    publishDate: '2020-10-27T08:10:40.259Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@11-12-3
+  title: rolls-royce-xc-90@11-12-3
+  properties:
+    version: 11.12.3
+    publishDate: '2020-02-16T04:18:10.232Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: bugatti-1@4-11-1
+  title: bugatti-1@4-11-1
+  properties:
+    version: 4.11.1
+    publishDate: '2022-04-22T20:30:31.381Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: bugatti-1@15-3-3
+  title: bugatti-1@15-3-3
+  properties:
+    version: 15.3.3
+    publishDate: '2023-06-10T22:06:28.240Z'
+  relations:
+    versionOf: bugatti-1
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@1-4-13
+  title: rolls-royce-xc-90@1-4-13
+  properties:
+    version: 1.4.13
+    publishDate: '2021-04-03T16:39:06.629Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@12-10-16
+  title: rolls-royce-xc-90@12-10-16
+  properties:
+    version: 12.10.16
+    publishDate: '2019-07-15T00:15:47.933Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@12-14-14
+  title: rolls-royce-xc-90@12-14-14
+  properties:
+    version: 12.14.14
+    publishDate: '2023-03-29T13:09:00.358Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@3-18-3
+  title: rolls-royce-xc-90@3-18-3
+  properties:
+    version: 3.18.3
+    publishDate: '2020-09-22T21:32:19.709Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@12-17-9
+  title: rolls-royce-xc-90@12-17-9
+  properties:
+    version: 12.17.9
+    publishDate: '2020-02-26T15:45:08.173Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@12-19-14
+  title: rolls-royce-xc-90@12-19-14
+  properties:
+    version: 12.19.14
+    publishDate: '2022-07-03T15:45:05.634Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@15-5-18
+  title: rolls-royce-xc-90@15-5-18
+  properties:
+    version: 15.5.18
+    publishDate: '2022-09-05T20:24:42.714Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@19-0-5
+  title: rolls-royce-xc-90@19-0-5
+  properties:
+    version: 19.0.5
+    publishDate: '2023-03-26T14:43:28.306Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@18-8-14
+  title: rolls-royce-xc-90@18-8-14
+  properties:
+    version: 18.8.14
+    publishDate: '2021-12-12T00:17:14.294Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@3-20-13
+  title: rolls-royce-xc-90@3-20-13
+  properties:
+    version: 3.20.13
+    publishDate: '2021-08-28T23:14:24.092Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@7-16-13
+  title: rolls-royce-xc-90@7-16-13
+  properties:
+    version: 7.16.13
+    publishDate: '2021-12-22T21:32:56.816Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@15-11-1
+  title: rolls-royce-xc-90@15-11-1
+  properties:
+    version: 15.11.1
+    publishDate: '2020-05-23T10:26:20.118Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@18-17-1
+  title: rolls-royce-xc-90@18-17-1
+  properties:
+    version: 18.17.1
+    publishDate: '2019-09-14T10:29:35.165Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@18-10-20
+  title: rolls-royce-xc-90@18-10-20
+  properties:
+    version: 18.10.20
+    publishDate: '2020-07-07T14:27:17.752Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@19-13-8
+  title: rolls-royce-xc-90@19-13-8
+  properties:
+    version: 19.13.8
+    publishDate: '2021-12-14T02:18:18.929Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@18-12-2
+  title: rolls-royce-xc-90@18-12-2
+  properties:
+    version: 18.12.2
+    publishDate: '2019-11-01T12:51:16.256Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@13-5-15
+  title: rolls-royce-xc-90@13-5-15
+  properties:
+    version: 13.5.15
+    publishDate: '2020-02-03T14:18:46.882Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@7-19-9
+  title: rolls-royce-xc-90@7-19-9
+  properties:
+    version: 7.19.9
+    publishDate: '2019-12-14T10:20:44.582Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@12-19-12
+  title: rolls-royce-xc-90@12-19-12
+  properties:
+    version: 12.19.12
+    publishDate: '2019-01-17T20:51:20.254Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@20-18-12
+  title: rolls-royce-xc-90@20-18-12
+  properties:
+    version: 20.18.12
+    publishDate: '2018-11-20T17:51:52.290Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@18-17-12
+  title: rolls-royce-xc-90@18-17-12
+  properties:
+    version: 18.17.12
+    publishDate: '2018-06-29T05:42:14.090Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@8-15-1
+  title: rolls-royce-xc-90@8-15-1
+  properties:
+    version: 8.15.1
+    publishDate: '2018-10-30T11:40:43.552Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@17-9-13
+  title: rolls-royce-xc-90@17-9-13
+  properties:
+    version: 17.9.13
+    publishDate: '2020-04-10T19:29:00.722Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@17-15-15
+  title: rolls-royce-xc-90@17-15-15
+  properties:
+    version: 17.15.15
+    publishDate: '2020-01-18T04:01:59.452Z'
+  relations:
+    versionOf: rolls-royce-xc-90
+- blueprint: PackageVersion
+  identifier: rolls-royce-xc-90@0-3-10
+  title: rolls-royce-xc-90@0-3-10
+  properties:
+    version: 0.3.10
+    publishDate: '2022-09-02T10:35:39.446Z'
+  relations:
+    versionOf: rolls-royce-xc-90

@@ -1,0 +1,650 @@
+- blueprint: Service
+  identifier: wonder-woman-service
+  title: wonder-woman-service
+  properties:
+    latestVersion: 2.6.15
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/wonder-woman-service
+  relations:
+    using: daredevil-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: x-23-service
+  title: x-23-service
+  properties:
+    latestVersion: 3.14.15
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/x-23-service
+  relations:
+    using: punisher-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: spider-man-service
+  title: spider-man-service
+  properties:
+    latestVersion: 11.20.18
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/spider-man-service
+  relations:
+    using: ice-service
+  team: The Godfather
+- blueprint: Service
+  identifier: captain-atom-service
+  title: captain-atom-service
+  properties:
+    latestVersion: 7.13.17
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-atom-service
+  relations:
+    using: null
+  team: On the Waterfront
+- blueprint: Service
+  identifier: batman-service
+  title: batman-service
+  properties:
+    latestVersion: 17.5.7
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/batman-service
+  relations:
+    using: spider-man-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: rogue-service
+  title: rogue-service
+  properties:
+    latestVersion: 18.18.3
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/rogue-service
+  relations:
+    using: wonder-woman-service
+  team: Rashomon
+- blueprint: Service
+  identifier: lady-blackhawk-service
+  title: lady-blackhawk-service
+  properties:
+    latestVersion: 5.12.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/lady-blackhawk-service
+  relations:
+    using: scarlet-witch-service
+  team: Modern Times
+- blueprint: Service
+  identifier: wolverine-service
+  title: wolverine-service
+  properties:
+    latestVersion: 11.17.0
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/wolverine-service
+  relations:
+    using: thor-service
+  team: Casino
+- blueprint: Service
+  identifier: blink-service
+  title: blink-service
+  properties:
+    latestVersion: 8.13.8
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/blink-service
+  relations:
+    using: green-lantern-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: jade-service
+  title: jade-service
+  properties:
+    latestVersion: 7.10.14
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/jade-service
+  relations:
+    using: supergirl-service
+  team: Catch Me If You Can
+- blueprint: Service
+  identifier: carol-danvers-service
+  title: carol-danvers-service
+  properties:
+    latestVersion: 18.6.9
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/carol-danvers-service
+  relations:
+    using: null
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: green-lantern-service
+  title: green-lantern-service
+  properties:
+    latestVersion: 6.7.6
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/green-lantern-service
+  relations:
+    using: captain-america-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: frog-thor-service
+  title: frog-thor-service
+  properties:
+    latestVersion: 7.3.1
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/frog-thor-service
+  relations:
+    using: invisible-woman-service
+  team: Singin' in the Rain
+- blueprint: Service
+  identifier: punisher-service
+  title: punisher-service
+  properties:
+    latestVersion: 19.8.15
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/punisher-service
+  relations:
+    using: huntress-service
+  team: Casino
+- blueprint: Service
+  identifier: black-lightning-service
+  title: black-lightning-service
+  properties:
+    latestVersion: 2.15.6
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/black-lightning-service
+  relations:
+    using: jade-service
+  team: Rashomon
+- blueprint: Service
+  identifier: doctor-strange-service
+  title: doctor-strange-service
+  properties:
+    latestVersion: 4.13.4
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/doctor-strange-service
+  relations:
+    using: spider-man-service
+  team: Rashomon
+- blueprint: Service
+  identifier: huntress-service
+  title: huntress-service
+  properties:
+    latestVersion: 6.3.9
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/huntress-service
+  relations:
+    using: aquaman-service
+  team: Chinatown
+- blueprint: Service
+  identifier: gamora-service
+  title: gamora-service
+  properties:
+    latestVersion: 15.20.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/gamora-service
+  relations:
+    using: supergirl-service
+  team: Singin' in the Rain
+- blueprint: Service
+  identifier: captain-america-service
+  title: captain-america-service
+  properties:
+    latestVersion: 14.3.10
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/captain-america-service
+  relations:
+    using: null
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: green-arrow-service
+  title: green-arrow-service
+  properties:
+    latestVersion: 19.16.2
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/green-arrow-service
+  relations:
+    using: null
+  team: On the Waterfront
+- blueprint: Service
+  identifier: black-canary-service
+  title: black-canary-service
+  properties:
+    latestVersion: 2.2.3
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/black-canary-service
+  relations:
+    using: spider-man-service
+  team: Requiem for a Dream
+- blueprint: Service
+  identifier: hawk-service
+  title: hawk-service
+  properties:
+    latestVersion: 6.3.4
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/hawk-service
+  relations:
+    using: cypher-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: aquaman-service
+  title: aquaman-service
+  properties:
+    latestVersion: 13.0.13
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/aquaman-service
+  relations:
+    using: null
+  team: On the Waterfront
+- blueprint: Service
+  identifier: martian-manhunter-service
+  title: martian-manhunter-service
+  properties:
+    latestVersion: 9.7.19
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/martian-manhunter-service
+  relations:
+    using: gambit-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: scarlet-witch-service
+  title: scarlet-witch-service
+  properties:
+    latestVersion: 12.5.2
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/scarlet-witch-service
+  relations:
+    using: cypher-service
+  team: Modern Times
+- blueprint: Service
+  identifier: hawkgirl-service
+  title: hawkgirl-service
+  properties:
+    latestVersion: 11.12.17
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/hawkgirl-service
+  relations:
+    using: black-widow-service
+  team: Casino
+- blueprint: Service
+  identifier: elektra-service
+  title: elektra-service
+  properties:
+    latestVersion: 7.19.16
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/elektra-service
+  relations:
+    using: the-atom-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: power-girl-service
+  title: power-girl-service
+  properties:
+    latestVersion: 13.13.16
+    language: Python
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/power-girl-service
+  relations:
+    using: elektra-service
+  team: Chinatown
+- blueprint: Service
+  identifier: superman-service
+  title: superman-service
+  properties:
+    latestVersion: 1.7.20
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/superman-service
+  relations:
+    using: hawkman-service
+  team: The Godfather
+- blueprint: Service
+  identifier: daredevil-service
+  title: daredevil-service
+  properties:
+    latestVersion: 15.9.20
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/daredevil-service
+  relations:
+    using: moon-knight-service
+  team: The Godfather
+- blueprint: Service
+  identifier: black-panther-service
+  title: black-panther-service
+  properties:
+    latestVersion: 16.19.18
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/black-panther-service
+  relations:
+    using: the-atom-service
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: hawkman-service
+  title: hawkman-service
+  properties:
+    latestVersion: 4.14.13
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/hawkman-service
+  relations:
+    using: superman-service
+  team: Rashomon
+- blueprint: Service
+  identifier: moon-knight-service
+  title: moon-knight-service
+  properties:
+    latestVersion: 14.19.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/moon-knight-service
+  relations:
+    using: captain-atom-service
+  team: Catch Me If You Can
+- blueprint: Service
+  identifier: black-widow-service
+  title: black-widow-service
+  properties:
+    latestVersion: 18.4.8
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: Python
+    repo: https://github.com/port-labs/black-widow-service
+  relations:
+    using: daredevil-service
+  team: The Godfather
+- blueprint: Service
+  identifier: wasp-service
+  title: wasp-service
+  properties:
+    latestVersion: 4.20.15
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/wasp-service
+  relations:
+    using: hawk-service
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: she-hulk-service
+  title: she-hulk-service
+  properties:
+    latestVersion: 17.11.1
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/she-hulk-service
+  relations:
+    using: spider-man-service
+  team: Modern Times
+- blueprint: Service
+  identifier: the-atom-service
+  title: the-atom-service
+  properties:
+    latestVersion: 14.12.13
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-atom-service
+  relations:
+    using: null
+  team: Casino
+- blueprint: Service
+  identifier: storm-service
+  title: storm-service
+  properties:
+    latestVersion: 9.16.18
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/storm-service
+  relations:
+    using: lady-blackhawk-service
+  team: Casino
+- blueprint: Service
+  identifier: iron-man-service
+  title: iron-man-service
+  properties:
+    latestVersion: 8.17.5
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/iron-man-service
+  relations:
+    using: supergirl-service
+  team: The Godfather
+- blueprint: Service
+  identifier: cypher-service
+  title: cypher-service
+  properties:
+    latestVersion: 7.12.17
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/cypher-service
+  relations:
+    using: hawkman-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: invisible-woman-service
+  title: invisible-woman-service
+  properties:
+    latestVersion: 16.12.8
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: TypeScript
+    repo: https://github.com/port-labs/invisible-woman-service
+  relations:
+    using: x-23-service
+  team: Requiem for a Dream
+- blueprint: Service
+  identifier: supergirl-service
+  title: supergirl-service
+  properties:
+    latestVersion: 8.2.7
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/supergirl-service
+  relations:
+    using: scarlet-witch-service
+  team: Catch Me If You Can
+- blueprint: Service
+  identifier: silver-sable-service
+  title: silver-sable-service
+  properties:
+    latestVersion: 5.19.11
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/silver-sable-service
+  relations:
+    using: wolverine-service
+  team: On the Waterfront
+- blueprint: Service
+  identifier: thor-service
+  title: thor-service
+  properties:
+    latestVersion: 10.17.7
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: TypeScript
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/thor-service
+  relations:
+    using: captain-atom-service
+  team: Modern Times
+- blueprint: Service
+  identifier: batgirl-service
+  title: batgirl-service
+  properties:
+    latestVersion: 8.3.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Python
+    two_hops_service_language: Ruby
+    repo: https://github.com/port-labs/batgirl-service
+  relations:
+    using: deadpool-service
+  team: Casino
+- blueprint: Service
+  identifier: deadpool-service
+  title: deadpool-service
+  properties:
+    latestVersion: 9.3.4
+    language: Python
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/deadpool-service
+  relations:
+    using: spider-man-service
+  team: Singin' in the Rain
+- blueprint: Service
+  identifier: gambit-service
+  title: gambit-service
+  properties:
+    latestVersion: 17.11.12
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: null
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/gambit-service
+  relations:
+    using: null
+  team: The Godfather
+- blueprint: Service
+  identifier: ice-service
+  title: ice-service
+  properties:
+    latestVersion: 3.16.8
+    language: JavaScript
+    code-owners: null
+    one_hop_service_language: JavaScript
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/ice-service
+  relations:
+    using: rogue-service
+  team: Witness for the Prosecution
+- blueprint: Service
+  identifier: kitty-pryde-service
+  title: kitty-pryde-service
+  properties:
+    latestVersion: 2.11.5
+    language: TypeScript
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: JavaScript
+    repo: https://github.com/port-labs/kitty-pryde-service
+  relations:
+    using: supergirl-service
+  team: Rashomon
+- blueprint: Service
+  identifier: the-flash-service
+  title: the-flash-service
+  properties:
+    latestVersion: 16.19.10
+    language: Ruby
+    code-owners: null
+    one_hop_service_language: Ruby
+    two_hops_service_language: null
+    repo: https://github.com/port-labs/the-flash-service
+  relations:
+    using: green-arrow-service
+  team: Casino

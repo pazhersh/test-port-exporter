@@ -1,500 +1,100 @@
-- blueprint: Env
-  identifier: roy-orbison
-  title: roy-orbison
+- blueprint: Cluster
+  identifier: llunca-de-gallina
+  title: llunca-de-gallina
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/7,n,0,q,6,7,7,w,w,y
-  relations:
-    deployedAt: edamame
+    prometheus_url: >-
+      https://prometheus.com/2760,235285,809611,255326,841529,467089,137930,577523,54734,392633
+    studio: Giant Schnauzer
+    kconfig: Affenpinscher
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: elvis-presley
-  title: elvis-presley
+- blueprint: Cluster
+  identifier: boquerones-al-vinagre
+  title: boquerones-al-vinagre
   properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/r,9,2,5,z,s,4,7,j,h
-  relations:
-    deployedAt: boquerones-al-vinagre
+    prometheus_url: >-
+      https://prometheus.com/624150,445218,535209,137757,230096,481957,166211,148004,723086,140049
+    studio: Garafian Shepherd
+    kconfig: Denmark Feist
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: mavis-staples
-  title: mavis-staples
+- blueprint: Cluster
+  identifier: edamame
+  title: edamame
   properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/h,r,w,5,h,r,z,t,4,8
-  relations:
-    deployedAt: donburi
+    prometheus_url: >-
+      https://prometheus.com/199984,487857,280003,814256,740490,348297,892518,373326,226366,582128
+    studio: Hygen Hound
+    kconfig: Boykin Spaniel
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: art-garfunkel
-  title: art-garfunkel
+- blueprint: Cluster
+  identifier: milanesas
+  title: milanesas
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/w,2,v,u,w,b,y,7,s,n
-  relations:
-    deployedAt: llunca-de-gallina
+    prometheus_url: >-
+      https://prometheus.com/339079,458783,296064,48515,904713,408150,896207,774873,506342,415041
+    studio: English Toy Terrier
+    kconfig: Denmark Feist
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: morrissey
-  title: morrissey
+- blueprint: Cluster
+  identifier: bocadillo-de-calamares
+  title: bocadillo-de-calamares
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/3,4,k,d,3,1,6,b,u,z
-  relations:
-    deployedAt: bondiola
+    prometheus_url: >-
+      https://prometheus.com/24355,580303,331088,459973,899997,989887,656178,300813,125535,185242
+    studio: Hygen Hound
+    kconfig: Doberman Pinscher
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: van-morrison
-  title: van-morrison
+- blueprint: Cluster
+  identifier: caraotas-negras
+  title: caraotas-negras
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/l,l,8,b,7,6,3,5,i,e
-  relations:
-    deployedAt: patacones
+    prometheus_url: >-
+      https://prometheus.com/551210,814404,95946,858698,600490,20031,624245,682293,174152,930247
+    studio: Giant Schnauzer
+    kconfig: Kishu
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: mick-jagger
-  title: mick-jagger
+- blueprint: Cluster
+  identifier: bondiola
+  title: bondiola
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/6,k,w,p,j,3,l,i,y,q
-  relations:
-    deployedAt: bondiola
+    prometheus_url: >-
+      https://prometheus.com/687927,68119,169768,66424,701319,806466,155890,909127,389364,950077
+    studio: Affenpinscher
+    kconfig: Basset Fauve de Bretagne
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: david-bowie
-  title: david-bowie
+- blueprint: Cluster
+  identifier: patacones
+  title: patacones
   properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/w,m,5,l,1,4,7,8,g,7
-  relations:
-    deployedAt: boquerones-al-vinagre
+    prometheus_url: >-
+      https://prometheus.com/457139,429817,191504,679395,891168,725839,643545,225900,510046,27476
+    studio: Golden Retriever
+    kconfig: Golden Retriever
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: john-lee-hooker
-  title: john-lee-hooker
+- blueprint: Cluster
+  identifier: donburi
+  title: donburi
   properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/z,3,2,s,8,q,7,k,5,0
-  relations:
-    deployedAt: boquerones-al-vinagre
+    prometheus_url: >-
+      https://prometheus.com/12532,651674,834797,781008,339505,99104,164802,485371,991277,896437
+    studio: Basset Fauve de Bretagne
+    kconfig: French Poodle
+  relations: {}
   team: []
-- blueprint: Env
-  identifier: sam-moore
-  title: sam-moore
+- blueprint: Cluster
+  identifier: sopa-de-patas
+  title: sopa-de-patas
   properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/g,3,z,v,l,z,5,2,9,5
-  relations:
-    deployedAt: boquerones-al-vinagre
-  team: []
-- blueprint: Env
-  identifier: levon-helm
-  title: levon-helm
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/1,w,1,8,7,4,9,3,v,d
-  relations:
-    deployedAt: donburi
-  team: []
-- blueprint: Env
-  identifier: dusty-springfield
-  title: dusty-springfield
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/8,4,t,3,8,0,7,q,n,3
-  relations:
-    deployedAt: edamame
-  team: []
-- blueprint: Env
-  identifier: neil-young
-  title: neil-young
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/3,t,7,6,d,9,p,2,2,q
-  relations:
-    deployedAt: bocadillo-de-calamares
-  team: []
-- blueprint: Env
-  identifier: roger-daltrey
-  title: roger-daltrey
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/1,7,g,5,y,2,5,2,4,2
-  relations:
-    deployedAt: donburi
-  team: []
-- blueprint: Env
-  identifier: christina-aguilera
-  title: christina-aguilera
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/s,5,7,y,d,5,4,1,n,1
-  relations:
-    deployedAt: patacones
-  team: []
-- blueprint: Env
-  identifier: donny-hathaway
-  title: donny-hathaway
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/7,g,9,6,f,5,3,f,5,5
-  relations:
-    deployedAt: llunca-de-gallina
-  team: []
-- blueprint: Env
-  identifier: kurt-cobain
-  title: kurt-cobain
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/7,m,i,a,6,h,2,c,0,4
-  relations:
-    deployedAt: caraotas-negras
-  team: []
-- blueprint: Env
-  identifier: frankie-valli
-  title: frankie-valli
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/8,l,o,m,2,5,r,1,w,s
-  relations:
-    deployedAt: sopa-de-patas
-  team: []
-- blueprint: Env
-  identifier: bob-marley
-  title: bob-marley
-  properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/i,r,x,a,t,v,f,s,6,s
-  relations:
-    deployedAt: llunca-de-gallina
-  team: []
-- blueprint: Env
-  identifier: marvin-gaye
-  title: marvin-gaye
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/5,7,1,1,1,5,h,8,8,7
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: bobby-blue-bland
-  title: bobby-blue-bland
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/5,l,k,7,7,3,j,5,d,1
-  relations:
-    deployedAt: boquerones-al-vinagre
-  team: []
-- blueprint: Env
-  identifier: patsy-cline
-  title: patsy-cline
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/8,0,i,e,f,a,3,5,3,1
-  relations:
-    deployedAt: edamame
-  team: []
-- blueprint: Env
-  identifier: bjork
-  title: bjork
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/w,2,4,k,k,7,q,2,4,1
-  relations:
-    deployedAt: milanesas
-  team: []
-- blueprint: Env
-  identifier: bono
-  title: bono
-  properties:
-    role: production
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/3,c,5,6,l,e,r,d,t,5
-  relations:
-    deployedAt: llunca-de-gallina
-  team: []
-- blueprint: Env
-  identifier: don-henley
-  title: don-henley
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/e,2,7,7,c,1,9,a,e,5
-  relations:
-    deployedAt: boquerones-al-vinagre
-  team: []
-- blueprint: Env
-  identifier: buddy-holly
-  title: buddy-holly
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/s,p,g,c,q,j,7,g,e,6
-  relations:
-    deployedAt: sopa-de-patas
-  team: []
-- blueprint: Env
-  identifier: chuck-berry
-  title: chuck-berry
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/2,7,1,v,5,u,w,f,w,q
-  relations:
-    deployedAt: donburi
-  team: []
-- blueprint: Env
-  identifier: michael-jackson
-  title: michael-jackson
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/b,5,o,7,5,1,9,0,8,9
-  relations:
-    deployedAt: milanesas
-  team: []
-- blueprint: Env
-  identifier: patti-la-belle
-  title: patti-la-belle
-  properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/3,b,s,x,x,h,8,0,0,4
-  relations:
-    deployedAt: caraotas-negras
-  team: []
-- blueprint: Env
-  identifier: dolly-parton
-  title: dolly-parton
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/g,1,v,1,1,o,q,p,i,p
-  relations:
-    deployedAt: sopa-de-patas
-  team: []
-- blueprint: Env
-  identifier: al-green
-  title: al-green
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/3,8,6,2,5,g,s,1,o,4
-  relations:
-    deployedAt: edamame
-  team: []
-- blueprint: Env
-  identifier: prince
-  title: prince
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/3,b,k,g,o,3,r,8,f,q
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: iggy-pop
-  title: iggy-pop
-  properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/0,n,5,6,2,5,t,7,3,2
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: curtis-mayfield
-  title: curtis-mayfield
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/k,6,7,z,3,s,8,7,e,4
-  relations:
-    deployedAt: edamame
-  team: []
-- blueprint: Env
-  identifier: toots-hibbert
-  title: toots-hibbert
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/6,3,n,5,5,l,1,8,2,3
-  relations:
-    deployedAt: milanesas
-  team: []
-- blueprint: Env
-  identifier: paul-rodgers
-  title: paul-rodgers
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/6,7,n,8,g,0,d,z,3,6
-  relations:
-    deployedAt: llunca-de-gallina
-  team: []
-- blueprint: Env
-  identifier: karen-carpenter
-  title: karen-carpenter
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/1,n,1,1,k,4,t,u,2,9
-  relations:
-    deployedAt: edamame
-  team: []
-- blueprint: Env
-  identifier: bonnie-raitt
-  title: bonnie-raitt
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/6,k,8,a,1,4,0,4,u,b
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: little-richard
-  title: little-richard
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/2,r,5,s,h,1,4,v,m,l
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: john-fogerty
-  title: john-fogerty
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/5,8,6,9,g,q,k,w,7,8
-  relations:
-    deployedAt: milanesas
-  team: []
-- blueprint: Env
-  identifier: muddy-waters
-  title: muddy-waters
-  properties:
-    role: staging
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/7,t,3,z,d,5,4,h,7,j
-  relations:
-    deployedAt: caraotas-negras
-  team: []
-- blueprint: Env
-  identifier: sly-stone
-  title: sly-stone
-  properties:
-    role: staging
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/6,3,o,2,6,p,d,e,f,5
-  relations:
-    deployedAt: boquerones-al-vinagre
-  team: []
-- blueprint: Env
-  identifier: patti-smith
-  title: patti-smith
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/3,b,x,w,l,4,g,h,8,y
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: wilson-pickett
-  title: wilson-pickett
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/4,z,4,h,v,6,i,6,t,l
-  relations:
-    deployedAt: bocadillo-de-calamares
-  team: []
-- blueprint: Env
-  identifier: mariah-carey
-  title: mariah-carey
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/5,6,3,d,w,9,6,j,b,6
-  relations:
-    deployedAt: bondiola
-  team: []
-- blueprint: Env
-  identifier: robert-plant
-  title: robert-plant
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/6,r,2,s,0,3,z,0,q,4
-  relations:
-    deployedAt: llunca-de-gallina
-  team: []
-- blueprint: Env
-  identifier: lou-reed
-  title: lou-reed
-  properties:
-    role: dev
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/5,2,q,q,q,t,2,5,l,2
-  relations:
-    deployedAt: donburi
-  team: []
-- blueprint: Env
-  identifier: howlin-wolf
-  title: howlin-wolf
-  properties:
-    role: production
-    nightlyShutdown: false
-    slackChannelUrl: https://getport.slack.com/archives/y,q,n,3,4,a,d,9,u,9
-  relations:
-    deployedAt: boquerones-al-vinagre
-  team: []
-- blueprint: Env
-  identifier: thom-yorke
-  title: thom-yorke
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/n,7,4,a,7,3,4,5,h,j
-  relations:
-    deployedAt: milanesas
-  team: []
-- blueprint: Env
-  identifier: jackie-wilson
-  title: jackie-wilson
-  properties:
-    role: dev
-    nightlyShutdown: true
-    slackChannelUrl: https://getport.slack.com/archives/h,o,3,b,5,c,f,7,6,c
-  relations:
-    deployedAt: boquerones-al-vinagre
+    prometheus_url: >-
+      https://prometheus.com/785170,735296,421637,684702,118343,635635,359366,340407,343709,903368
+    studio: Garafian Shepherd
+    kconfig: Jack Russell Terrier
+  relations: {}
   team: []

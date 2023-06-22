@@ -1,800 +1,605 @@
-- blueprint: Service
-  identifier: scarlet-witch-service
-  title: scarlet-witch-service
+- blueprint: Package
+  identifier: smart-focus
   properties:
-    latestVersion: 17.8.5
-    language: Python
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/scarlet-witch-service
-  relations:
-    using: null
-  team:
-    - The Lion King
-- blueprint: Service
-  identifier: spider-man-service
-  title: spider-man-service
+    docsUrl: https://et.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-fiesta
   properties:
-    latestVersion: 18.6.8
-    language: Python
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/spider-man-service
-  relations:
-    using: wasp-service
-  team:
-    - Full Metal Jacket
-- blueprint: Service
-  identifier: supergirl-service
-  title: supergirl-service
+    docsUrl: https://labore.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mazda-challenger
   properties:
-    latestVersion: 2.12.9
-    language: Python
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/supergirl-service
-  relations:
-    using: frog-thor-service
-  team:
-    - 12 Years a Slave
-    - Unforgiven
-- blueprint: Service
-  identifier: black-canary-service
-  title: black-canary-service
+    docsUrl: http://labore.io
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: hyundai-roadster
   properties:
-    latestVersion: 7.5.14
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/black-canary-service
-  relations:
-    using: null
-  team:
-    - Once Upon a Time in the West
-    - The Apartment
-    - Django Unchained
-    - The Lion King
-- blueprint: Service
-  identifier: green-arrow-service
-  title: green-arrow-service
+    docsUrl: http://asperiores.info
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-1
   properties:
-    latestVersion: 18.8.15
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/green-arrow-service
-  relations:
-    using: storm-service
-  team:
-    - Once Upon a Time in the West
-    - Unforgiven
-- blueprint: Service
-  identifier: batgirl-service
-  title: batgirl-service
+    docsUrl: http://aliquid.com
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-challenger
   properties:
-    latestVersion: 5.17.14
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/batgirl-service
-  relations:
-    using: carol-danvers-service
-  team:
-    - There Will Be Blood
-- blueprint: Service
-  identifier: storm-service
-  title: storm-service
+    docsUrl: http://rerum.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: kia-spyder
   properties:
-    latestVersion: 18.10.4
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/storm-service
-  relations:
-    using: green-arrow-service
-  team:
-    - Once Upon a Time in the West
-    - Unforgiven
-    - Paths of Glory
-- blueprint: Service
-  identifier: captain-atom-service
-  title: captain-atom-service
+    docsUrl: https://sit.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mini-explorer
   properties:
-    latestVersion: 10.10.16
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/captain-atom-service
-  relations:
-    using: black-widow-service
-  team:
-    - Unforgiven
-    - There Will Be Blood
-    - Paths of Glory
-- blueprint: Service
-  identifier: thor-service
-  title: thor-service
+    docsUrl: https://sunt.biz
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-corvette
   properties:
-    latestVersion: 12.12.1
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/thor-service
-  relations:
-    using: elektra-service
-  team:
-    - Full Metal Jacket
-    - The Sound of Music
-    - The Apartment
-- blueprint: Service
-  identifier: captain-america-service
-  title: captain-america-service
+    docsUrl: https://id.dev
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: chevrolet-malibu
   properties:
-    latestVersion: 15.10.5
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/captain-america-service
-  relations:
-    using: null
-  team:
-    - Django Unchained
-    - There Will Be Blood
-    - The Lion King
-    - The Apartment
-- blueprint: Service
-  identifier: power-girl-service
-  title: power-girl-service
+    docsUrl: https://sequi.name
+    packageManager: PIP
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: ford-camry
   properties:
-    latestVersion: 16.11.8
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/power-girl-service
-  relations:
-    using: lady-blackhawk-service
-  team:
-    - 12 Years a Slave
-    - There Will Be Blood
-- blueprint: Service
-  identifier: invisible-woman-service
-  title: invisible-woman-service
+    docsUrl: http://doloribus.org
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-spyder
   properties:
-    latestVersion: 9.6.6
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/invisible-woman-service
-  relations:
-    using: green-arrow-service
-  team:
-    - Paths of Glory
-    - The Sound of Music
-    - The Apartment
-- blueprint: Service
-  identifier: green-lantern-service
-  title: green-lantern-service
+    docsUrl: https://id.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-volt
   properties:
-    latestVersion: 15.12.20
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/green-lantern-service
-  relations:
-    using: green-arrow-service
-  team:
-    - Once Upon a Time in the West
-    - Paths of Glory
-    - The Apartment
-- blueprint: Service
-  identifier: wolverine-service
-  title: wolverine-service
+    docsUrl: https://labore.dev
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: lamborghini-prius
   properties:
-    latestVersion: 19.12.16
-    language: Python
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/wolverine-service
-  relations:
-    using: supergirl-service
-  team:
-    - Once Upon a Time in the West
-    - Unforgiven
-    - The Sound of Music
-    - There Will Be Blood
-    - Full Metal Jacket
-- blueprint: Service
-  identifier: carol-danvers-service
-  title: carol-danvers-service
+    docsUrl: http://beatae.org
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: rolls-royce-xc-90
   properties:
-    latestVersion: 18.17.18
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/carol-danvers-service
-  relations:
-    using: black-widow-service
-  team:
-    - There Will Be Blood
-    - 12 Years a Slave
-    - The Lion King
-    - Paths of Glory
-- blueprint: Service
-  identifier: batman-service
-  title: batman-service
+    docsUrl: https://ducimus.biz
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Env
+  identifier: roy-orbison
+  title: roy-orbison
   properties:
-    latestVersion: 12.8.9
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/batman-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,n,0,q,6,7,7,w,w,y
   relations:
-    using: hawk-service
-  team:
-    - Unforgiven
-    - The Sound of Music
-    - The Lion King
-    - Once Upon a Time in the West
-- blueprint: Service
-  identifier: kitty-pryde-service
-  title: kitty-pryde-service
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: elvis-presley
+  title: elvis-presley
   properties:
-    latestVersion: 7.12.16
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/kitty-pryde-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/r,9,2,5,z,s,4,7,j,h
   relations:
-    using: moon-knight-service
-  team:
-    - Full Metal Jacket
-    - The Sound of Music
-    - The Lion King
-- blueprint: Service
-  identifier: elektra-service
-  title: elektra-service
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: mavis-staples
+  title: mavis-staples
   properties:
-    latestVersion: 2.13.1
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/elektra-service
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/h,r,w,5,h,r,z,t,4,8
   relations:
-    using: frog-thor-service
-  team:
-    - The Lion King
-    - Once Upon a Time in the West
-    - The Apartment
-    - Paths of Glory
-- blueprint: Service
-  identifier: black-lightning-service
-  title: black-lightning-service
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: art-garfunkel
+  title: art-garfunkel
   properties:
-    latestVersion: 17.12.18
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: TypeScript
-    repo: https://github.com/port-labs/black-lightning-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/w,2,v,u,w,b,y,7,s,n
   relations:
-    using: the-atom-service
-  team:
-    - The Apartment
-    - The Lion King
-    - Once Upon a Time in the West
-    - Paths of Glory
-- blueprint: Service
-  identifier: deadpool-service
-  title: deadpool-service
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: morrissey
+  title: morrissey
   properties:
-    latestVersion: 17.18.19
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/deadpool-service
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,4,k,d,3,1,6,b,u,z
   relations:
-    using: elektra-service
-  team:
-    - 12 Years a Slave
-    - Unforgiven
-    - There Will Be Blood
-    - The Apartment
-    - Paths of Glory
-- blueprint: Service
-  identifier: daredevil-service
-  title: daredevil-service
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: van-morrison
+  title: van-morrison
   properties:
-    latestVersion: 4.6.9
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/daredevil-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/l,l,8,b,7,6,3,5,i,e
   relations:
-    using: punisher-service
-  team:
-    - Once Upon a Time in the West
-    - Django Unchained
-    - Unforgiven
-- blueprint: Service
-  identifier: gamora-service
-  title: gamora-service
+    deployedAt: patacones
+  team: []
+- blueprint: Env
+  identifier: mick-jagger
+  title: mick-jagger
   properties:
-    latestVersion: 2.19.13
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/gamora-service
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/6,k,w,p,j,3,l,i,y,q
   relations:
-    using: iron-man-service
-  team:
-    - The Apartment
-    - There Will Be Blood
-- blueprint: Service
-  identifier: hawkgirl-service
-  title: hawkgirl-service
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: david-bowie
+  title: david-bowie
   properties:
-    latestVersion: 3.12.4
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/hawkgirl-service
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/w,m,5,l,1,4,7,8,g,7
   relations:
-    using: jade-service
-  team:
-    - There Will Be Blood
-    - Paths of Glory
-    - The Apartment
-- blueprint: Service
-  identifier: iron-man-service
-  title: iron-man-service
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: john-lee-hooker
+  title: john-lee-hooker
   properties:
-    latestVersion: 13.19.19
-    language: Python
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/iron-man-service
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/z,3,2,s,8,q,7,k,5,0
   relations:
-    using: storm-service
-  team:
-    - Paths of Glory
-    - The Sound of Music
-    - The Lion King
-    - The Apartment
-    - Once Upon a Time in the West
-- blueprint: Service
-  identifier: ice-service
-  title: ice-service
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: sam-moore
+  title: sam-moore
   properties:
-    latestVersion: 14.14.6
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/ice-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/g,3,z,v,l,z,5,2,9,5
   relations:
-    using: null
-  team:
-    - The Lion King
-    - Paths of Glory
-- blueprint: Service
-  identifier: the-flash-service
-  title: the-flash-service
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: levon-helm
+  title: levon-helm
   properties:
-    latestVersion: 15.14.10
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/the-flash-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,w,1,8,7,4,9,3,v,d
   relations:
-    using: null
-  team:
-    - The Apartment
-    - There Will Be Blood
-- blueprint: Service
-  identifier: she-hulk-service
-  title: she-hulk-service
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: dusty-springfield
+  title: dusty-springfield
   properties:
-    latestVersion: 4.11.6
-    language: Python
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/she-hulk-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,4,t,3,8,0,7,q,n,3
   relations:
-    using: lady-blackhawk-service
-  team:
-    - The Sound of Music
-- blueprint: Service
-  identifier: silver-sable-service
-  title: silver-sable-service
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: neil-young
+  title: neil-young
   properties:
-    latestVersion: 8.19.0
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/silver-sable-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,t,7,6,d,9,p,2,2,q
   relations:
-    using: spider-man-service
-  team:
-    - The Sound of Music
-- blueprint: Service
-  identifier: rogue-service
-  title: rogue-service
+    deployedAt: bocadillo-de-calamares
+  team: []
+- blueprint: Env
+  identifier: roger-daltrey
+  title: roger-daltrey
   properties:
-    latestVersion: 10.14.0
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/rogue-service
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,7,g,5,y,2,5,2,4,2
   relations:
-    using: x-23-service
-  team:
-    - 12 Years a Slave
-    - Once Upon a Time in the West
-- blueprint: Service
-  identifier: the-atom-service
-  title: the-atom-service
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: christina-aguilera
+  title: christina-aguilera
   properties:
-    latestVersion: 12.15.17
-    language: Python
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/the-atom-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/s,5,7,y,d,5,4,1,n,1
   relations:
-    using: gambit-service
-  team:
-    - The Apartment
-    - There Will Be Blood
-- blueprint: Service
-  identifier: frog-thor-service
-  title: frog-thor-service
+    deployedAt: patacones
+  team: []
+- blueprint: Env
+  identifier: donny-hathaway
+  title: donny-hathaway
   properties:
-    latestVersion: 10.20.20
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/frog-thor-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,g,9,6,f,5,3,f,5,5
   relations:
-    using: spider-man-service
-  team:
-    - Paths of Glory
-    - There Will Be Blood
-    - Unforgiven
-    - Once Upon a Time in the West
-    - Django Unchained
-- blueprint: Service
-  identifier: wonder-woman-service
-  title: wonder-woman-service
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: kurt-cobain
+  title: kurt-cobain
   properties:
-    latestVersion: 7.14.4
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/wonder-woman-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/7,m,i,a,6,h,2,c,0,4
   relations:
-    using: null
-  team:
-    - Unforgiven
-    - Paths of Glory
-    - Once Upon a Time in the West
-- blueprint: Service
-  identifier: hawkman-service
-  title: hawkman-service
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: frankie-valli
+  title: frankie-valli
   properties:
-    latestVersion: 9.9.10
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/hawkman-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,l,o,m,2,5,r,1,w,s
   relations:
-    using: iron-man-service
-  team:
-    - 12 Years a Slave
-    - The Sound of Music
-    - Paths of Glory
-    - Once Upon a Time in the West
-- blueprint: Service
-  identifier: doctor-strange-service
-  title: doctor-strange-service
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: bob-marley
+  title: bob-marley
   properties:
-    latestVersion: 10.4.12
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/doctor-strange-service
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/i,r,x,a,t,v,f,s,6,s
   relations:
-    using: wolverine-service
-  team:
-    - Unforgiven
-    - Django Unchained
-    - There Will Be Blood
-- blueprint: Service
-  identifier: black-widow-service
-  title: black-widow-service
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: marvin-gaye
+  title: marvin-gaye
   properties:
-    latestVersion: 12.3.16
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/black-widow-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,7,1,1,1,5,h,8,8,7
   relations:
-    using: silver-sable-service
-  team:
-    - Full Metal Jacket
-    - 12 Years a Slave
-    - The Lion King
-- blueprint: Service
-  identifier: hawk-service
-  title: hawk-service
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: bobby-blue-bland
+  title: bobby-blue-bland
   properties:
-    latestVersion: 11.2.1
-    language: Python
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/hawk-service
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/5,l,k,7,7,3,j,5,d,1
   relations:
-    using: captain-atom-service
-  team:
-    - There Will Be Blood
-    - Paths of Glory
-    - Once Upon a Time in the West
-- blueprint: Service
-  identifier: huntress-service
-  title: huntress-service
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: patsy-cline
+  title: patsy-cline
   properties:
-    latestVersion: 17.13.4
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: null
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/huntress-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/8,0,i,e,f,a,3,5,3,1
   relations:
-    using: null
-  team:
-    - Unforgiven
-    - Django Unchained
-    - The Sound of Music
-    - Full Metal Jacket
-- blueprint: Service
-  identifier: superman-service
-  title: superman-service
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: bjork
+  title: bjork
   properties:
-    latestVersion: 9.4.12
-    language: Python
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/superman-service
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/w,2,4,k,k,7,q,2,4,1
   relations:
-    using: iron-man-service
-  team:
-    - Django Unchained
-    - Unforgiven
-    - The Lion King
-    - 12 Years a Slave
-- blueprint: Service
-  identifier: black-panther-service
-  title: black-panther-service
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: bono
+  title: bono
   properties:
-    latestVersion: 4.19.10
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/black-panther-service
+    role: production
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,c,5,6,l,e,r,d,t,5
   relations:
-    using: the-flash-service
-  team:
-    - The Sound of Music
-    - There Will Be Blood
-    - The Apartment
-- blueprint: Service
-  identifier: wasp-service
-  title: wasp-service
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: don-henley
+  title: don-henley
   properties:
-    latestVersion: 11.14.18
-    language: JavaScript
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/wasp-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/e,2,7,7,c,1,9,a,e,5
   relations:
-    using: frog-thor-service
-  team:
-    - Unforgiven
-    - The Sound of Music
-- blueprint: Service
-  identifier: lady-blackhawk-service
-  title: lady-blackhawk-service
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: buddy-holly
+  title: buddy-holly
   properties:
-    latestVersion: 12.3.2
-    language: Python
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: null
-    repo: https://github.com/port-labs/lady-blackhawk-service
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/s,p,g,c,q,j,7,g,e,6
   relations:
-    using: wonder-woman-service
-  team:
-    - Once Upon a Time in the West
-    - Paths of Glory
-    - Unforgiven
-- blueprint: Service
-  identifier: martian-manhunter-service
-  title: martian-manhunter-service
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: chuck-berry
+  title: chuck-berry
   properties:
-    latestVersion: 12.12.14
-    language: Python
-    code-owners: null
-    one_hop_service_language: TypeScript
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/martian-manhunter-service
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/2,7,1,v,5,u,w,f,w,q
   relations:
-    using: thor-service
-  team:
-    - Full Metal Jacket
-    - Unforgiven
-    - Django Unchained
-    - The Lion King
-- blueprint: Service
-  identifier: x-23-service
-  title: x-23-service
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: michael-jackson
+  title: michael-jackson
   properties:
-    latestVersion: 17.20.2
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Ruby
-    repo: https://github.com/port-labs/x-23-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/b,5,o,7,5,1,9,0,8,9
   relations:
-    using: hawk-service
-  team:
-    - 12 Years a Slave
-    - The Lion King
-    - The Sound of Music
-    - The Apartment
-    - Paths of Glory
-- blueprint: Service
-  identifier: moon-knight-service
-  title: moon-knight-service
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: patti-la-belle
+  title: patti-la-belle
   properties:
-    latestVersion: 18.19.9
-    language: Python
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/moon-knight-service
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,b,s,x,x,h,8,0,0,4
   relations:
-    using: superman-service
-  team:
-    - The Sound of Music
-- blueprint: Service
-  identifier: jade-service
-  title: jade-service
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: dolly-parton
+  title: dolly-parton
   properties:
-    latestVersion: 4.18.14
-    language: Ruby
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/jade-service
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/g,1,v,1,1,o,q,p,i,p
   relations:
-    using: daredevil-service
-  team:
-    - There Will Be Blood
-    - 12 Years a Slave
-    - The Lion King
-- blueprint: Service
-  identifier: punisher-service
-  title: punisher-service
+    deployedAt: sopa-de-patas
+  team: []
+- blueprint: Env
+  identifier: al-green
+  title: al-green
   properties:
-    latestVersion: 9.2.20
-    language: Python
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/punisher-service
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,8,6,2,5,g,s,1,o,4
   relations:
-    using: jade-service
-  team:
-    - The Lion King
-    - Paths of Glory
-    - Unforgiven
-    - The Sound of Music
-- blueprint: Service
-  identifier: aquaman-service
-  title: aquaman-service
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: prince
+  title: prince
   properties:
-    latestVersion: 19.10.1
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: JavaScript
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/aquaman-service
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/3,b,k,g,o,3,r,8,f,q
   relations:
-    using: doctor-strange-service
-  team:
-    - Django Unchained
-    - The Lion King
-- blueprint: Service
-  identifier: cypher-service
-  title: cypher-service
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: iggy-pop
+  title: iggy-pop
   properties:
-    latestVersion: 6.12.12
-    language: Python
-    code-owners: null
-    one_hop_service_language: Ruby
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/cypher-service
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/0,n,5,6,2,5,t,7,3,2
   relations:
-    using: elektra-service
-  team:
-    - 12 Years a Slave
-    - Once Upon a Time in the West
-    - The Sound of Music
-    - The Apartment
-- blueprint: Service
-  identifier: gambit-service
-  title: gambit-service
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: curtis-mayfield
+  title: curtis-mayfield
   properties:
-    latestVersion: 11.13.19
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: Python
-    repo: https://github.com/port-labs/gambit-service
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/k,6,7,z,3,s,8,7,e,4
   relations:
-    using: superman-service
-  team:
-    - Once Upon a Time in the West
-    - Paths of Glory
-- blueprint: Service
-  identifier: blink-service
-  title: blink-service
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: toots-hibbert
+  title: toots-hibbert
   properties:
-    latestVersion: 10.19.5
-    language: TypeScript
-    code-owners: null
-    one_hop_service_language: Python
-    two_hops_service_language: JavaScript
-    repo: https://github.com/port-labs/blink-service
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,3,n,5,5,l,1,8,2,3
   relations:
-    using: lady-blackhawk-service
-  team:
-    - Full Metal Jacket
-    - There Will Be Blood
-    - Paths of Glory
-    - The Sound of Music
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: paul-rodgers
+  title: paul-rodgers
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,7,n,8,g,0,d,z,3,6
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: karen-carpenter
+  title: karen-carpenter
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/1,n,1,1,k,4,t,u,2,9
+  relations:
+    deployedAt: edamame
+  team: []
+- blueprint: Env
+  identifier: bonnie-raitt
+  title: bonnie-raitt
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,k,8,a,1,4,0,4,u,b
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: little-richard
+  title: little-richard
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/2,r,5,s,h,1,4,v,m,l
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: john-fogerty
+  title: john-fogerty
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/5,8,6,9,g,q,k,w,7,8
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: muddy-waters
+  title: muddy-waters
+  properties:
+    role: staging
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/7,t,3,z,d,5,4,h,7,j
+  relations:
+    deployedAt: caraotas-negras
+  team: []
+- blueprint: Env
+  identifier: sly-stone
+  title: sly-stone
+  properties:
+    role: staging
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/6,3,o,2,6,p,d,e,f,5
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: patti-smith
+  title: patti-smith
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/3,b,x,w,l,4,g,h,8,y
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: wilson-pickett
+  title: wilson-pickett
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/4,z,4,h,v,6,i,6,t,l
+  relations:
+    deployedAt: bocadillo-de-calamares
+  team: []
+- blueprint: Env
+  identifier: mariah-carey
+  title: mariah-carey
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,6,3,d,w,9,6,j,b,6
+  relations:
+    deployedAt: bondiola
+  team: []
+- blueprint: Env
+  identifier: robert-plant
+  title: robert-plant
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/6,r,2,s,0,3,z,0,q,4
+  relations:
+    deployedAt: llunca-de-gallina
+  team: []
+- blueprint: Env
+  identifier: lou-reed
+  title: lou-reed
+  properties:
+    role: dev
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/5,2,q,q,q,t,2,5,l,2
+  relations:
+    deployedAt: donburi
+  team: []
+- blueprint: Env
+  identifier: howlin-wolf
+  title: howlin-wolf
+  properties:
+    role: production
+    nightlyShutdown: false
+    slackChannelUrl: https://getport.slack.com/archives/y,q,n,3,4,a,d,9,u,9
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []
+- blueprint: Env
+  identifier: thom-yorke
+  title: thom-yorke
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/n,7,4,a,7,3,4,5,h,j
+  relations:
+    deployedAt: milanesas
+  team: []
+- blueprint: Env
+  identifier: jackie-wilson
+  title: jackie-wilson
+  properties:
+    role: dev
+    nightlyShutdown: true
+    slackChannelUrl: https://getport.slack.com/archives/h,o,3,b,5,c,f,7,6,c
+  relations:
+    deployedAt: boquerones-al-vinagre
+  team: []

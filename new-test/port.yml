@@ -5,6 +5,7 @@
     packageManager: Nuget
   relations: {}
   team: []
+  
 - blueprint: Package
   identifier: nissan-fiesta
   properties:

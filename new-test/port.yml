@@ -3904,3 +3904,108 @@
   relations:
     versionOf: rolls-royce-xc-90
   team: []
+- blueprint: Package
+  identifier: smart-focus
+  properties:
+    docsUrl: https://et.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-fiesta
+  properties:
+    docsUrl: https://labore.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mazda-challenger
+  properties:
+    docsUrl: http://labore.io
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: hyundai-roadster
+  properties:
+    docsUrl: http://asperiores.info
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-1
+  properties:
+    docsUrl: http://aliquid.com
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-challenger
+  properties:
+    docsUrl: http://rerum.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: kia-spyder
+  properties:
+    docsUrl: https://sit.name
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: mini-explorer
+  properties:
+    docsUrl: https://sunt.biz
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: bugatti-corvette
+  properties:
+    docsUrl: https://id.dev
+    packageManager: Yarn
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: chevrolet-malibu
+  properties:
+    docsUrl: https://sequi.name
+    packageManager: PIP
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: ford-camry
+  properties:
+    docsUrl: http://doloribus.org
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: nissan-spyder
+  properties:
+    docsUrl: https://id.dev
+    packageManager: Nuget
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: toyota-volt
+  properties:
+    docsUrl: https://labore.dev
+    packageManager: NPM
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: lamborghini-prius
+  properties:
+    docsUrl: http://beatae.org
+    packageManager: Maven
+  relations: {}
+  team: []
+- blueprint: Package
+  identifier: rolls-royce-xc-90
+  properties:
+    docsUrl: https://ducimus.biz
+    packageManager: Maven
+  relations: {}
+  team: []

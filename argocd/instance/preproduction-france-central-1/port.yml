@@ -3,7 +3,7 @@
   blueprint: gittest
   properties: {}
   relations: {}
-- identifier: inner-inner-a
+- identifier: inner-inner-b
   title: Some Title
   blueprint: gittest
   properties: {}
